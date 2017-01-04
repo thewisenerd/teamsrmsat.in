@@ -1,0 +1,82 @@
+extends ../default
+
+block head-title
+    title Astrionics Division — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('astrionics')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab Division &mdash; Astrionics
+                p.section-text
+                    | Deals with the design of electronic and radio systems for the Spacecraft.
+    .page-wrapper.container-fluid.page-section--content
+        .container.page-container.page-container-type-1
+            p.section-heading Telemetry, Tracking &amp; Command Subsystem (TTC)
+
+            p.section-text
+                | The Telemetry, Tracking and Command (TT&amp;C) or communication subsystem
+                | of the SRMSAT&nbsp;-&nbsp;2 provides the interface between the spacecraft
+                | and ground systems. Payload mission data and spacecraft housekeeping data pass
+                | from the spacecraft through this system to the operations center. Operator
+                | commands are also passed to the spacecraft through this subsystem to control
+                | the spacecraft and to operate the payload. As part of carrier tracking,
+                | most spacecraft TT&amp;C subsystems generate a downlink RF signal that is
+                | phase coherent to the uplink signal.
+                | This two-way coherent mode allows measuring Doppler shift from which range rate
+                | or line of sight velocity between the spacecraft and tracking antenna is calculated.
+                | This knowledge allows operators to scan fewer frequencies and thus, acquire spacecraft
+                | more quickly. This Doppler ranging operation can also be used for navigation.
+
+            p.section-text
+                | The functions of the TTC subsystem include Carrier Tracking, Command Reception and Detection,
+                | Ranging, and some subsystem operations.
+
+        .container.page-container.page-container-type-5
+            img.u-img-responsive(src="/assets/images/ttc-visibility-analysis-sim.png" alt="Visibility analysis simulation showing the radiation pattern of the antenna.")
+            .img-caption Visibility analysis simulation showing the radiation pattern of the antenna.
+
+
+        .container.page-container.page-container-type-1
+            p.section-heading Electrical Power System (EPS)
+
+            p.section-text
+                | The Electrical Power System ensures that a continuous source of electrical power
+                | is present to the spacecraft loads throughout the mission duration.
+                | The subsystem generates power through the solar panels on the spacecraft and stores
+                | it in the battery, and supplies the stored power when necessary. EPS uses regulators
+                | to ensure that power is supplied at the rated voltages for components. All power
+                | lines are monitored by voltage and current sensors and protection is provided for
+                | loads against damage from electrical fault. EPS also provides command and telemetry
+                | capability for EPS health and status, as well as control by ground station.
+
+        .container.page-container.page-container-type-1
+            p.section-heading On-Board Computer (OBC)
+
+            p.section-text
+                | On-Board Computer (OBC) is figuratively the brain to SRMSAT-2.
+                | It controls all the other subsystems of the satellite. It collects,
+                | analyses, and takes necessary actions from the information collected
+                | from different parts of the satellite. This is done with the help of
+                | a software architecture which provides a complete functional overview
+                | of the OBC. It is responsible for data communication between the satellite
+                | and the ground station. It collects the telemetry data and then encodes
+                | it for transmitting it to the ground station. This is achieved by using
+                | recommended standards like CCSDS which increases inter-operability and
+                | efficiency. The on-board software is developed around ATSAMA5D35-CM,
+                | a microcontroller which plays a vital role in the functioning of the satellite.
+                | Error Detection and Correction techniques like Reed Solomon and Hamming Codes
+                | are used to handle memory corruption issues caused by the rough
+                | and harsh space environment.
+
+block page-scripts

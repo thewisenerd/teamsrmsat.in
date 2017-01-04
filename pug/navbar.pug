@@ -1,0 +1,65 @@
+mixin navbar(page)
+    nav.navbar.navbar--fixed
+        .container
+            input#navbar-toggle-cbox(type='checkbox')
+            .navbar-header
+                label.toggle(for='navbar-toggle-cbox'): span.burger-icon
+                if (page == 'home')
+                    .navbar-brand: a Team SRMSAT
+                else
+                    .navbar-brand: a(href='/') Team SRMSAT
+            .navbar-collapse
+                ul
+                    if (page == 'about')
+                        li: a.u-a-active About
+                    else
+                        li: a(href='/#about') About
+                    li.dropdown-toggle
+                        if (page == 'sat1')
+                            a.u-a-active Missions #[span.fa.fa-caret-down]
+                        else if (page == 'sat2')
+                            a.u-a-active Missions #[span.fa.fa-caret-down]
+                        else
+                            a Missions #[span.fa.fa-caret-down]
+                        ul.dropdown
+                            if (page == 'sat1')
+                                li: a.u-a-active SRMSAT
+                            else
+                                li: a(href='/srmsat/') SRMSAT
+                            if (page == 'sat2')
+                                li: a.u-a-active SRMSAT - 2
+                            else
+                                li: a(href='/srmsat2/') SRMSAT - 2
+                    li.dropdown-toggle
+                        if (page == 'sfd')
+                            a.u-a-active Divisions #[span.fa.fa-caret-down]
+                        else if (page == 'astrionics')
+                            a.u-a-active Divisions #[span.fa.fa-caret-down]
+                        else if (page == 'mechanical')
+                            a.u-a-active Divisions #[span.fa.fa-caret-down]
+                        else
+                            a Divisions #[span.fa.fa-caret-down]
+                        ul.dropdown
+                            if (page == 'sfd')
+                                li: a.u-a-active Spaceflight Dynamics
+                            else
+                                li: a(href='/spaceflightdynamics/') Spaceflight Dynamics
+                            if (page == 'astrionics')
+                                li: a.u-a-active Astrionics
+                            else
+                                li: a(href='/astrionics/') Astrionics
+                            if (page == 'mechanical')
+                                li: a.u-a-active Mechanical Systems
+                            else
+                                li: a(href='/mechanicalsystems/') Mechanical Systems
+                    if (page == 'team')
+                        li: a.u-a-active Team
+                    else
+                        li: a(href='/team/') Team
+                    if (page == 'publications')
+                        li: a.u-a-active Publications
+                    else
+                        li: a(href='/publications/') Publications
+                    li: a(href='https://www.facebook.com/srmsat2014' target='_blank')
+                        span.fa.fa-facebook-square
+                        span.hidden-md.hidden-lg &nbsp; Facebook

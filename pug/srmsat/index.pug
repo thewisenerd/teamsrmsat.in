@@ -1,0 +1,135 @@
+extends ../default
+
+block head-title
+    title SRMSAT — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('sat1')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab SRMSAT
+                //- p.section-text Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    .page-wrapper.container-fluid.page-section--content
+
+        .container.page-container.page-container-type-5
+            img.u-img-responsive(src="/assets/images/srmsat-1-pslv-c18-focus-hd.jpg" alt="SRMSAT being loaded on the PSLV C-18")
+            .img-caption SRMSAT being loaded on the PSLV C-18
+
+        .container.page-container.page-container-type-0
+            p.section-text
+                | The SRMSAT is the first mission of Team SRMSAT. The design is made robust
+                | enough to support different payload and it is also the mission&rsquo;s aim to make the
+                | SRMSAT as a nanosatellite bus to support future missions. The satellite&rsquo;s
+                | scientific mission was to monitor greenhouse gases above the Indian subcontinent.
+                | The development of SRMSAT cost around 1.5 crore rupees. SRMSAT was launched aboard
+                | PSLV&nbsp;C-18 at Indian Space Research Organisation (ISRO)&rsquo;s Satish Dhawan Space
+                | Centre at Sriharikota in October 2011. The launch was a multi-payload mission shared
+                | with Megha-Tropiques, VesselSat-1 and Jugnu.
+
+        .container.page-container.page-container-type-3
+            p.section-heading Specifications
+
+            .sm-pull-right.sm-pull-right--50
+                img.u-img-responsive(src="/assets/images/srmsat-1-model-presentation.jpg" alt="Students explain the features of SRMSAT")
+                .img-caption Students explain the features of SRMSAT to university president P. Sathyanarayanan and Chancellor T.R. Pachamuthu in Chennai.
+
+            p.section-text
+                | SRMSAT weight 10.4 kilograms and measures 28cm X 28cm X 28cm.
+                | The mission has a design life of one year, but is still functional after more than 5 years.
+                br
+                | SRMSAT is controlled by a 28.8 MHz Atmel microcontroller. Communication is via
+                | Ultra high frequency (UHF), with a downlink at 437.5 MHz providing a data rate
+                | of 2.4 kbit/s and an uplink at 145.9 MHz with a 1 kbit/s data rate. Attitude control
+                | is via solar cell management system (SCDM), an on-board magnetometer and Global Positioning
+                | System (GPS) receiver that provide data for magnetorquer coils which interact with the
+                | Earth&rsquo;s magnetosphere to change the satellite&rsquo;s orientation.
+
+            .u-clearfix
+
+        .container.page-container.page-container-type-1
+            p.section-heading Parameters
+
+            .section-text.section-table
+                table.parameters
+                    tr
+                        td NORAD
+                        td 37841
+                    tr
+                        td COSPAR designator
+                        td 2011-058-D
+                    tr
+                        td Inclination
+                        td 19.970
+                    tr
+                        td RA of A. Node
+                        td 106.259
+                    tr
+                        td Eccentricity
+                        td 0.0012093
+                    tr
+                        td Argument of Perigee
+                        td 99.676
+                    tr
+                        td Revs per day
+                        td 14.10196386
+                    tr
+                        td Period
+                        td 1h 42m 06s (102.10 min)
+                    tr
+                        td Semi-major axis
+                        td 7 237 km
+                    tr
+                        td Perigee x Apogee
+                        td 850 x 867 km
+                    tr
+                        td BStar (drag term)
+                        td 0.000000000 1/ER
+                    tr
+                        td Mean anomaly
+                        td 260.509
+                    tr
+                        td Uplink (MHz)
+                        td 145.900
+                    tr
+                        td Downlink (MHz)
+                        td 437.500
+                    tr
+                        td Beacon (MHz)
+                        td 437.425
+                    tr
+                        td Mode
+                        td CW
+                    tr
+                        td Call sign
+                        td SRMVU
+                    tr
+                        td Status
+                        td Active
+
+        .container.page-container.page-container-type-3
+            .sm-pull-right.sm-pull-right--30.u-text-center
+                audio(controls)
+                    source(src='/assets/audio/srmsat-1-morse.aac' type='audio/aac')
+                    source(src='/assets/audio/srmsat-1-morse.mp4' type='audio/mp4')
+                    source(src='/assets/audio/srmsat-1-morse.webm' type='audio/webm')
+                    | Sorry; your browser doesn't support audio. You can download the file by #[a(href='/assets/audio/srmsat-1-morse.aac') clicking here].
+                .img-caption To hear SRMSAT&rsquo;s transmission in morse code, click on the play button or #[a(href='/assets/audio/srmsat-1-morse.aac') download here].
+
+            p.section-text To track the satellite&rsquo;s real time position, #[a(href='http://www.n2yo.com/satellite/?s=37841' target='_blank') click here].
+
+            .u-clearfix
+
+
+
+block page-scripts

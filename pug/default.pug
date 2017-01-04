@@ -1,0 +1,68 @@
+doctype html
+
+html(lang='en')
+    head
+
+        //- meta fixes
+        meta(charset='utf-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        meta(name='viewport', content='width=device-width, initial-scale=1')
+
+        //- title
+        block head-title
+            title Team SRMSAT - Default
+
+        //- favicons
+        link(rel='apple-touch-icon' sizes='180x180' href='/assets/favicon/apple-touch-icon.png')
+        link(rel='icon' type='image/png' href='/assets/favicon/favicon-32x32.png' sizes='32x32')
+        link(rel='icon' type='image/png' href='/assets/favicon/favicon-16x16.png' sizes='16x16')
+        link(rel='mask-icon' href='/assets/favicon/safari-pinned-tab.svg')
+        link(rel='shortcut icon' href='favicon.ico')
+        meta(name='msapplication-config' content='browserconfig.xml')
+        meta(name='theme-color' content='#ffffff')
+
+        //- manifest
+        link(rel='manifest' href='manifest.json')
+
+        //- preloads + prefetches
+        link(rel="preload" href="/assets/css/default.css" as="style")
+        link(rel="preload" href="/assets/css/type.css" as="style")
+
+        link(rel="prefetch" href="/assets/css/default.css")
+        link(rel="prefetch" href="/assets/css/type.css")
+
+        block head-prefetch
+
+        //- css
+        link(rel="stylesheet" href="/assets/css/default.css")
+        link(rel="stylesheet" href="/assets/css/type.css")
+
+        block page-css
+
+        block page-js
+
+        noscript
+            link(rel="stylesheet" href="/assets/css/noscript.css")
+
+    body
+        .spinner-mask
+            div.sk-double-bounce
+                div.sk-child.sk-double-bounce1
+                div.sk-child.sk-double-bounce2
+
+        include navbar
+        block page-navbar
+            +navbar()
+
+        .gaia-wrapper
+            block page-wrapper
+                .page-wrapper.container-fluid
+                    .u-text-center hello world!
+
+        include footer
+
+        //- scripts
+        script
+            include ../js/common.min.js
+
+        block page-scripts

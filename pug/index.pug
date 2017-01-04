@@ -1,0 +1,205 @@
+extends default
+
+block head-title
+    title Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/homepage.css')
+
+block page-js
+
+block page-navbar
+    +navbar('home')
+
+block page-wrapper
+    .page-wrapper.container-fluid.container-intro
+        .container.container--intro
+            .row
+                .xs-twelve.sm-twelve.md-push-by-eight.md-four.column.u-text-center
+                    img.u-img-responsive(src='/assets/images/sat-render.gif' alt='Render of Satellite Design' title='Render of Satellite Design')
+                .xs-twelve.sm-twelve.md-pull-by-four.md-eight.column
+                    p.lead SRMSAT&nbsp;-&nbsp;2: India&rsquo;s first University class micro-satellite on a mission to the moon!
+                    ul
+                        li Primary objective of SRMSAT&nbsp;-&nbsp;2 is to attain a stable lunar orbit achieved by low energy transfer exploiting Weak Stability Boundary Theory.
+                        li It is a technological demonstration to demonstrate the capability of COTS components beyond the regimes of earth.
+                        li The project&rsquo;s preliminary design is currently under review by Indian Space Research Organization (ISRO).
+                    p.p-btn.u-text-center
+                        a.btn.btn--default.btn--outline.btn--lg(href='/srmsat2/') Learn More
+
+    a(name='about')
+    .page-wrapper.container-fluid.container--content.container--content-odd
+        .container
+            .row
+                .xs-twelve.sm-six.md-six.lg-five.column
+                    p.section-heading.u-heading-slab.u-text-left About Us
+                    p.section-text.u-text-justify
+                        | Team SRMSAT began as a group of space enthusiast students with an idea to make a nanosatellite in the university.
+                        | Their idea has been supported by the research department at SRM University, and the team officially started working
+                        | on the nanosatellite mission, The SRMSAT. They built the satellite and it was launched aboard PSLV&nbsp;C-18 in October 2011.
+                        | Continuing their legacy, the team, with new members, started the SRMSAT&nbsp;-&nbsp;2, a remarkably challenging mission,
+                        | pushing the ambits of small satellites beyond the regimes of the earth.
+                    p.section-text.u-text-justify
+                        | Team SRMSAT is part of Space Systems Laboratory &mdash; SRM University.
+                    //- p.section-link.u-text-right
+                    //-     a.btn.btn--default.btn--dark(href='/about/' title='Read More >') Read More &gt;
+                .xs-twelve.sm-six.md-six.lg-offset-by-two.lg-five.column
+                    img.u-img-responsive(src='/assets/images/final-logo-transparent.png' alt='Team SRMSAT Logo' title='Team SRMSAT Logo')
+
+    .page-wrapper.container-fluid.container--content.container--content-even
+        .container
+            .row
+                .xs-twelve.sm-six.md-six.lg-five.column
+                    img.u-img-responsive(src='/assets/images/srmsat-1-logo.jpg' alt='SRMSAT Logo' title='SRMSAT Logo')
+                .xs-twelve.sm-six.md-six.lg-offset-by-two.lg-five.column
+                    p.section-heading.u-heading-slab.u-text-right SRMSAT&nbsp;-&nbsp;1
+                    p.section-text.u-text-justify
+                        | SRMSAT is a technology demonstration and earth observation satellite which is operated by SRM university.
+                        | The satellite&rsquo;s scientific mission was to monitor greenhouse gases above the Indian subcontinent.
+                        | It was launched aboard PSLV&nbsp;C-18 at Indian Space Research Organisation (ISRO)&rsquo;s Satish Dhawan Space Centre
+                        | at Sriharikota in October 2011. The launch was a multi-payload mission shared with Megha-Tropiques, VesselSat-1 and Jugnu.
+                    p.section-link.u-text-left
+                        a.btn.btn--default.btn--dark(href='/srmsat/' title='Read More >') Read More &gt;
+
+    .page-wrapper.container-fluid.container--content.container--content-odd
+        .container.members
+            .row
+                .xs-twelve
+                    p.section-heading.u-heading-slab.u-text-center Our Team
+            .row
+                .xs-twelve.sm-twelve.md-four.md-push-by-four.lg-six.lg-push-by-three.column
+                    p
+                        | Team SRMSAT now consists of a diverse set of undergraduate students from various disciplines of
+                        | Engineering and Technology collaborating on the mission design of SRMSAT&nbsp;-&nbsp;2.
+                    p
+                        | The team is led by two mentors &mdash; Prof.&nbsp;D.&nbsp;Narayana&nbsp;Rao, and Mr.&nbsp;Loganathan&nbsp;Muthuswamy.
+
+                //- member begin - mentor 1
+                .xs-twelve.sm-six.md-four.md-pull-by-four.lg-three.lg-pull-by-six.column.member-card.mentor-card
+                    img(src='/assets/images/profile/narayanarao.jpg' alt='Photo of Prof. D. Narayana Rao')
+                    .member-info
+                        p.name Prof. D. Narayana Rao
+                        p.desg Director &mdash; Research at SRM University
+                        .links
+                            a(href='https://in.linkedin.com/in/prof-d-narayana-rao-24a97696' target='_blank' title='LinkedIn')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            //- a(href='' title='ResearchGate')
+                            //-     .fa.fa-researchgate-square
+                //- member end
+
+                //- member begin - mentor 2
+                .xs-twelve.sm-six.md-four.lg-three.column.member-card.mentor-card
+                    img(src='/assets/images/profile/muthuswamy.jpg' alt='Photo of Loganathan Muthuswamy')
+                    .member-info
+                        p.name Loganathan&nbsp;Muthuswamy
+                        p.desg Project Architect &mdash; Space Systems
+                        .links
+                            a(href='https://in.linkedin.com/in/loganathan-muthusamy-aa694b13' target='_blank' title='LinkedIn')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            a(href='https://www.researchgate.net/profile/Loganathan_Muthuswamy6' target='_blank' title='ResearchGate')
+                                .fa.fa-researchgate-square
+                //- member end
+
+            .row
+                p.u-text-center.u-pad-half-rem The principal members of Team SRMSAT are:
+
+            .row.members-row
+                //- member begin - t1
+                .xs-twelve.sm-six.md-four.column.member-card
+                    img(src='/assets/images/profile/akash-pp.jpg' alt='Photo of Akash Ratheesh')
+                    .member-info
+                        p.name Akash Ratheesh
+                        p.desg Systems Engineer
+                        p.about
+                        .links
+                            a(href='https://in.linkedin.com/in/akash-ratheesh-882a75a1' title='LinkedIn' target='_blank')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            a(href='https://www.researchgate.net/profile/Akash_Ratheesh' title='ResearchGate' target='_blank')
+                                .fa.fa-researchgate-square
+                //- member end
+
+                //- member begin - t2
+                .xs-twelve.sm-six.md-four.column.member-card
+                    img(src='/assets/images/profile/kuldeep.jpg' alt='Photo of Kuldeep Rambhai Barad')
+                    .member-info
+                        p.name Kuldeep Rambhai Barad
+                        p.desg Space Flight Dynamics
+                        p.about
+                        .links
+                            a(href='https://in.linkedin.com/in/kuldeepbarad' title='LinkedIn' target='_blank')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            a(href='https://www.researchgate.net/profile/Kuldeep_Barad' title='ResearchGate' target='_blank')
+                                .fa.fa-researchgate-square
+                //- member end
+
+                //- member begin - t3
+                .xs-twelve.sm-six.md-four.column.member-card
+                    img(src='/assets/images/profile/harsha-pp.jpg' alt='Photo of Sri Harsha Pavuluri')
+                    .member-info
+                        p.name Sri Harsha Pavuluri
+                        p.desg Astrionics
+                        p.about
+                        .links
+                            a(href='https://in.linkedin.com/in/sri-harsha-pavuluri-25ab47a1' title='LinkedIn' target='_blank')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            a(href='https://www.researchgate.net/profile/Sri_Harsha_Pavuluri' title='ResearchGate' target='_blank')
+                                .fa.fa-researchgate-square
+                //- member end
+
+                //- member begin - t4
+                .xs-twelve.sm-six.md-four.column.member-card
+                    img(src='/assets/images/profile/kartik.jpg' alt='Photo of Kartik Naik')
+                    .member-info
+                        p.name Kartik Naik
+                        p.desg Mechanical Systems
+                        p.about
+                        .links
+                            a(href='https://in.linkedin.com/in/kartik-naik' title='LinkedIn' target='_blank')
+                                .fa.fa-linkedin-square
+                            //- a(href='#' title='e-Mail')
+                            //-     .fa.fa-envelope
+                            a(href='https://www.researchgate.net/profile/Kartik_Naik' title='ResearchGate' target='_blank')
+                                .fa.fa-researchgate-square
+                //- member end
+
+                //- member begin - t5
+                .xs-twelve.sm-six.md-four.column.member-card
+                    img(src='/assets/images/profile/subham-pp.jpg' alt='Photo of Subham Kumar Gupta')
+                    .member-info
+                        p.name Subham Kumar Gupta
+                        p.desg Mechanical Systems
+                        p.about
+                        .links
+                            a(href='https://in.linkedin.com/in/subhamgupta' title='LinkedIn' target='_blank')
+                                .fa.fa-linkedin-square
+                            a(href='https://www.researchgate.net/profile/Subham_Gupta2' title='ResearchGate' target='_blank')
+                                .fa.fa-researchgate-square
+                //- member end
+
+            .row.u-text-right.u-sm-text-center
+                .container-fluid
+                    a.btn.btn--default.btn--dark(href='/team/' title='View All Members >') View All Members &gt;
+        //- container.members
+    //- container-fluid
+
+    .page-wrapper.container-fluid.container--vision
+        .container
+            .row.u-text-center
+                img.u-img-responsive(src='/assets/images/final-logo-transparent.png' alt='Team SRMSAT Logo')
+            .row.u-text-center
+                p Our vision is to promote the development of small satellite in universities, while pursuing space science research and planetary exploration.
+
+block page-scripts
+    script
+        include ../js/root.min.js

@@ -1,0 +1,31 @@
+Character 6: Satellite Mode
+1. P - Sensing Mode
+2. X - Communication Mode
+3. C - Normal Mode
+4. Z - Detumbling Mode
+
+Character 7: Magnetometer Status
+1. C - On
+2. P - Off
+3. X - Error
+4. Z - Ready
+
+Character 8: GPS Status
+
+Character 9: Payload Status
+
+Character 10: Temperature Status
+1. C - Less then 0 degree celcius
+2. P - 0 to 10 degree celcius
+3. X - 10 to 20 degree celcius
+4. Z - 20 to 30 degree celcius
+5. 6 - 30 to 40 degrees celcius
+6. 4 - Above 40 degrees celcius
+
+Character 11: Battery Status
+1. C - Less than 7 V
+2. P - Between 7V and 7.3V
+3. X - Between 7.3V and 7.6V
+4. Z - Between 7.6V and 7.9V
+5. 6 - Between 7.9V and 8.1V
+6. 4 - Larger then 8.1V

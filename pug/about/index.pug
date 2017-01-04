@@ -1,0 +1,23 @@
+extends ../default
+
+block head-title
+    title About — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('about')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab About Us
+                p.section-text Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+block page-scripts

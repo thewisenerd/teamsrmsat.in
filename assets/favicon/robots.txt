@@ -1,0 +1,4 @@
+# *.teamsrmsat.in robots.txt
+# ha! man walked on the moon before rovers did.
+User-agent: *
+Disallow: /assets/images/profile/

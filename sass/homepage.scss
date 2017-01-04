@@ -1,0 +1,237 @@
+/*! MIT License | thewisenerd (thewisenerd@protonmail.com) */
+
+@import 'generic/variables';
+@import 'objects/membercard';
+
+@media (max-width: 1280px) {
+    html {
+        background : url(/assets/images/hd-bg.jpg) no-repeat center center fixed;
+    }
+}
+
+@media (min-width: 1281px) {
+    html {
+        background : url(/assets/images/fhd-bg.jpg) no-repeat center center fixed;
+    }
+}
+
+html {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    background: transparent;
+}
+
+.gaia-wrapper {
+    background: transparent;
+}
+
+.container--intro {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    color: $color-white;
+
+    p {
+        margin: 0px;
+    }
+
+    p.p-btn {
+        margin: 2em 0;
+    }
+
+    p.lead {
+        font-size: $fontSize-largest--em;
+        font-weight: $fontWeight-normal;
+        letter-spacing: $letterSpacing-tight;
+
+        line-height: $lineHeight-baseSans;
+
+        font-family: $fontRaleway;
+        font-weight: bold;
+    }
+
+    ul {
+        li {
+            font-size: (($fontSize-base--emu * 1.1) + em);
+            font-weight: $fontWeight-normal;
+            letter-spacing: $letterSpacing-normal;
+
+            line-height: $lineHeight-base;
+
+            font-family: $fontMerriweather;
+            font-weight: normal;
+        }
+    }
+
+    @media (max-width: $screen-sm-max) {
+        .u-img-responsive {
+            width: 50%;
+        }
+    }
+}
+
+.container--content {
+    color: $color-black;
+    padding: 50px 0;
+
+    p.section-heading {
+        font-size: $fontSize-larger--em;
+
+        border-bottom: 1px solid $black;
+    }
+
+    p.section-text {
+        font-size: $fontSize-base--em;
+        font-family: $fontMerriweather;
+    }
+
+    &.container--content-odd {
+        background-color: $color-grey--100;
+    }
+
+    &.container--content-even {
+        background-color: $color-white;
+        border-top: 1px solid $color-grey--300;
+        border-bottom: 1px solid $color-grey--300;
+    }
+
+
+    .container.members {
+        font-family: $fontMerriweather;
+        font-size: $fontSize-base--em;
+
+        p.section-heading {
+            margin: 0 auto;
+            margin-bottom: 1em;
+
+            max-width: (100% * 2 / 3);
+        }
+
+        .u-pad-half-rem {
+            padding: 0.5em;
+        }
+
+        .members-row {
+            text-align: center;
+
+            [class*='column'] {
+                float: none;
+                position: relative; // added by twn
+                display: inline-block;
+
+                vertical-align: top;
+            }
+
+            .member-card {
+                margin-left: -1em; // todo: this is hack fix. remove later.
+            }
+
+            @media screen and (min-width: 1200px) {
+                .member-card {
+                    width: (100% / 5);
+                }
+            }
+        }
+
+    }
+}
+
+.container--vision {
+    color: $color-white;
+    padding: 50px 0;
+
+    font-family: $fontRaleway;
+    font-weight: $fontRaleway-bold;
+    font-size: $fontSize-larger--em;
+
+    background: rgba(0,0,0, 0.2);
+
+    &:hover {
+        background: rgba(0,0,0, 0.4);
+    }
+
+
+    img {
+        width: ($grid--column-width * 6);
+    }
+
+    @media (min-width: $screen-xs) {
+        img {
+            width: ($grid--column-width * 4);
+            height: auto;
+        }
+    }
+
+    @media (min-width: $screen-sm) {
+        img {
+            width: ($grid--column-width * 3);
+        }
+    }
+
+    @media (min-width: $screen-md) {
+        img {
+            width: ($grid--column-width * 3);
+        }
+    }
+
+    @media (min-width: $screen-lg) {
+        img {
+            width: ($grid--column-width * 2);
+        }
+    }
+}
+
+.btn {
+    font-family: $fontRaleway;
+    font-size: $fontSize-small--em;
+    font-weight: normal;
+
+    letter-spacing: $letterSpacing-tight;
+
+    &:hover {
+        font-weight: bold;
+        background: $color-white--a30;
+    }
+
+    &.btn--outline {
+        border: 2px solid #fff;
+    }
+    &.btn--outline:hover {
+        box-shadow: 0 0 20px $color-white--a30 !important;
+    }
+
+    &.btn--default {
+        padding: (($fontSize-base--emu / 4) + em) (($fontSize-base--emu / 2) + em);
+    }
+
+    &.btn--lg {
+        margin-top: (($fontSize-base--emu) + em);
+        font-size: $fontSize-base--em;
+        padding: (($fontSize-base--emu / 2) + em) (($fontSize-base--emu / 1) + em);
+    }
+
+    &.btn--dark {
+        background: $color-black;
+    }
+}
+
+a.btn {
+    &,
+    &:link,
+    &:hover,
+    &:visited,
+    &:active {
+        color: $color-white--a70;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: $fontRaleway-normal;
+    }
+
+    &:hover {
+        color: $color-white;
+    }
+}

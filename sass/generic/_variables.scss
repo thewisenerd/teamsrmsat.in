@@ -1,0 +1,181 @@
+//-[ imports ]------------------------------------------------------------------
+@import 'generic/colors';
+
+//-[ debug ]--------------------------------------------------------------------
+$debug: 0;
+
+//-[ colors ]-------------------------------------------------------------------
+$color-black: $grey-900;
+$color-white: $grey-50;
+
+$color-white--a70: $white-a70;
+$color-white--a30: $white-a30;
+
+$color-grey--100:  $grey-100;
+$color-grey--300:  $grey-300;
+$color-grey--a100: $grey-A100;
+$color-black--a80: $black-a80;
+
+//-[ fonts ]--------------------------------------------------------------------
+$font--default-sans-1: -apple-system, BlinkMacSystemFont;
+$font--default-sans-2: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans";
+$font--default-sans-3: "Helvetica Neue", sans-serif;
+
+$font--default-sans: $font--default-sans-1, $font--default-sans-2, $font--default-sans-3;
+
+$font--default-serif-1: Georgia, Cambria;
+$font--default-serif-2: "Times New Roman", Times;
+$font--default-serif-3: serif;
+$font--default-serif: $font--default-serif-1, $font--default-serif-2, $font--default-serif-3;
+
+$fontSize-micro         : 11px;
+$fontSize-smallest      : 12px;
+$fontSize-smaller       : 14px;
+$fontSize-small         : 16px;
+$fontSize-base          : 18px;
+$fontSize-large         : 24px; // collectionHeader
+$fontSize-larger        : 32px;
+$fontSize-largest       : 44px;
+$fontSize-jumbo         : 50px;
+
+$fontSize-micro--emu     : ($fontSize-micro    / $fontSize-base);
+$fontSize-smallest--emu  : ($fontSize-smallest / $fontSize-base);
+$fontSize-smaller--emu   : ($fontSize-smaller  / $fontSize-base);
+$fontSize-small--emu     : ($fontSize-small    / $fontSize-base);
+$fontSize-base--emu      : ($fontSize-base     / $fontSize-base);
+$fontSize-large--emu     : ($fontSize-large    / $fontSize-base);
+$fontSize-larger--emu    : ($fontSize-larger   / $fontSize-base);
+$fontSize-largest--emu   : ($fontSize-largest  / $fontSize-base);
+$fontSize-jumbo--emu     : ($fontSize-jumbo    / $fontSize-base);
+
+$fontSize-micro--em     : $fontSize-micro--emu    + em;
+$fontSize-smallest--em  : $fontSize-smallest--emu + em;
+$fontSize-smaller--em   : $fontSize-smaller--emu  + em;
+$fontSize-small--em     : $fontSize-small--emu    + em;
+$fontSize-base--em      : $fontSize-base--emu     + em;
+$fontSize-large--em     : $fontSize-large--emu    + em;
+$fontSize-larger--em    : $fontSize-larger--emu   + em;
+$fontSize-largest--em   : $fontSize-largest--emu  + em;
+$fontSize-jumbo--em     : $fontSize-jumbo--emu    + em;
+
+$lineHeight-tightest    : 1;
+$lineHeight-tighter     : 1.1;
+$lineHeight-tight       : 1.2;
+$lineHeight-baseSans    : 1.3;
+$lineHeight-base        : 1.4;
+$lineHeight-loose       : 1.6;
+
+// $letterSpacing-tightest : ;
+$letterSpacing-tighter  : -0.03em;
+$letterSpacing-tight    : -0.02em; // contentSans{Bold,Regular,Thin}
+$letterSpacing-normal   : 0.01rem; // contentSerif{Bold,Regular,Italic}
+$letterSpacing-loose    : 0.1em;
+// $letterSpacing-looser   : ;
+
+$fontWeight-normal: 400;
+$fontWeight-bold: 700;
+$fontWeight-lighter: lighter;
+$fontWeight-bolder: bolder;
+
+$fontAlien: 'Alien League II', $font--default-sans;
+$fontAlien-normal: 400;
+$fontAlien-bold: 700;
+
+$fontRaleway: 'Raleway', $font--default-sans;
+$fontRaleway-light: 300;
+$fontRaleway-normal: 400;
+$fontRaleway-bold: 700;
+
+$fontFontAwesome: 'FontAwesome', $font--default-sans;
+$fontFontAwesome-normal: 400;
+
+$fontJosefinSlab: 'Josefin Slab', $font--default-sans;
+$fontJosefinSlab-light: 700;
+$fontJosefinSlab-normal: 700;
+$fontJosefinSlab-bold: 700;
+
+$fontMerriweather: 'Merriweather', $font--default-serif;
+$fontMerriweather-light: 400;
+$fontMerriweather-normal: 400;
+$fontMerriweather-bold: 400;
+
+//-[ z-index ]-------------------------------------------------------------------
+
+$zIndex-1:   100;
+$zIndex-2:   200;
+$zIndex-3:   300;
+$zIndex-4:   400;
+$zIndex-5:   500;
+$zIndex-6:   600;
+$zIndex-7:   700;
+$zIndex-8:   800;
+$zIndex-9:   900;
+$zIndex-10: 1000;
+
+$zIndex-1--body:            $zIndex-1 - 1;
+$zIndex-1--gaia:            $zIndex-1;
+$zIndex-1--canvas-bg:       $zIndex-1 + 1;
+$zIndex-1--page-wrapper:    $zIndex-1 + 2;
+
+$zIndex-2--footer:          $zIndex-2;
+
+$zIndex-8--navbar:          $zIndex-8;
+$zIndex-8--navbar-collapse: $zIndex-8--navbar + 1;
+$zIndex-8--navbar-header:   $zIndex-8--navbar + 2;
+$zIndex-9--loader:          $zIndex-9; // loader hides all. nothing comes above this.
+
+//-[ grid ]---------------------------------------------------------------------
+// |--------------xs------------|-----sm-------|------md-------|-------lg-------
+//                            560            720             960
+
+$screen-xs: 560px;
+$screen-sm: 720px;
+$screen-md: 960px;
+$screen-lg: 1200px;
+
+$screen-xs-max: $screen-xs - 1;
+$screen-sm-max: $screen-sm - 1;
+$screen-md-max: $screen-md - 1;
+
+$grid--total-columns: 12;
+$grid--column-width: (100% / $grid--total-columns);
+$grid--max-width: 1200px;
+$grid--gutter: 1rem;
+
+$grid-float-breakpoint:     $screen-xs;
+$grid-float-breakpoint-max: $grid-float-breakpoint - 1;
+
+//-[ navbar ]-------------------------------------------------------------------
+
+$navbar--min-height--emu: ($fontSize-largest--emu * $lineHeight-baseSans);
+$navbar--min-height: $navbar--min-height--emu + em;
+$navbar--bg: $grey-900;
+$navbar--bg-hover: $black-08;
+
+$navbar--float-breakpoint: $screen-sm;
+$navbar--float-breakpoint-max: $screen-sm - 1;
+
+//-[ animations ]---------------------------------------------------------------
+
+$anim-short--1x: 0.2s;
+$anim-short--5x: ($anim-short--1x * 5);
+$anim-short--10x: ($anim-short--1x * 10);
+
+$anim-medium--1x: 0.4s;
+$anim-medium--5x: ($anim-medium--1x * 5);
+$anim-medium--10x: ($anim-medium--1x * 10);
+
+$anim-long--1x: 0.5s;
+$anim-long--5x: ($anim-long--1x * 5);
+$anim-long--10x: ($anim-long--1x * 10);
+
+$anim-short:  $anim-short--1x;
+$anim-medium: $anim-medium--1x;
+$anim-long:   $anim-long--1x;
+
+$anim-short--one-third: $anim-short * 1 / 3;
+$anim-short--two-third: $anim-short * 2 / 3;
+$anim-medium--one-third: $anim-medium * 1 / 3;
+$anim-medium--two-third: $anim-medium * 2 / 3;
+$anim-long--one-third: $anim-long * 1 / 3;
+$anim-long--two-third: $anim-long * 2 / 3;

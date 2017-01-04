@@ -1,0 +1,19 @@
+:8080 {
+	gzip
+	root public
+	errors {
+		403 _errorpages/403.html # forbidden
+		404 _errorpages/404.html # Not Found
+		500 _errorpages/500.html # Internal Server Error
+	}
+}
+
+:8004 {
+	gzip
+	root dev
+	errors {
+		403 _errorpages/403.html # forbidden
+		404 _errorpages/404.html # Not Found
+		500 _errorpages/500.html # Internal Server Error
+	}
+}

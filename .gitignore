@@ -1,0 +1,7 @@
+notes.txt
+dev/
+public/
+node_modules/
+assets/raw/
+assets/images/profile/
+js/*.min.js

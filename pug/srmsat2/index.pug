@@ -1,0 +1,138 @@
+extends ../default
+
+block head-title
+    title SRMSAT-2 — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('sat2')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab SRMSAT - 2
+                //- p.section-text Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    .page-wrapper.container-fluid.page-section--content
+
+        .container.page-container.page-container-type-0.page-container-type-3
+
+            .sm-pull-right
+                iframe(width="100%" height="315" src='https://www.youtube.com/embed/v7puj9nDp0s' frameborder='0' allowfullscreen)
+
+            p.section-text
+                | SRMSAT&nbsp;-&nbsp;2 is the second mission of Team SRMSAT.
+                | SRMSAT - 2 is a progressive conceptual student small satellite mission
+                | and a step forward in deep space exploration, pushing horizons of robust
+                | small satellites to regimes beyond earth. The mission is directed towards
+                | the design of a small orbiter spacecraft to orbit and study moon in a Low
+                | Lunar Orbit (LLO). The primary objective of the SRMSAT&nbsp;-&nbsp;2 is to
+                | attain a stable lunar orbit achieved by low energy transfer exploiting
+                | Weak Stability Boundary theory. As a part of the science mission,
+                | a Microwave Radiometer is selected as the primary payload to study the
+                | lunar regolith and a Radiation Dosimeter is chosen as the secondary payload
+                | to characterize the radiation environment along the trajectory. A Narrow
+                | Angle Camera is chosen as outreach payload. Other options like
+                | Hyperspectral/Multispectral Imager and Infrared Spectrometer were also considered,
+                | but the final decision regarding the selection of payload is subject to outcomes of the design review.
+
+            .u-clearfix
+
+        .container.page-container.page-container-type-1
+
+            p.section-text
+                | The mission assumes launch vehicle support till the GTO and starts going
+                | through a series of phasing orbits to reach the WSB region to move
+                | from the Sun-Earth Manifold to the Moon-Earth Manifold, which are traced
+                | using Poincare maps with an approach from initial conditions. The apogee of
+                | the final phasing orbit is close to 1.5 Million Kilometers, and that point
+                | has some of the most critical and precise maneuvers to be executed.
+
+        .container.page-container.page-container-type-5
+            img.u-img-responsive(src="/assets/images/sat2-exploded-view.gif" alt="Exploded view of the Satellite Design" title="Exploded view of the Satellite Design")
+            .img-caption Exploded view of the Satellite Design
+
+        .container.page-container.page-container-type-1
+            p.section-text
+                | SRMSAT – 2 is a cube-shaped spacecraft with the following key features
+
+        .container.page-container.page-container-type-1
+            .section-text.section-table
+                table.features
+                    tr
+                        td.title Dimensions
+                        td.value 500mm × 502mm × 600mm (cube)
+                    tr
+                        td.title Mass
+                        td.value 86 Kilograms
+                    tr
+                        td.title Payload
+                        td.value Microwave Radiometer, Radiation Dosimeter, Narrow Angle Camera, possibly Hyperspectral Imager (Final decision pending)
+                    tr
+                        td.title Propulsion
+                        td.value Bipropellant Primary Propulsion System, Monopropellant Reaction Control System
+                    tr
+                        td.title Tracking
+                        td.value S-Band two-way Doppler ranging
+                    tr
+                        td.title Thermal
+                        td.value Active control
+                    tr
+                        td.title Attitude control
+                        td.value RCS and Reaction Wheels (3-axis stabilized)
+                    tr
+                        td.title Structure
+                        td.value Aluminium 6061-T6 alloy with honeycomb sandwich panels
+                    tr
+                        td.title Antenna
+                        td.value 20dBi Parabolic Reflector, S-band Omnidirectional
+                    tr
+                        td.title Power
+                        td.value One body mounted and two deployed solar panels generating 142W at End of Life; 234 Wh battery.
+                    tr
+                        td.title Power transmitted
+                        td.value 7 dBW typical, 15 dBW in special cases
+                    tr
+                        td.title Uplink
+                        td.value 2110 to 2120 MHz<sup>1</sup>, 100 kbps
+                    tr
+                        td.title Downlink
+                        td.value 2200 to 2290 MHz<sup>1</sup>, 4 kbps
+
+                small
+                    | 1. Frequencies assumed from CCSDS recommendations. Actual frequencies may vary based on ITU allocation.
+
+        .container.page-container.page-container-type-1
+            p.section-text The objectives of the project are:
+            ul.section-text
+                li To prove capabilities of small satellite systems beyond Earth.
+                li To demonstrate the value of small-satellite science platform for lunar/planetary exploration.
+                li To acquire lunar surface and subsurface geology and morphology data of the Moon.
+                li To characterize radiation environment in the chosen mission profile.
+                li To acquire local brightness temperature data over moon’s surface.
+                li To investigate regolith characteristics by microwave radiometry.
+                li To demonstrate the capability of COTS component in lunar orbiter type spacecraft systems in harsh earth-bound and deep space radiation environments.
+
+        .container.page-container.page-container-type-1
+            p.section-text
+                | Indian Space Research Organization&rsquo;s launch support along with
+                | IDSN support for Telemetry, Tracking and Command is aspired and elementary
+                | to the mission. For the mission operations, support with respect to
+                | Space Link Extension (SLE) is established for interfacing Flight Dynamics facility,
+                | Data processing center and Mission Operation Centre established at SRM University
+                | with ISTRAC and IDSN stations is planned and proposal has been sent to ISRO.
+                br
+                | A primary data center (SRM Lunar Science Data Center) will be established
+                | to collaborate with DSN and University tracking station with capabilities to support
+                | handling of downlinked science data and, maintaining and regulating data
+                | archives will be established. It will be responsible for interfacing with the
+                | scientific community and students of SRM University in providing acquired science data.
+
+block page-scripts

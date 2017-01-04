@@ -1,0 +1,83 @@
+extends ../default
+
+block head-title
+    title Spaceflight Dynamics Division — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('sfd')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab Division &mdash; Spaceflight Dynamics
+                //- p.section-text Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    .page-wrapper.container-fluid.page-section--content
+        .container.page-container.page-container-type-4
+            p.section-heading Trajectory Design and Mission Analysis
+
+            .sm-pull-left
+                //-img.u-img-responsive(src="/assets/images/lowenergy-transfer.png" alt="Low-energy Transfer trajectories to the moon")
+                //-.img-caption Low-energy Transfer trajectories to the moon.
+                img.u-img-responsive(src="/assets/images/lowenergy-transfer.png" alt="")
+
+            p.section-text
+                | This subsystem, though not physically associated with the spacecraft,
+                | is associated critically with spacecraft design. The subsystem&rsquo;s
+                | preliminary work is to choose a transfer profile to achieve final mission
+                | orbit and lay out total propulsion requirements. The Mission analysis segment
+                | is responsible for checking the astrodynamic feasibility of each solution
+                | in a dynamic envelope of possibilities in terms of analyses of error sources,
+                | risks involved, injection constraints and sensitivity.
+
+            .u-clearfix
+
+        .container.page-container.page-container-type-3
+            p.section-heading Guidance Navigation and Control
+
+            .sm-pull-right
+                img.u-img-responsive(src="/assets/images/gnc.png" alt="")
+
+            p.section-text
+                | Guidance Navigation and Control is responsible orbit determination,
+                | prediction, and control. The primary task of the subsystem would be
+                | to give preliminary and precise OD to support all phases of trajectory
+                | within bounds. The subsystem will be responsible for the pre-flight design
+                | of optimal deterministic maneuvers and in-flight design of statistical maneuvers
+                | for trajectory/orbit maintenance and control within capture corridors for the
+                | transfer trajectory. GNC will comprise of a Ground Flight dynamics segment with
+                | personnel and infrastructure to support the mission during its lifetime to suffice
+                | successful transfer, Lunar Orbit Injection, and Stationkeeping.
+
+            .u-clearfix
+
+        .container.page-container.page-container-type-4
+            p.section-heading Attitude Determination and Control
+
+            .sm-pull-left
+                img.u-img-responsive(src="/assets/images/adcs.png" alt="")
+
+            p.section-text
+                | The ADCS subsystem is responsible for determining and controlling the
+                | spacecraft attitude in space. The main functions of the ADCS subsystem
+                | can be divided into Determination, Prediction, and Control. Attitude
+                | determination is the process of computing the spacecraft orientation,
+                | within a pre-defined accuracy, using the data obtained from the on-board
+                | sensors. Attitude prediction is the process of forecasting the future attitude
+                | using dynamic models, and attitude control is the process of orienting the
+                | satellite in a specified direction using actuators and momentum exchange devices.
+
+            .u-clearfix
+
+
+
+
+block page-scripts

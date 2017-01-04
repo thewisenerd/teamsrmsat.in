@@ -1,0 +1,84 @@
+extends ../default
+
+block head-title
+    title Mechanical Systems Division — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+
+block page-js
+
+block page-navbar
+    +navbar('mechanical')
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab Division &mdash; Mechanical Systems
+                p.section-text
+                    | Deals with the design of the spacecraft configuration that can sustain
+                    | sthe structural and thermal loads as well as the propulsion system design.
+
+    .page-wrapper.container-fluid.page-section--content
+        .container.page-container.page-container-type-1
+            p.section-heading Structure
+
+            p.section-text
+                | The structure subsystem is responsible for the design of the satellite bus.
+                | The team analyzes structural loads during launch condition and makes sure the design
+                | is robust, and economical. The design takes into account the mass and volume constraints
+                | provides by ISRO and ensures the components are placed in a manner suitable to the various subsystems.
+
+            .u-clearfix
+
+        .container.page-container.page-container-type-5
+            img.u-img-responsive(src='/assets/images/sat2-exploded-view.gif' alt='Exploded view of Satellite Structure')
+            .img-caption Exploded view of Satellite Structure
+
+        .container.page-container.page-container-type-1
+            p.section-text
+                | The structural frame is made of aluminum and contains one body mounted and two
+                | deployable solar panels. The structural subsystem is responsible for
+                | design (CAD) and placement of all the other components in spacecraft.
+
+
+        .container.page-container.page-container-type-1
+            p.section-heading Thermal
+
+            p.section-text
+                | The thermal system is responsible to maintain operational temperatures of the individual
+                | components and the spacecraft as a whole within the respective survival ranges in all the
+                | mission phases. With the mission featuring trans-liberation cruise, lunar orbiting and Earth
+                | orbiting phases, the spacecraft faces a broad spectrum of thermal and radiation scenarios.
+                | The thermal system design a suitable thermal control system after analysing all the thermal loads.
+                | The plasma radiation analysis and the protection of electronics from the acquired radiation dose is
+                | also included in the subsystem’s work.
+
+        .container.page-container.page-container-type-5
+            img.u-img-responsive(src='/assets/images/thermal.png' alt='Internal views for lunar phase results (temperature in °C) and Heat Flux (W/mm2)')
+            .img-caption Internal views for lunar phase results (temperature in °C) and Heat Flux (W/mm2)
+
+
+        .container.page-container.page-container-type-3
+            p.section-heading Propulsion
+
+            .sm-pull-right
+                img.u-img-responsive(src='/assets/images/propulsion.jpg' alt='PPS Thruster')
+                .img-caption PPS Thruster
+
+            p.section-text
+                | The propulsion subsystem deals with the selection of a suitable propellant
+                | to provide the thrust for orbital manoeuvres and reaction control. The
+                | propulsion engineer also designs the tanks and schematics for storage and
+                | efficient use of propellant respectively. SRMSAT&nbsp;-&nbsp;2 uses a chemical bipropellant
+                | system which utilizes hydrazine as a fuel and nitrogen tetroxide (NTO) as an oxidizer.
+                | The propulsions system is pressure fed and uses helium as a pressurizer, to
+                | supply propellant to one primary thruster and 4 smaller reaction control thrusters.
+
+
+            .u-clearfix
+
+block page-scripts

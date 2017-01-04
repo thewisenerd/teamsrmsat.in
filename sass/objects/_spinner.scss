@@ -1,0 +1,80 @@
+//-[ variables ]----------------------------------------------------------------
+@if $debug == 1 {
+    .spinner-mask {
+        display: none;
+    }
+}
+
+$spinner--color: $color-white;
+$spinner--size: 40px;
+$spinner--margin: 0 0;
+
+$spinnerMask--background: $color-black;
+$spinnerMask--zIndex: $zIndex-9--loader;
+
+//-[ spinkit ]------------------------------------------------------------------
+
+$spinkit-spinner-margin: $spinner--margin;
+$spinkit-size: $spinner--size;
+$spinkit-spinner-color: $spinner--color;
+@import '../../node_modules/spinkit/scss/spinners/2-double-bounce';
+
+//-[ keyframes ]----------------------------------------------------------------
+@keyframes spinner-hide {
+    0% {
+        width: $spinner--size;
+        height: $spinner--size;
+        margin-left: -($spinner--size / 2);
+        margin-top: -($spinner--size / 2);
+    }
+    100% {
+        width: 0px;
+        height: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+}
+
+@keyframes spinner-mask-hide {
+    0% {
+        opacity: 1;
+        visibility: visible;
+    }
+    100% {
+        opacity: 0;
+        visibility: hidden;
+        display: none;
+    }
+}
+
+//-[ spinner-mask ]-------------------------------------------------------------
+.spinner-mask {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    z-index: $spinnerMask--zIndex;
+
+    &.spinner-mask--hidden {
+        animation: spinner-mask-hide $anim-medium ease-in $anim-medium--two-third forwards;
+
+        .sk-double-bounce {
+            animation: spinner-hide $anim-medium ease-out 0s forwards;
+        }
+    }
+
+    .sk-double-bounce {
+        top: 50%;
+        left: 50%;
+
+        margin-top: -($spinner--size / 2);
+        margin-left: -($spinner--size / 2);
+    }
+
+} // #spinner-mask
+
+.spinner-mask {
+    background-color: $spinnerMask--background;
+}

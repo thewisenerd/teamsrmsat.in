@@ -1,0 +1,11 @@
+/*! MIT License | thewisenerd (thewisenerd@protonmail.com) */
+
+@import 'generic/variables';
+
+.spinner-mask {
+    animation: spinner-mask-hide $anim-medium ease-in $anim-medium--two-third forwards;
+
+    .sk-double-bounce {
+        animation: spinner-hide $anim-medium ease-out 0s forwards;
+    }
+}

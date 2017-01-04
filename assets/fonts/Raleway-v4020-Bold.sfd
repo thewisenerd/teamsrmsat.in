@@ -1,0 +1,3747 @@
+SplineFontDB: 3.0
+FontName: Raleway-v4020-Bold
+FullName: Raleway-v4020 Bold
+FamilyName: Raleway-v4020
+Weight: Bold
+Copyright: Copyright \\(c\\) 2012, The Raleway Project Authors \\(matt@pixelspread.com\\)
+Version: 004.020
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x0004051e
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 158 -1673460227 6285930]
+StyleMap: 0x0020
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1479254932
+ModificationTime: 1483435450
+PfmFamily: 81
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 8 0 0 0 0 0 0 0
+OS2TypoAscent: 940
+OS2TypoAOffset: 0
+OS2TypoDescent: -234
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1154
+OS2WinAOffset: 0
+OS2WinDescent: 234
+OS2WinDOffset: 0
+HheadAscent: 940
+HheadAOffset: 0
+HheadDescent: -234
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 50
+OS2StrikeYPos: 314
+OS2CapHeight: 710
+OS2XHeight: 524
+OS2Vendor: 'UKWN'
+OS2CodePages: 20000197.00000000
+OS2UnicodeRanges: 20000207.00000003.00000000.00000000
+Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 3" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 3 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 4" { "'locl' Localized Forms in Latin lookup 4 contextual 0"  "'locl' Localized Forms in Latin lookup 4 contextual 1"  } ['locl' ('latn' <'CAT ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5" { "'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6" { "'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7" { "'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'KAZ ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8" { "'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'TAT ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9" { "'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 10" { "'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 11" { "'locl' Localized Forms in Latin lookup 11 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 12" { "'locl' Localized Forms in Cyrillic lookup 12 subtable"  } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 13" { "'locl' Localized Forms in Cyrillic lookup 13 subtable"  } ['locl' ('cyrl' <'CHU ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 14" { "'locl' Localized Forms in Cyrillic lookup 14 subtable"  } ['locl' ('cyrl' <'BSH ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 15" { "'locl' Localized Forms in Cyrillic lookup 15 subtable"  } ['locl' ('cyrl' <'BGR ' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 16" { "'subs' Subscript lookup 16 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 17" { "'sinf' Scientific Inferiors lookup 17 subtable"  } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 18" { "'sups' Superscript lookup 18 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'numr' Numerators lookup 19" { "'numr' Numerators lookup 19 subtable"  } ['numr' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' Denominators lookup 20" { "'dnom' Denominators lookup 20 subtable"  } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 21" { "'frac' Diagonal Fractions lookup 21 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 22" { "'frac' Diagonal Fractions lookup 22 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 23" { "'frac' Diagonal Fractions lookup 23 contextual 0"  "'frac' Diagonal Fractions lookup 23 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ordn' Ordinals lookup 24" { "'ordn' Ordinals lookup 24 contextual 0"  "'ordn' Ordinals lookup 24 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ordn' Ordinals lookup 25" { "'ordn' Ordinals lookup 25 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals lookup 26" { "'c2sc' Capitals to Small Capitals lookup 26 subtable"  } ['c2sc' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 27" { "'smcp' Lowercase to Small Capitals lookup 27 subtable"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures lookup 28" { "'dlig' Discretionary Ligatures lookup 28 subtable"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 29" { "'liga' Standard Ligatures lookup 29 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives lookup 30" { "'salt' Stylistic Alternatives lookup 30 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set 1 lookup 31" { "'ss01' Style Set 1 lookup 31 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set 2 lookup 32" { "'ss02' Style Set 2 lookup 32 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Style Set 3 lookup 33" { "'ss03' Style Set 3 lookup 33 subtable"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Style Set 4 lookup 34" { "'ss04' Style Set 4 lookup 34 subtable"  } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' Style Set 5 lookup 35" { "'ss05' Style Set 5 lookup 35 subtable"  } ['ss05' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' Style Set 6 lookup 36" { "'ss06' Style Set 6 lookup 36 subtable"  } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss07' Style Set 7 lookup 37" { "'ss07' Style Set 7 lookup 37 subtable"  } ['ss07' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss08' Style Set 8 lookup 38" { "'ss08' Style Set 8 lookup 38 subtable"  } ['ss08' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss09' Style Set 9 lookup 39" { "'ss09' Style Set 9 lookup 39 subtable"  } ['ss09' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss10' Style Set 10 lookup 40" { "'ss10' Style Set 10 lookup 40 subtable"  } ['ss10' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss11' Style Set 11 lookup 41" { "'ss11' Style Set 11 lookup 41 subtable"  } ['ss11' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'lnum' Lining Figures lookup 42" { "'lnum' Lining Figures lookup 42 subtable"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 43" { "Single Substitution lookup 43 subtable"  } []
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 per glyph data 0"  "'kern' Horizontal Kerning lookup 0 kerning class 1"  "'kern' Horizontal Kerning lookup 0 kerning class 2"  "'kern' Horizontal Kerning lookup 0 kerning class 3"  "'kern' Horizontal Kerning lookup 0 kerning class 4"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1 per glyph data 0"  "'kern' Horizontal Kerning lookup 1 per glyph data 1"  "'kern' Horizontal Kerning lookup 1 per glyph data 2"  "'kern' Horizontal Kerning lookup 1 kerning class 3"  "'kern' Horizontal Kerning lookup 1 kerning class 4"  "'kern' Horizontal Kerning lookup 1 kerning class 5"  "'kern' Horizontal Kerning lookup 1 kerning class 6"  "'kern' Horizontal Kerning lookup 1 kerning class 7"  "'kern' Horizontal Kerning lookup 1 kerning class 8"  "'kern' Horizontal Kerning lookup 1 kerning class 9"  "'kern' Horizontal Kerning lookup 1 kerning class 10"  "'kern' Horizontal Kerning lookup 1 kerning class 11"  "'kern' Horizontal Kerning lookup 1 kerning class 12"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 3" { "'mark' Mark Positioning lookup 3 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 4" { "'mark' Mark Positioning lookup 4 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 256 0 "'mkmk' Mark to Mark lookup 5" { "'mkmk' Mark to Mark lookup 5 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 512 0 "'mkmk' Mark to Mark lookup 6" { "'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 768 0 "'mkmk' Mark to Mark lookup 7" { "'mkmk' Mark to Mark lookup 7 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 512 0 "'mkmk' Mark to Mark lookup 8" { "'mkmk' Mark to Mark lookup 8 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'SRB ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+MarkAttachClasses: 4
+"MarkClass-1" 52 dotbelowcomb uni0324 uni0326 uni0327 uni032E uni0331
+"MarkClass-2" 255 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni0311 uni0312 brevecombcy brevecombcy.001 uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303
+"MarkClass-3" 21 caroncomb.alt uni031B
+DEI: 91125
+KernClass2: 9+ 18 "'kern' Horizontal Kerning lookup 0 kerning class 1"
+ 29 guillemotright guilsinglright
+ 28 emdash endash hyphen uni00AD
+ 40 comma period quotedblbase quotesinglbase
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 8 asterisk
+ 9 backslash
+ 5 slash
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 5 seven
+ 8 seven.lf
+ 5 three
+ 22 quotedblleft quoteleft
+ 49 comma ellipsis period quotedblbase quotesinglbase
+ 27 guillemotleft guilsinglleft
+ 28 emdash endash hyphen uni00AD
+ 2 at
+ 5 slash
+ 5 space
+ 4 five
+ 4 four
+ 7 four.lf
+ 4 nine
+ 7 uni2126
+ 0 {} -23 {} -21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} -19 {} -20 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -106 {} -110 {} -20 {} 0 {} 0 {} -103 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -107 {} -25 {} -6 {} -24 {} -87 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} -21 {} 0 {} -22 {} -85 {} -16 {} -17 {} -66 {} -38 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} -74 {} -75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -34 {}
+KernClass2: 3+ 4 "'kern' Horizontal Kerning lookup 0 kerning class 2"
+ 7 uni2126
+ 9 ampersand
+ 2 at
+ 9 backslash
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} -38 {} -41 {} 0 {} 0 {} -18 {} -18 {}
+KernClass2: 7+ 4 "'kern' Horizontal Kerning lookup 0 kerning class 3"
+ 4 four
+ 7 four.lf
+ 4 nine
+ 3 one
+ 6 one.lf
+ 5 seven
+ 8 seven.lf
+ 20 quotedbl quotesingle
+ 28 emdash endash hyphen uni00AD
+ 49 comma ellipsis period quotedblbase quotesinglbase
+ 0 {} -6 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} -22 {} -5 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -21 {} -55 {} 0 {} 0 {} -30 {} -69 {}
+KernClass2: 1+ 3 "'kern' Horizontal Kerning lookup 0 kerning class 4"
+ 5 space
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 0 {} -15 {} -16 {}
+KernClass2: 25+ 83 "'kern' Horizontal Kerning lookup 1 kerning class 3"
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 103 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent uni0421 uni0404 uni04AA uni04AA.loclBSH uni04AA.loclCHU
+ 27 D Eth Dcaron Dcroat uni1E0C
+ 148 AE AEacute E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent uni1EB8 Egrave Emacron Eogonek uni1EBC OE uni0415 uni0400 uni0401 uni04D6 uni04D4
+ 44 G Gbreve Gcircumflex Gcommaaccent Gdotaccent
+ 211 H Hbar Hcircumflex uni1E24 I Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave Imacron Iogonek Itilde M N Nacute Ncaron Ncommaaccent uni1E44 Eng Ntilde uni041C uni041D uni0406 uni0407 uni04A2 uni04C0
+ 21 J Jcircumflex uni0408
+ 70 K Kcommaaccent uni0416 uni041A uni040C uni049C uni04A0 uni04C1 uni04DC
+ 40 L Lacute Lcaron Lcommaaccent Ldot Lslash
+ 190 O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde Q uni018F uni041E uni0424 uni042D uni042E uni04D8 uni04E6 uni04E8 uni051A uni0424.loclBGR
+ 36 R Racute Rcaron Rcommaaccent uni1E5A
+ 65 S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni0405
+ 45 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 1 B
+ 1 F
+ 6 G.ss11
+ 1 P
+ 5 Thorn
+ 1 V
+ 6 W.ss09
+ 1 X
+ 317 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Q G.ss11 uni041E uni0421 uni0424 uni0404 uni04AA uni04E6 uni04E8 uni051A uni0424.loclBGR uni04AA.loclBSH uni04AA.loclCHU
+ 19 c.sc g.sc o.sc q.sc
+ 65 S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni0405
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 134 a aacute abreve acircumflex adieresis agrave amacron aogonek aring aringacute atilde ae aeacute a.ss01 uni0430 uni04D1 uni04D3 uni04D5
+ 115 d dcaron dcroat uni1E0D g gbreve gcircumflex gcommaaccent gdotaccent q a.ss02 d.ss03 q.ss06 uni051B uni0434.loclBGR
+ 23 f f_f f_f_i f_f_l fi fl
+ 27 guillemotleft guilsinglleft
+ 386 c cacute ccaron ccedilla ccircumflex cdotaccent e eacute ebreve ecaron ecircumflex edieresis edotaccent uni1EB9 egrave emacron eogonek uni1EBD o oacute obreve ocircumflex odieresis uni1ECD ograve ohungarumlaut omacron oslash oslashacute otilde oe c_t uni0435 uni0450 uni0451 uni043E uni0441 uni0444 uni0454 uni04AB uni04D7 uni04E7 uni04E9 uni04AB.loclBSH uni04AB.loclCHU uni0431.loclSRB
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 69 s sacute scaron scedilla scircumflex scommaaccent uni1E63 s_t uni0455
+ 37 t tbar tcaron uni0163 uni021B uni1E6D
+ 214 u uacute ubreve ucircumflex udieresis uni1EE5 ugrave uhungarumlaut umacron uogonek uring utilde u.ss08 uni0438.loclBGR uni0439.loclBGR uni045D.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044C.loclBGR
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 7 uni018F
+ 1 V
+ 6 W.ss09
+ 9 ampersand
+ 8 asterisk
+ 2 at
+ 9 backslash
+ 9 copyright
+ 5 eight
+ 3 eth
+ 11 ordfeminine
+ 12 ordmasculine
+ 8 question
+ 10 registered
+ 7 uni0259
+ 5 seven
+ 3 six
+ 5 space
+ 4 t.sc
+ 6 t.ss07
+ 9 trademark
+ 4 u.sc
+ 1 v
+ 4 v.sc
+ 4 w.sc
+ 6 w.ss09
+ 4 y.sc
+ 6 y.ss10
+ 4 zero
+ 40 l lacute lcaron lcommaaccent ldot lslash
+ 4 four
+ 10 parenright
+ 5 slash
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 1 X
+ 4 x.sc
+ 21 J Jcircumflex uni0408
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 49 comma ellipsis period quotedblbase quotesinglbase
+ 4 a.sc
+ 4 j.sc
+ 1 x
+ 145 i dotlessi iacute ibreve icircumflex idieresis uni1ECB igrave imacron iogonek itilde j uni0237 jcircumflex j.ss04 uni0456 uni0457 uni0458 uni04CF
+ 392 m n nacute ncaron ncommaaccent uni1E45 eng ntilde p r racute rcaron rcommaaccent uni1E5B uni0432 uni0433 uni0453 uni0491 uni0438 uni0439 uni045D uni043A uni045C uni043C uni043D uni043F uni0440 uni0446 uni0448 uni0449 uni045F uni044C uni044B uni045A uni044E uni0493 uni0495 uni049B uni049D uni04A3 uni0525 uni04E3 uni04E5 uni04F7 uni04F9 uni043F.loclBGR uni0442.loclBGR uni0493.loclBSH uni04A5
+ 34 z zacute zcaron zdotaccent uni1E93
+ 4 s.sc
+ 28 emdash endash hyphen uni00AD
+ 12 bracketright
+ 3 two
+ 37 periodcentered periodcentered.loclCAT
+ 116 b h hbar hcircumflex uni1E25 k kcommaaccent thorn germandbls uni045B uni0452 uni04BB uni0432.loclBGR uni043A.loclBGR
+ 6 l.ss05
+ 5 three
+ 59 b.sc d.sc e.sc f.sc h.sc i.sc k.sc l.sc m.sc n.sc p.sc r.sc
+ 15 colon semicolon
+ 29 guillemotright guilsinglright
+ 4 five
+ 4 nine
+ 3 one
+ 4 z.sc
+ 6 exclam
+ 0 {} -27 {} -15 {} -9 {} -66 {} -28 {} -59 {} -75 {} -8 {} -15 {} -18 {} -13 {} -16 {} -58 {} -64 {} -63 {} -8 {} -27 {} -10 {} -37 {} -35 {} -22 {} -58 {} -44 {} -14 {} -64 {} -13 {} -71 {} -22 {} -15 {} -14 {} -47 {} -52 {} -14 {} -22 {} -13 {} -8 {} -17 {} -31 {} -47 {} -24 {} -66 {} -16 {} -33 {} -36 {} -38 {} -29 {} -48 {} -35 {} -17 {} -3 {} 9 {} 7 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} 0 {} 0 {} 0 {} -10 {} -19 {} 0 {} -2 {} -2 {} 0 {} -2 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 10 {} 12 {} 0 {} 11 {} 0 {} 0 {} 0 {} 4 {} 0 {} 0 {} -10 {} -18 {} -3 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} -14 {} 0 {} -26 {} -44 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} -2 {} 0 {} -26 {} -18 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} -5 {} -5 {} 0 {} -3 {} -2 {} 0 {} 0 {} 0 {} -17 {} -27 {} -27 {} -38 {} -31 {} -8 {} -20 {} -11 {} -7 {} -24 {} -30 {} -10 {} -2 {} -2 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -8 {} 0 {} -11 {} 0 {} 0 {} 0 {} -2 {} -6 {} -5 {} -8 {} -8 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} -3 {} -8 {} 0 {} 0 {} -7 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -25 {} -37 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} -8 {} -10 {} 0 {} -25 {} -16 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} -7 {} 0 {} 0 {} -9 {} -6 {} -6 {} -7 {} -4 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} -8 {} -7 {} 0 {} -9 {} 0 {} 0 {} 0 {} -6 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -9 {} -6 {} 0 {} -9 {} 0 {} 0 {} 0 {} -10 {} -5 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} -17 {} -17 {} -24 {} 0 {} 0 {} -10 {} 0 {} -4 {} -23 {} -19 {} 0 {} 0 {} -4 {} -7 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} -34 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -32 {} -18 {} -18 {} -34 {} 0 {} 0 {} 0 {} -3 {} -16 {} -17 {} -39 {} -39 {} -34 {} 0 {} 0 {} 0 {} 0 {} 0 {} 6 {} -20 {} 0 {} -28 {} 0 {} 0 {} 0 {} -20 {} -19 {} 0 {} 0 {} -12 {} -19 {} -18 {} 7 {} -19 {} -38 {} -16 {} -16 {} -36 {} -17 {} -38 {} -12 {} 0 {} 17 {} 15 {} 21 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 4 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -3 {} 0 {} -103 {} -19 {} -94 {} -103 {} 0 {} -4 {} -11 {} -13 {} -4 {} -109 {} -108 {} -110 {} 0 {} -16 {} 0 {} -70 {} -66 {} -8 {} -91 {} -61 {} 0 {} -120 {} 0 {} -104 {} -13 {} 0 {} 0 {} -117 {} -118 {} -11 {} -13 {} 0 {} -8 {} 0 {} -30 {} -87 {} -19 {} -120 {} -5 {} -58 {} -71 {} -76 {} -51 {} -91 {} -66 {} 0 {} 0 {} 5 {} 4 {} 3 {} 0 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} 0 {} 0 {} -185 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} -17 {} 0 {} -28 {} -47 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} -2 {} -5 {} 0 {} -27 {} -18 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} -5 {} -5 {} 0 {} -4 {} -5 {} 0 {} 0 {} 0 {} -18 {} -29 {} -27 {} -40 {} -34 {} -10 {} -22 {} -13 {} -8 {} -26 {} -32 {} -12 {} -2 {} -5 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -9 {} 0 {} -8 {} -3 {} -24 {} -36 {} -9 {} -16 {} -4 {} -6 {} -18 {} 0 {} 0 {} 0 {} -3 {} -4 {} -8 {} -4 {} -4 {} -4 {} -24 {} -16 {} 0 {} 0 {} 0 {} -9 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} -2 {} -4 {} -4 {} -4 {} -4 {} -4 {} -4 {} 0 {} -6 {} 8 {} 6 {} 5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -19 {} -2 {} 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} -12 {} -3 {} -16 {} -17 {} 0 {} -17 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -15 {} 0 {} 0 {} -17 {} -8 {} -8 {} -15 {} -11 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -21 {} -8 {} -5 {} 0 {} 0 {} 0 {} -7 {} 0 {} -10 {} 0 {} -3 {} -4 {} -2 {} 0 {} 0 {} 0 {} 0 {} -2 {} -2 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -69 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -97 {} -25 {} -73 {} -99 {} 0 {} 0 {} 0 {} -87 {} -6 {} -59 {} -50 {} -51 {} -12 {} 0 {} 0 {} 0 {} 11 {} -57 {} 0 {} -13 {} 0 {} -78 {} 0 {} 0 {} 0 {} -13 {} -99 {} 0 {} -7 {} -29 {} -20 {} -12 {} 3 {} -31 {} -53 {} -9 {} -8 {} -51 {} -14 {} -51 {} -40 {} 0 {} -69 {} 5 {} -73 {} -66 {} -96 {} 0 {} -5 {} -92 {} 0 {} -62 {} -81 {} -88 {} -46 {} 0 {} -50 {} -63 {} -58 {} -56 {} 0 {} -27 {} 0 {} 0 {} 0 {} -32 {} -29 {} -25 {} -44 {} -35 {} -51 {} -42 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -10 {} -6 {} 0 {} -10 {} 0 {} 0 {} 0 {} -13 {} -5 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -6 {} 0 {} -27 {} -28 {} -42 {} 0 {} 0 {} -25 {} 0 {} -12 {} -33 {} -32 {} 0 {} -7 {} -9 {} -9 {} -6 {} 0 {} 0 {} 0 {} 0 {} -6 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} -54 {} -20 {} 0 {} 0 {} 0 {} 0 {} -58 {} -68 {} -24 {} -52 {} -70 {} 0 {} 0 {} 0 {} -59 {} -12 {} -41 {} -8 {} -11 {} -23 {} 0 {} 0 {} -18 {} 7 {} -44 {} 10 {} -21 {} -16 {} -73 {} 0 {} 0 {} 0 {} -21 {} -63 {} 0 {} -18 {} -35 {} 0 {} -16 {} 12 {} -18 {} -12 {} 0 {} 0 {} -11 {} 0 {} -11 {} -35 {} 0 {} -60 {} 15 {} -80 {} -59 {} -97 {} 0 {} 0 {} -80 {} 0 {} -65 {} -86 {} -76 {} -12 {} 0 {} -44 {} -29 {} -49 {} -32 {} 0 {} -19 {} 0 {} 0 {} 0 {} -20 {} -23 {} -21 {} -29 {} -40 {} -33 {} -20 {} -11 {} 0 {} 0 {} -46 {} -83 {} -30 {} 0 {} 0 {} 0 {} 0 {} -88 {} -89 {} -40 {} -77 {} -92 {} 0 {} 0 {} 0 {} -94 {} -21 {} -60 {} -28 {} -30 {} -39 {} 0 {} 0 {} -28 {} 4 {} -66 {} 9 {} -37 {} -26 {} -91 {} 0 {} 0 {} 0 {} -37 {} -105 {} 0 {} -31 {} -37 {} 0 {} -27 {} 10 {} -38 {} -32 {} -3 {} -3 {} -30 {} 0 {} -30 {} -57 {} 0 {} -75 {} 13 {} -80 {} -75 {} -113 {} 0 {} 0 {} -88 {} 0 {} -79 {} -103 {} -84 {} -28 {} 0 {} -65 {} -50 {} -67 {} -59 {} 0 {} -35 {} 0 {} 0 {} 0 {} -35 {} -41 {} -35 {} -49 {} -52 {} -54 {} -41 {} -23 {} -5 {} 0 {} -13 {} -9 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} -13 {} -12 {} 0 {} -13 {} 0 {} 0 {} 0 {} -3 {} -10 {} -10 {} -12 {} -13 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} -12 {} 0 {} 0 {} 0 {} -7 {} -9 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -5 {} -14 {} -3 {} 0 {} -11 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} -21 {} -32 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} -8 {} -2 {} -6 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -17 {} -9 {} 0 {} 0 {} 0 {} 0 {} -43 {} -30 {} -11 {} -20 {} -31 {} 0 {} 0 {} 0 {} -35 {} -4 {} -21 {} -7 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -51 {} -105 {} 0 {} 0 {} -105 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} -26 {} -18 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} -5 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} -23 {} -37 {} -3 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} -31 {} 0 {} 0 {} -9 {} -9 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -19 {} -7 {} -9 {} 0 {} -12 {} -11 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 6 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -51 {} -93 {} 0 {} 0 {} -91 {} 0 {} -77 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} -32 {} 0 {} -33 {} -59 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -11 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -41 {} 0 {} 0 {} -22 {} -17 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} -53 {} -21 {} 0 {} 0 {} 0 {} 0 {} -57 {} -66 {} -24 {} -51 {} -68 {} 0 {} 0 {} 0 {} -59 {} -12 {} -41 {} -8 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -58 {} -95 {} 0 {} 0 {} -79 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} -43 {} -29 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} -20 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -40 {} -13 {} 0 {} 0 {} 0 {} 0 {} -46 {} -49 {} -14 {} -36 {} -50 {} 0 {} 0 {} 0 {} -47 {} -4 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} -81 {} 0 {} 0 {} -67 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} -32 {} -15 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -8 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} -37 {} -3 {} 0 {} 0 {} 0 {} 0 {} -10 {} -38 {} -18 {} -24 {} -41 {} 0 {} 0 {} 0 {} -5 {} -14 {} -22 {} -27 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} 0 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 22+ 39 "'kern' Horizontal Kerning lookup 1 kerning class 4"
+ 19 h.sc i.sc m.sc n.sc
+ 9 o.sc q.sc
+ 4 a.sc
+ 4 b.sc
+ 4 c.sc
+ 4 d.sc
+ 4 e.sc
+ 4 f.sc
+ 4 g.sc
+ 4 j.sc
+ 4 k.sc
+ 4 l.sc
+ 4 p.sc
+ 4 r.sc
+ 4 s.sc
+ 4 t.sc
+ 4 u.sc
+ 4 v.sc
+ 4 w.sc
+ 4 x.sc
+ 4 y.sc
+ 4 z.sc
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 1 V
+ 9 backslash
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 21 J Jcircumflex uni0408
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 1 X
+ 4 a.sc
+ 8 asterisk
+ 4 j.sc
+ 10 parenright
+ 8 question
+ 5 slash
+ 4 t.sc
+ 9 trademark
+ 4 v.sc
+ 4 w.sc
+ 4 x.sc
+ 4 y.sc
+ 4 z.sc
+ 65 S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni0405
+ 10 braceright
+ 12 bracketright
+ 4 s.sc
+ 317 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Q G.ss11 uni041E uni0421 uni0424 uni0404 uni04AA uni04E6 uni04E8 uni051A uni0424.loclBGR uni04AA.loclBSH uni04AA.loclCHU
+ 19 c.sc g.sc o.sc q.sc
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 27 guillemotleft guilsinglleft
+ 28 emdash endash hyphen uni00AD
+ 49 comma ellipsis period quotedblbase quotesinglbase
+ 29 guillemotright guilsinglright
+ 15 colon semicolon
+ 0 {} -29 {} -23 {} -41 {} -23 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -69 {} -54 {} -83 {} -53 {} -51 {} -15 {} -19 {} -4 {} -12 {} -7 {} -14 {} -15 {} -37 {} -22 {} -18 {} -16 {} -23 {} -9 {} -15 {} -12 {} -19 {} -22 {} -22 {} -30 {} -36 {} -11 {} -3 {} -5 {} -5 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} -86 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} -46 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} -22 {} -33 {} -21 {} -13 {} 0 {} 0 {} 0 {} 0 {} -58 {} -48 {} -71 {} 0 {} 0 {} -9 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -32 {} -60 {} 0 {} 0 {} -5 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} -53 {} -82 {} 0 {} 0 {} -15 {} -19 {} -3 {} -11 {} -6 {} -13 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -10 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} 0 {} -5 {} 0 {} 0 {} -31 {} -66 {} -67 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} -6 {} 0 {} -41 {} 0 {} 0 {} 0 {} -64 {} -52 {} -77 {} 0 {} 0 {} 0 {} 4 {} 0 {} 0 {} 0 {} -10 {} -9 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -19 {} -39 {} 0 {} 0 {} -8 {} -9 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -37 {} 0 {} -35 {} -22 {} 0 {} 0 {} 0 {} 0 {} -94 {} -82 {} -90 {} 0 {} 0 {} 0 {} 14 {} 0 {} 0 {} -63 {} -66 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} -11 {} -26 {} -26 {} -36 {} 0 {} 0 {} 0 {} 0 {} -53 {} -32 {} -59 {} 0 {} 0 {} -32 {} -58 {} -68 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -63 {} -56 {} -79 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} -5 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} -36 {} -55 {} 0 {} 0 {} -9 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -47 {} -71 {} -77 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -45 {} -25 {} -50 {} 0 {} 0 {} 0 {} -31 {} -19 {} -38 {} 0 {} 0 {} -16 {} -19 {} -12 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -3 {} 0 {} 0 {} -36 {} -62 {} -74 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} -5 {} -22 {} 0 {} -32 {} -14 {} -44 {} 0 {} 0 {} 0 {} -8 {} 0 {} -3 {} 0 {} 0 {} -38 {} -63 {} -75 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} -5 {} -22 {} 0 {} -32 {} -15 {} -45 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -30 {} 0 {} -35 {} -19 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} -48 {} -73 {} -80 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -36 {} 0 {} -50 {} -32 {} -62 {} -13 {} -6 {} 0 {} -29 {} -11 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -13 {} -8 {} 0 {} 0 {} 0 {}
+KernClass2: 30+ 52 "'kern' Horizontal Kerning lookup 1 kerning class 5"
+ 108 a aacute abreve acircumflex adieresis agrave amacron aogonek aring aringacute atilde uni0430 uni04D1 uni04D3
+ 91 g gbreve gcircumflex gcommaaccent gdotaccent q a.ss02 q.ss06 u.ss08 uni051B uni0434.loclBGR
+ 17 b p thorn uni0440
+ 103 c cacute ccaron ccedilla ccircumflex cdotaccent uni0441 uni0454 uni04AB uni04AB.loclBSH uni04AB.loclCHU
+ 23 d dcaron dcroat uni1E0D
+ 148 ae aeacute e eacute ebreve ecaron ecircumflex edieresis edotaccent uni1EB9 egrave emacron eogonek uni1EBD oe uni0435 uni0450 uni0451 uni04D7 uni04D5
+ 5 f f_f
+ 50 h hbar hcircumflex uni1E25 uni045B uni0452 uni04BB
+ 154 i dotlessi iacute ibreve icircumflex idieresis uni1ECB igrave imacron iogonek itilde j uni0237 jcircumflex j.ss04 f_f_i fi uni0456 uni0457 uni0458 uni04CF
+ 62 k kcommaaccent uni043A uni045C uni049D uni04A1 uni043A.loclBGR
+ 44 l lacute lcaron lcommaaccent lslash f_f_l fl
+ 97 m n nacute ncaron ncommaaccent uni1E45 eng ntilde uni043D uni04A3 uni043F.loclBGR uni0442.loclBGR
+ 172 o oacute obreve ocircumflex odieresis uni1ECD ograve ohungarumlaut omacron oslash oslashacute otilde uni0259 uni0431 uni043E uni0444 uni044D uni044E uni04D9 uni04E7 uni04E9
+ 36 r racute rcaron rcommaaccent uni1E5B
+ 65 s sacute scaron scedilla scircumflex scommaaccent uni1E63 uni0455
+ 45 t tbar tcaron uni0163 uni021B uni1E6D c_t s_t
+ 311 u uacute ubreve ucircumflex udieresis uni1EE5 ugrave uhungarumlaut umacron uogonek uring utilde uni0438 uni0439 uni045D uni043B uni043C uni043F uni0447 uni0448 uni045F uni044B uni044F uni0525 uni04B7 uni04B9 uni04CC uni04E3 uni04E5 uni04F5 uni04F9 uni0438.loclBGR uni0439.loclBGR uni045D.loclBGR uni0448.loclBGR
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 34 z zacute zcaron zdotaccent uni1E93
+ 6 a.ss01
+ 6 d.ss03
+ 3 eth
+ 10 germandbls
+ 6 l.ss05
+ 6 t.ss07
+ 1 v
+ 6 w.ss09
+ 1 x
+ 6 y.ss10
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 23 f f_f f_f_i f_f_l fi fl
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 37 t tbar tcaron uni0163 uni021B uni1E6D
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 1 V
+ 8 asterisk
+ 9 backslash
+ 12 ordmasculine
+ 8 question
+ 6 t.ss07
+ 9 trademark
+ 1 v
+ 6 w.ss09
+ 6 y.ss10
+ 317 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Q G.ss11 uni041E uni0421 uni0424 uni0404 uni04AA uni04E6 uni04E8 uni051A uni0424.loclBGR uni04AA.loclBSH uni04AA.loclCHU
+ 11 ordfeminine
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 6 W.ss09
+ 1 X
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 498 B D Eth Dcaron Dcroat uni1E0C E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent uni1EB8 Egrave Emacron Eogonek uni1EBC F H Hbar Hcircumflex uni1E24 I Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave Imacron Iogonek Itilde K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent uni1E44 Eng Ntilde P Thorn R Racute Rcaron Rcommaaccent uni1E5A uni0412 uni0415 uni0400 uni0401 uni041C uni041D uni0420 uni0406 uni0407 uni04A2 uni04C0 uni04D6 uni0492.loclBSH
+ 21 J Jcircumflex uni0408
+ 65 S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni0405
+ 34 z zacute zcaron zdotaccent uni1E93
+ 10 braceright
+ 12 bracketright
+ 10 parenright
+ 5 slash
+ 1 x
+ 115 d dcaron dcroat uni1E0D g gbreve gcircumflex gcommaaccent gdotaccent q a.ss02 d.ss03 q.ss06 uni051B uni0434.loclBGR
+ 27 guillemotleft guilsinglleft
+ 386 c cacute ccaron ccedilla ccircumflex cdotaccent e eacute ebreve ecaron ecircumflex edieresis edotaccent uni1EB9 egrave emacron eogonek uni1EBD o oacute obreve ocircumflex odieresis uni1ECD ograve ohungarumlaut omacron oslash oslashacute otilde oe c_t uni0435 uni0450 uni0451 uni043E uni0441 uni0444 uni0454 uni04AB uni04D7 uni04E7 uni04E9 uni04AB.loclBSH uni04AB.loclCHU uni0431.loclSRB
+ 3 eth
+ 28 emdash endash hyphen uni00AD
+ 49 comma ellipsis period quotedblbase quotesinglbase
+ 7 uni0259
+ 5 space
+ 134 a aacute abreve acircumflex adieresis agrave amacron aogonek aring aringacute atilde ae aeacute a.ss01 uni0430 uni04D1 uni04D3 uni04D5
+ 69 s sacute scaron scedilla scircumflex scommaaccent uni1E63 s_t uni0455
+ 37 periodcentered periodcentered.loclCAT
+ 9 copyright
+ 10 registered
+ 2 at
+ 0 {} -93 {} -14 {} -61 {} -91 {} -2 {} -15 {} -21 {} -21 {} -5 {} -20 {} -20 {} -59 {} -24 {} -61 {} -11 {} -11 {} -5 {} -27 {} -19 {} -17 {} -20 {} -3 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -9 {} 0 {} -69 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -31 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} -2 {} 0 {} -7 {} -34 {} -9 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -97 {} -10 {} -68 {} -89 {} -5 {} -15 {} -21 {} -22 {} -7 {} -17 {} -18 {} -67 {} -24 {} -51 {} -8 {} -12 {} -8 {} -24 {} -18 {} -15 {} -18 {} 0 {} 0 {} -17 {} -49 {} -39 {} -16 {} -18 {} -9 {} -7 {} -8 {} -8 {} -10 {} -10 {} -23 {} -10 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} -8 {} -58 {} -81 {} 0 {} 0 {} -4 {} -4 {} 0 {} -8 {} -10 {} -56 {} -12 {} -38 {} 0 {} 0 {} 0 {} -16 {} -8 {} -7 {} -10 {} -6 {} 0 {} -2 {} -37 {} -9 {} -6 {} -9 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -4 {} -6 {} -5 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} -10 {} -4 {} -8 {} 0 {} 0 {} 0 {} 0 {} -2 {} -2 {} -2 {} -4 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} -2 {} -2 {} -2 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -99 {} -7 {} -62 {} -104 {} -3 {} -10 {} -15 {} -15 {} -5 {} -15 {} -17 {} -60 {} -19 {} -47 {} 0 {} -8 {} -6 {} -21 {} -15 {} -14 {} -17 {} 0 {} 0 {} -14 {} -48 {} -25 {} -13 {} -17 {} -6 {} -7 {} -7 {} -6 {} 0 {} 0 {} -18 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 43 {} 0 {} 55 {} 51 {} 0 {} 25 {} 41 {} 25 {} 0 {} 0 {} 0 {} 54 {} 16 {} 33 {} 0 {} 0 {} 0 {} 30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 14 {} 45 {} 58 {} -34 {} -44 {} 0 {} -49 {} 0 {} 0 {} 8 {} 11 {} 35 {} -29 {} 0 {} -5 {} -19 {} -7 {} -19 {} -12 {} -35 {} -4 {} -21 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -91 {} -11 {} -60 {} -82 {} -3 {} -7 {} -14 {} -14 {} -3 {} -10 {} -10 {} -59 {} -16 {} -45 {} 0 {} -10 {} -3 {} -20 {} -9 {} -7 {} -10 {} -5 {} 0 {} -9 {} -41 {} -8 {} 0 {} 0 {} -2 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -4 {} -19 {} -38 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 9 {} 0 {} -25 {} -32 {} -27 {} -31 {} -47 {} 0 {} -23 {} 0 {} -5 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -34 {} -23 {} -32 {} -34 {} -4 {} -19 {} -19 {} -19 {} -6 {} -26 {} -26 {} -32 {} -19 {} -25 {} -18 {} -8 {} -8 {} -18 {} -26 {} -24 {} -26 {} -19 {} -18 {} 0 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 3 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} -9 {} 0 {} 0 {} -27 {} 0 {} 0 {} -84 {} -16 {} -16 {} 0 {} 0 {} -89 {} -12 {} -60 {} -80 {} -3 {} -5 {} -11 {} -10 {} -3 {} -9 {} -9 {} -58 {} -14 {} -44 {} 0 {} -9 {} -3 {} -18 {} -9 {} -6 {} -9 {} -5 {} 0 {} -8 {} -41 {} -8 {} 0 {} 0 {} -2 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -99 {} -10 {} -70 {} -92 {} -5 {} -13 {} -19 {} -19 {} -8 {} -18 {} -20 {} -69 {} -22 {} -50 {} -4 {} -11 {} -8 {} -23 {} -18 {} -16 {} -20 {} 0 {} 0 {} -18 {} -50 {} -40 {} -16 {} -18 {} -9 {} -8 {} -9 {} -9 {} -5 {} -5 {} -22 {} -5 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} 0 {} -11 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -2 {} -33 {} -45 {} -66 {} 0 {} -74 {} 0 {} 0 {} 0 {} 0 {} -16 {} -50 {} 0 {} -5 {} -32 {} -7 {} -24 {} -19 {} -100 {} -7 {} -22 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} -11 {} -55 {} -82 {} -3 {} 0 {} -5 {} -4 {} -3 {} -12 {} -14 {} -56 {} -9 {} -38 {} 0 {} 0 {} -4 {} -17 {} -13 {} -11 {} -14 {} -4 {} 0 {} -2 {} -41 {} -10 {} -8 {} -9 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -12 {} -38 {} -58 {} -2 {} 0 {} 0 {} 0 {} -2 {} -2 {} -2 {} -37 {} 0 {} -25 {} 0 {} 0 {} -2 {} -9 {} 0 {} 0 {} -2 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} -12 {} -7 {} -7 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -14 {} -51 {} -74 {} 0 {} 0 {} -4 {} 0 {} -2 {} -2 {} -2 {} -51 {} 0 {} -35 {} 0 {} 0 {} -2 {} -13 {} -2 {} -2 {} -2 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} -9 {} -28 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 2 {} -7 {} 5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} -11 {} 0 {} -27 {} -37 {} -61 {} 0 {} -75 {} 0 {} 0 {} 0 {} 0 {} -15 {} -47 {} 0 {} -17 {} -25 {} -18 {} -28 {} -10 {} -68 {} -16 {} -28 {} -13 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} -54 {} 0 {} -13 {} -34 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -29 {} -31 {} -55 {} 0 {} -61 {} 0 {} 0 {} 0 {} 0 {} -14 {} -36 {} 0 {} -16 {} -22 {} -18 {} -25 {} -6 {} -63 {} -15 {} -25 {} -13 {} -13 {} 0 {} 0 {} 0 {} -5 {} 0 {} -63 {} -8 {} -29 {} -51 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} -19 {} -9 {} -11 {} -8 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -97 {} -13 {} -62 {} -87 {} -4 {} -10 {} -15 {} -15 {} -7 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -8 {} -26 {} -34 {} -2 {} 0 {} 0 {} 0 {} 0 {} -10 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} -18 {} -21 {} -7 {} -13 {} -8 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -12 {} -36 {} -50 {} -8 {} 0 {} -4 {} 0 {} -9 {} -16 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} -8 {} 0 {} 0 {} -12 {} -13 {} -9 {} 0 {} -7 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} 0 {} 0 {} -34 {} -43 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -16 {} -5 {} 0 {} -9 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -53 {} 0 {} -12 {} -32 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} 0 {} -33 {} -56 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -18 {} -23 {} -18 {} 0 {} -10 {} -65 {} 0 {} 0 {} -14 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} -51 {} 0 {} 0 {} -31 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} -29 {} -53 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} -20 {} -16 {} 0 {} -4 {} -31 {} 0 {} 0 {} -13 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} -12 {} -29 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} -32 {} -24 {} 0 {} -15 {} 0 {} 0 {} 0 {} -6 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} -54 {} 0 {} 0 {} -35 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} 0 {} 0 {} -31 {} -55 {} 0 {} -61 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -22 {} -18 {} 0 {} -6 {} -32 {} 0 {} 0 {} -13 {} -13 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 17+ 48 "'kern' Horizontal Kerning lookup 1 kerning class 6"
+ 15 colon semicolon
+ 27 guillemotleft guilsinglleft
+ 29 guillemotright guilsinglright
+ 28 emdash endash hyphen uni00AD
+ 40 comma period quotedblbase quotesinglbase
+ 37 periodcentered periodcentered.loclCAT
+ 22 quotedblleft quoteleft
+ 24 quotedblright quoteright
+ 20 quotedbl quotesingle
+ 8 asterisk
+ 9 backslash
+ 9 braceleft
+ 11 bracketleft
+ 9 parenleft
+ 12 questiondown
+ 5 slash
+ 10 exclamdown
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 1 V
+ 6 W.ss09
+ 4 y.sc
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 21 J Jcircumflex uni0408
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 23 f f_f f_f_i f_f_l fi fl
+ 37 t tbar tcaron uni0163 uni021B uni1E6D
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 34 z zacute zcaron zdotaccent uni1E93
+ 1 X
+ 4 a.sc
+ 4 j.sc
+ 4 t.sc
+ 6 t.ss07
+ 1 v
+ 4 v.sc
+ 4 w.sc
+ 6 w.ss09
+ 1 x
+ 4 x.sc
+ 6 y.ss10
+ 4 z.sc
+ 317 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE Q G.ss11 uni041E uni0421 uni0424 uni0404 uni04AA uni04E6 uni04E8 uni051A uni0424.loclBGR uni04AA.loclBSH uni04AA.loclCHU
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 7 uni018F
+ 386 c cacute ccaron ccedilla ccircumflex cdotaccent e eacute ebreve ecaron ecircumflex edieresis edotaccent uni1EB9 egrave emacron eogonek uni1EBD o oacute obreve ocircumflex odieresis uni1ECD ograve ohungarumlaut omacron oslash oslashacute otilde oe c_t uni0435 uni0450 uni0451 uni043E uni0441 uni0444 uni0454 uni04AB uni04D7 uni04E7 uni04E9 uni04AB.loclBSH uni04AB.loclCHU uni0431.loclSRB
+ 40 l lacute lcaron lcommaaccent ldot lslash
+ 19 c.sc g.sc o.sc q.sc
+ 115 d dcaron dcroat uni1E0D g gbreve gcircumflex gcommaaccent gdotaccent q a.ss02 d.ss03 q.ss06 uni051B uni0434.loclBGR
+ 69 s sacute scaron scedilla scircumflex scommaaccent uni1E63 s_t uni0455
+ 3 eth
+ 7 uni0259
+ 134 a aacute abreve acircumflex adieresis agrave amacron aogonek aring aringacute atilde ae aeacute a.ss01 uni0430 uni04D1 uni04D3 uni04D5
+ 4 s.sc
+ 214 u uacute ubreve ucircumflex udieresis uni1EE5 ugrave uhungarumlaut umacron uogonek uring utilde u.ss08 uni0438.loclBGR uni0439.loclBGR uni045D.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044C.loclBGR
+ 498 B D Eth Dcaron Dcroat uni1E0C E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent uni1EB8 Egrave Emacron Eogonek uni1EBC F H Hbar Hcircumflex uni1E24 I Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave Imacron Iogonek Itilde K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent uni1E44 Eng Ntilde P Thorn R Racute Rcaron Rcommaaccent uni1E5A uni0412 uni0415 uni0400 uni0401 uni041C uni041D uni0420 uni0406 uni0407 uni04A2 uni04C0 uni04D6 uni0492.loclBSH
+ 59 b.sc d.sc e.sc f.sc h.sc i.sc k.sc l.sc m.sc n.sc p.sc r.sc
+ 65 S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni0405
+ 116 b h hbar hcircumflex uni1E25 k kcommaaccent thorn germandbls uni045B uni0452 uni04BB uni0432.loclBGR uni043A.loclBGR
+ 145 i dotlessi iacute ibreve icircumflex idieresis uni1ECB igrave imacron iogonek itilde j uni0237 jcircumflex j.ss04 uni0456 uni0457 uni0458 uni04CF
+ 392 m n nacute ncaron ncommaaccent uni1E45 eng ntilde p r racute rcaron rcommaaccent uni1E5B uni0432 uni0433 uni0453 uni0491 uni0438 uni0439 uni045D uni043A uni045C uni043C uni043D uni043F uni0440 uni0446 uni0448 uni0449 uni045F uni044C uni044B uni045A uni044E uni0493 uni0495 uni049B uni049D uni04A3 uni0525 uni04E3 uni04E5 uni04F7 uni04F9 uni043F.loclBGR uni0442.loclBGR uni0493.loclBSH uni04A5
+ 0 {} -25 {} -21 {} -35 {} -20 {} -8 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} -29 {} -50 {} -28 {} -16 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} -52 {} -77 {} -51 {} -36 {} -50 {} -13 {} -16 {} -10 {} -5 {} -8 {} -7 {} -25 {} -26 {} -19 {} -24 {} -21 {} -30 {} -45 {} -14 {} -23 {} -32 {} -33 {} -20 {} -32 {} -35 {} -26 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -32 {} -59 {} -31 {} -17 {} -32 {} 0 {} -6 {} -25 {} 0 {} 0 {} 0 {} -10 {} -12 {} -9 {} -18 {} -13 {} -31 {} -26 {} 0 {} -10 {} -14 {} -14 {} -4 {} -15 {} -19 {} -12 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -62 {} -65 {} -78 {} -64 {} -44 {} -62 {} 0 {} 3 {} 0 {} 0 {} -10 {} -4 {} -68 {} -54 {} 0 {} 0 {} 0 {} 0 {} -50 {} -6 {} -65 {} -44 {} -45 {} -31 {} 0 {} 0 {} -38 {} 0 {} -8 {} -12 {} -5 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -58 {} -95 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} 0 {} -7 {} -15 {} -4 {} -20 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 0 {} 0 {} -65 {} -102 {} -91 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -47 {} -54 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -16 {} -23 {} -12 {} -21 {} -16 {} -10 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -100 {} -91 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -19 {} 0 {} -15 {} -21 {} -10 {} -23 {} -15 {} -4 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 11 {} 7 {} 3 {} 0 {} 0 {} 0 {} -64 {} -101 {} -92 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} -18 {} -23 {} -14 {} 0 {} 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -74 {} -76 {} 0 {} 0 {} 0 {} 7 {} 37 {} 0 {} 0 {} 0 {} -12 {} -42 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} -22 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} -5 {} 0 {} -5 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} -5 {} 0 {} -5 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 5 {} 14 {} 12 {} 0 {} 0 {} 0 {} 7 {} 30 {} 0 {} 0 {} -6 {} -5 {} -15 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -21 {} 0 {} 0 {} -22 {} 0 {} -23 {} -22 {} 0 {} 0 {} 0 {} -5 {} 0 {} -13 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -57 {} -44 {} -58 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} 0 {} -12 {} -13 {} -18 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -14 {} 0 {} -15 {} -13 {} -15 {} -15 {} -15 {} 0 {} 0 {} -16 {} 0 {} -13 {} -8 {} -8 {} -9 {} -9 {} -9 {} -9 {} 0 {} 0 {} 10 {} 7 {} 0 {} 0 {} 0 {} -76 {} -122 {} -92 {} 0 {} -16 {} 0 {} -14 {} -17 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} 0 {} -53 {} 0 {} -54 {} -53 {} -44 {} 0 {} 0 {} -42 {} 0 {} -29 {} 0 {} -24 {} -9 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 2+ 12 "'kern' Horizontal Kerning lookup 1 kerning class 7"
+ 9 ampersand
+ 2 at
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 21 J Jcircumflex uni0408
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 34 z zacute zcaron zdotaccent uni1E93
+ 0 {} 33 {} 62 {} -59 {} -13 {} -52 {} -68 {} -18 {} -19 {} 7 {} 8 {} 8 {} 0 {} -14 {} -5 {} -57 {} 0 {} -45 {} -68 {} -6 {} -11 {} 0 {} 0 {} 0 {}
+KernClass2: 10+ 9 "'kern' Horizontal Kerning lookup 1 kerning class 8"
+ 5 eight
+ 4 five
+ 4 four
+ 4 nine
+ 3 one
+ 5 seven
+ 3 six
+ 5 three
+ 3 two
+ 4 zero
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 95 U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde
+ 21 J Jcircumflex uni0408
+ 34 Z Zacute Zcaron Zdotaccent uni1E92
+ 0 {} -15 {} -18 {} -16 {} -26 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 11 {} -17 {} -26 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} -38 {} -50 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} -59 {} -54 {} 0 {} 0 {} 0 {} 0 {} 5 {} 34 {} -49 {} -63 {} -43 {} -7 {} 3 {} 0 {} 0 {} -37 {} -58 {} 0 {} 0 {} 14 {} 0 {} -56 {} 0 {} 0 {} -13 {} -12 {} -9 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 13 {} -31 {} -49 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 14 {} -27 {} -46 {} -32 {} 0 {} 0 {} 0 {} 0 {} -18 {} -21 {} -37 {} -57 {} -41 {} 0 {} 0 {} -5 {}
+KernClass2: 1+ 9 "'kern' Horizontal Kerning lookup 1 kerning class 9"
+ 5 space
+ 108 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni0410 uni04D0 uni04D2
+ 18 AE AEacute uni04D4
+ 21 J Jcircumflex uni0408
+ 77 T Tbar Tcaron uni0162 uni021A uni1E6C uni0422 uni042A uni040B uni0402 uni04A0
+ 45 W Wacute Wcircumflex Wdieresis Wgrave uni051C
+ 61 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 uni04AE uni04B0
+ 45 w wacute wcircumflex wdieresis wgrave uni051D
+ 85 y yacute ycircumflex ydieresis ygrave uni1EF9 uni0443 uni045E uni04EF uni04F1 uni04F3
+ 0 {} -31 {} -41 {} -27 {} -29 {} -35 {} -36 {} -28 {} -27 {}
+KernClass2: 2+ 2 "'kern' Horizontal Kerning lookup 1 kerning class 10"
+ 29 guillemotright guilsinglright
+ 40 comma period quotedblbase quotesinglbase
+ 2 pi
+ 0 {} -13 {} 0 {} -8 {}
+KernClass2: 1+ 2 "'kern' Horizontal Kerning lookup 1 kerning class 11"
+ 7 uni2126
+ 2 pi
+ 0 {} -3 {}
+KernClass2: 1+ 3 "'kern' Horizontal Kerning lookup 1 kerning class 12"
+ 2 pi
+ 27 guillemotleft guilsinglleft
+ 28 emdash endash hyphen uni00AD
+ 0 {} -13 {} -9 {}
+ChainSub2: coverage "'ordn' Ordinals lookup 24 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 3 O o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals lookup 24 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 3 A a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions lookup 23 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+  BCoverage: 99 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions lookup 23 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+  BCoverage: 8 fraction
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'locl' Localized Forms in Latin lookup 4 contextual 1" 0 0 0 1
+ 1 1 1
+  Coverage: 14 periodcentered
+  BCoverage: 1 L
+  FCoverage: 1 L
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'locl' Localized Forms in Latin lookup 4 contextual 0" 0 0 0 1
+ 1 1 1
+  Coverage: 14 periodcentered
+  BCoverage: 1 l
+  FCoverage: 1 l
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1" 0 0 0 1
+ 1 0 2
+  Coverage: 3 i j
+  FCoverage: 68 uni031B dotbelowcomb uni0324 uni0327 uni0328 uni032E uni0331 uni0335
+  FCoverage: 131 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni0311 uni0312
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0" 0 0 0 1
+ 1 0 1
+  Coverage: 3 i j
+  FCoverage: 131 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni030F uni0311 uni0312
+ 1
+  SeqLookup: 0 "Single Substitution lookup 43"
+EndFPST
+LangName: 1033 "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)" "" "Bold" "4.020;UKWN;Raleway-v4020-Bold" "" "Version 4.020;PS 004.020;hotconv 1.0.88;makeotf.lib2.5.64775" "" "Raleway is a trademark of Matt McInerney." "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida" "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida" "Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set." "http://theleagueofmoveabletype.com" "http://pixelspread.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 19 15
+BeginPrivate: 8
+BlueValues 31 [-10 0 524 534 710 720 730 740]
+OtherBlues 11 [-223 -213]
+BlueScale 5 0.037
+BlueFuzz 1 0
+StdHW 5 [102]
+StdVW 5 [134]
+StemSnapH 21 [102 114 118 121 123]
+StemSnapV 13 [134 137 139]
+EndPrivate
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning lookup 3 subtable" "Anchor-6" "'mark' Mark Positioning lookup 3 subtable" "Anchor-7" "'mark' Mark Positioning lookup 4 subtable" "Anchor-8" "'mark' Mark Positioning lookup 4 subtable" "Anchor-9" "'mark' Mark Positioning lookup 4 subtable" "Anchor-10" "'mark' Mark Positioning lookup 4 subtable" "Anchor-11" "'mark' Mark Positioning lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark lookup 5 subtable" "Anchor-13" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-14" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-15" "'mkmk' Mark to Mark lookup 8 subtable"
+BeginChars: 65664 99
+
+StartChar: A
+Encoding: 65 65 0
+Width: 672
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<5 147 5 5 526 668 526 526> 177 97<235 435 235 460 212 435> 690 20G<267 407 407 407>
+VStem: 5 663<0 0>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 337 709 basechar 0
+AnchorPoint: "Anchor-8" 668 0 basechar 0
+AnchorPoint: "Anchor-7" 347 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+267 710 m 1
+ 407 710 l 1
+ 668 0 l 1
+ 526 0 l 1
+ 460 177 l 1
+ 212 177 l 1
+ 147 0 l 1
+ 5 0 l 1
+ 267 710 l 1
+435 274 m 1
+ 337 567 l 1
+ 235 274 l 1
+ 435 274 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -128 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" ordfeminine
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" a.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordfeminine a.sc
+EndChar
+
+StartChar: B
+Encoding: 66 66 1
+Width: 680
+Flags: MW
+HStem: 0 117<212 417 212 417> 304 109<212 396 396 419 212 424 212 396> 592 118<212 212 212 402>
+VStem: 74 138<117 304 413 592> 480 136<494.5 530> 507 139<183.5 229.5 123.5 235>
+LayerCount: 2
+Fore
+SplineSet
+417 0 m 2xf4
+ 74 0 l 1
+ 74 710 l 1
+ 454 710 l 2
+ 554 710 616 618 616 529 c 0xf8
+ 616 460 580 393 514 364 c 1
+ 595 340 646 276 646 183 c 0
+ 646 64 542 0 417 0 c 2xf4
+212 592 m 1
+ 212 413 l 1
+ 396 413 l 2
+ 442 413 480 447 480 503 c 0
+ 480 557 446 592 402 592 c 2
+ 212 592 l 1
+424 304 m 2xf4
+ 212 304 l 1
+ 212 117 l 1
+ 417 117 l 2
+ 467 117 507 158 507 209 c 0
+ 507 261 471 304 424 304 c 2xf4
+EndSplineSet
+Validated: 513
+Kerns2: 86 -60 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 -5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 -10 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 -14 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -22 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" b.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" b.sc
+EndChar
+
+StartChar: C
+Encoding: 67 67 2
+Width: 686
+GlyphClass: 2
+Flags: MW
+HStem: -6 122<317.5 411.5 317.5 432.5> 592 122<308 408.5>
+VStem: 31 140<293 412.5 293 446.5>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 380 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 376 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+381 714 m 0
+ 511 714 611 651 657 559 c 1
+ 551 486 l 1
+ 515 566 440 592 377 592 c 0
+ 239 592 171 469 171 356 c 0
+ 171 230 256 116 379 116 c 0
+ 444 116 521 147 554 224 c 1
+ 667 159 l 1
+ 623 53 490 -6 375 -6 c 0
+ 173 -6 31 180 31 360 c 0
+ 31 533 160 714 381 714 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -62 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" c.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" c.sc
+EndChar
+
+StartChar: D
+Encoding: 68 68 3
+Width: 716
+GlyphClass: 2
+Flags: MW
+HStem: 0 121<212 332 212 332> 589 121<212 332 212 212>
+VStem: 74 138<121 589 121 710 121 710> 543 139<289 424.5>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 358 355 basechar 0
+AnchorPoint: "Anchor-9" 330 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 358 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 332 710 l 2
+ 564 710 682 552 682 356 c 0
+ 682 141 545 0 332 0 c 2
+ 74 0 l 1
+332 589 m 2
+ 212 589 l 1
+ 212 121 l 1
+ 332 121 l 2
+ 468 121 543 222 543 356 c 0
+ 543 493 466 589 332 589 c 2
+EndSplineSet
+Validated: 513
+Kerns2: 86 -77 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" d.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" d.sc
+EndChar
+
+StartChar: E
+Encoding: 69 69 4
+Width: 601
+GlyphClass: 2
+Flags: MW
+HStem: 0 121<212 567 212 567> 306 112<212 511 212 511> 589 121<212 558 212 212>
+VStem: 74 138<121 306 418 589>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 326 709 basechar 0
+AnchorPoint: "Anchor-8" 567 0 basechar 0
+AnchorPoint: "Anchor-7" 326 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+567 121 m 1
+ 567 0 l 1
+ 74 0 l 1
+ 74 710 l 1
+ 558 710 l 1
+ 558 589 l 1
+ 212 589 l 1
+ 212 418 l 1
+ 511 418 l 1
+ 511 306 l 1
+ 212 306 l 1
+ 212 121 l 1
+ 567 121 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" e.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" e.sc
+EndChar
+
+StartChar: F
+Encoding: 70 70 5
+Width: 574
+Flags: MW
+HStem: 0 21G<74 74 74 212> 294 112<212 494 212 494> 589 121<212 551 212 212>
+VStem: 74 138<0 294 406 589>
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 551 710 l 1
+ 551 589 l 1
+ 212 589 l 1
+ 212 406 l 1
+ 494 406 l 1
+ 494 294 l 1
+ 212 294 l 1
+ 212 0 l 1
+ 74 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 94 -8 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 86 -36 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 3 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 -78 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 62 8 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 61 -5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 57 -23 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 56 -46 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 55 -14 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 54 -12 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 53 -7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 -8 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -8 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" f.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" f.sc
+EndChar
+
+StartChar: G
+Encoding: 71 71 6
+Width: 725
+GlyphClass: 2
+Flags: MW
+HStem: -5 122<320.5 407> 0 21G<567 681 567 567> 264 101<424 567 424 681> 593 122<312.5 411>
+VStem: 32 139<288 419 288 456> 567 114<0 81 81 81 215 264 264 264>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 377 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 372 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 365 m 1xbc
+ 681 365 l 1
+ 681 0 l 1
+ 567 0 l 1x7c
+ 567 81 l 1
+ 509 23 445 -5 369 -5 c 0
+ 182 -5 32 154 32 359 c 0
+ 32 553 181 715 378 715 c 0
+ 511 715 609 654 657 560 c 1
+ 554 484 l 1
+ 518 554 449 593 373 593 c 0
+ 252 593 171 483 171 355 c 0
+ 171 221 260 117 381 117 c 0
+ 449 117 512 150 567 215 c 1
+ 567 264 l 1
+ 424 264 l 1
+ 424 365 l 1xbc
+EndSplineSet
+Validated: 513
+Kerns2: 86 -75 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss11' Style Set 11 lookup 41 subtable" G.ss11
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" g.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" g.sc G.ss11
+EndChar
+
+StartChar: H
+Encoding: 72 72 7
+Width: 745
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 212 74 74 534 671 534 534> 303 120<212 534 212 534> 690 20G<74 212 212 212 534 671 671 671>
+VStem: 74 138<0 303 0 423 423 710> 534 137<0 303 303 303 423 710 0 710>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 373 355 basechar 0
+AnchorPoint: "Anchor-9" 375 708 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 373 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+671 710 m 1
+ 671 0 l 1
+ 534 0 l 1
+ 534 303 l 1
+ 212 303 l 1
+ 212 0 l 1
+ 74 0 l 1
+ 74 710 l 1
+ 212 710 l 1
+ 212 423 l 1
+ 534 423 l 1
+ 534 710 l 1
+ 671 710 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" h.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" h.sc
+EndChar
+
+StartChar: I
+Encoding: 73 73 8
+Width: 286
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 74 74 212> 690 20G<74 212 212 212>
+VStem: 74 138<0 710 0 710>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 143 709 basechar 0
+AnchorPoint: "Anchor-8" 212 0 basechar 0
+AnchorPoint: "Anchor-7" 143 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 212 710 l 1
+ 212 0 l 1
+ 74 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" i.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" i.sc
+EndChar
+
+StartChar: J
+Encoding: 74 74 9
+Width: 491
+GlyphClass: 2
+Flags: MW
+HStem: -11 122<132 215 132 279> 690 20G<287 425 425 425>
+VStem: 287 138<338 349 349 710>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 358 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+38 145 m 1
+ 55 133 102 111 162 111 c 0
+ 268 111 287 179 287 338 c 2
+ 287 710 l 1
+ 425 710 l 1
+ 425 349 l 2
+ 425 135 395 -11 163 -11 c 0
+ 99 -11 49 4 7 33 c 1
+ 38 145 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -53 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" j.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" j.sc
+EndChar
+
+StartChar: K
+Encoding: 75 75 10
+Width: 669
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 74 74 212 523 523 523 679> 690 20G<510 662 662 662>
+VStem: 74 138<0 212 372 709>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 0 0 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 352 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 709 l 1
+ 212 709 l 1
+ 212 372 l 1
+ 510 710 l 1
+ 662 710 l 1
+ 390 395 l 1
+ 679 0 l 1
+ 523 0 l 1
+ 302 306 l 1
+ 212 212 l 1
+ 212 0 l 1
+ 74 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -43 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" k.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" k.sc
+EndChar
+
+StartChar: L
+Encoding: 76 76 11
+Width: 584
+GlyphClass: 2
+Flags: MW
+HStem: 0 121<212 574 212 574> 690 20G<74 212 212 212>
+VStem: 74 138<121 710 121 710 121 710>
+AnchorPoint: "Anchor-11" 385 526 basechar 0
+AnchorPoint: "Anchor-10" 292 355 basechar 0
+AnchorPoint: "Anchor-9" 142 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 336 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 212 710 l 1
+ 212 121 l 1
+ 574 121 l 1
+ 574 0 l 1
+ 74 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -167 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" l.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" l.sc
+EndChar
+
+StartChar: M
+Encoding: 77 77 12
+Width: 865
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 212 74 74 653 791 653 653> 690 20G<74 222 222 222 644 791 791 791>
+VStem: 74 138<0 466 0 710> 653 138<0 466 466 466>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 432 710 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 432 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+653 0 m 1
+ 653 466 l 1
+ 471 119 l 1
+ 394 119 l 1
+ 212 466 l 1
+ 212 0 l 1
+ 74 0 l 1
+ 74 710 l 1
+ 222 710 l 1
+ 432 306 l 1
+ 644 710 l 1
+ 791 710 l 1
+ 791 0 l 1
+ 653 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" m.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" m.sc
+EndChar
+
+StartChar: N
+Encoding: 78 78 13
+Width: 763
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 212 74 74 574 574 574 689> 690 20G<74 184 184 184>
+VStem: 74 138<0 456 0 710> 551 138<242 709 0 709>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 381 708 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 381 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+212 456 m 1
+ 212 0 l 1
+ 74 0 l 1
+ 74 710 l 1
+ 184 710 l 1
+ 551 242 l 1
+ 551 709 l 1
+ 689 709 l 1
+ 689 0 l 1
+ 574 0 l 1
+ 212 456 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" n.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" n.sc
+EndChar
+
+StartChar: O
+Encoding: 79 79 14
+Width: 756
+GlyphClass: 2
+Flags: MW
+HStem: -5 122<312.5 445 312.5 477.5> 592 123<311 442>
+VStem: 31 140<293.5 413.5 293.5 449.5> 585 139<296.5 416.5>
+AnchorPoint: "Anchor-11" 523 641 basechar 0
+AnchorPoint: "Anchor-10" 378 355 basechar 0
+AnchorPoint: "Anchor-9" 380 709 basechar 0
+AnchorPoint: "Anchor-8" 461 7 basechar 0
+AnchorPoint: "Anchor-7" 377 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+31 355 m 0
+ 31 544 179 715 380 715 c 0
+ 586 715 724 532 724 353 c 0
+ 724 165 578 -5 377 -5 c 0
+ 170 -5 31 173 31 355 c 0
+378 117 m 0
+ 512 117 585 238 585 355 c 0
+ 585 478 506 592 378 592 c 0
+ 244 592 171 472 171 355 c 0
+ 171 232 247 117 378 117 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -80 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" ordmasculine
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" o.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordmasculine o.sc
+EndChar
+
+StartChar: P
+Encoding: 80 80 15
+Width: 623
+Flags: MW
+HStem: 0 21G<74 74 74 212> 238 121<212 372 372 380 212 372> 589 121<212 366 212 212>
+VStem: 74 138<0 238 359 589> 461 140<439 510.5>
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 375 710 l 2
+ 506 710 601 590 601 474 c 0
+ 601 353 512 238 380 238 c 2
+ 212 238 l 1
+ 212 0 l 1
+ 74 0 l 1
+212 359 m 1
+ 372 359 l 2
+ 423 359 461 404 461 474 c 0
+ 461 547 415 589 366 589 c 2
+ 212 589 l 1
+ 212 359 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -58 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 -7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 -78 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 57 -7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 56 -44 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 2 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 -18 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -11 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" p.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" p.sc
+EndChar
+
+StartChar: Q
+Encoding: 81 81 16
+Width: 755
+Flags: MW
+HStem: -5 122<377 396 312.5 410.5> 0 21G<598 728 598 598> 0 109<631 631 631 728 598 631> 593 122<311 442>
+VStem: 31 140<293.5 413.5 293.5 449.5> 585 139<329 416.5>
+LayerCount: 2
+Fore
+SplineSet
+728 0 m 1x5c
+ 598 0 l 1x5c
+ 557 46 l 1
+ 505 14 444 -5 377 -5 c 0x9c
+ 170 -4 31 173 31 355 c 0
+ 31 544 179 715 380 715 c 0
+ 586 715 724 532 724 353 c 0
+ 724 262 690 174 631 109 c 1x3c
+ 728 0 l 1x5c
+378 117 m 0x9c
+ 414 117 446 126 473 141 c 1
+ 364 263 l 1
+ 494 263 l 1
+ 543 208 l 1
+ 571 250 585 303 585 355 c 0
+ 585 478 506 593 378 593 c 0
+ 244 593 171 472 171 355 c 0
+ 171 232 247 117 378 117 c 0x9c
+EndSplineSet
+Validated: 513
+Kerns2: 86 -80 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 4 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 56 6 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 1 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 -11 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 0 -10 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" q.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" q.sc
+EndChar
+
+StartChar: R
+Encoding: 82 82 17
+Width: 665
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<74 74 74 212 496 496 496 648> 238 121<212 350 212 385> 589 121<212 379 212 212>
+VStem: 74 138<0 238 359 589> 475 139<442 507>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 313 710 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 342 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+74 0 m 1
+ 74 710 l 1
+ 388 710 l 2
+ 519 710 614 590 614 474 c 0
+ 614 383 564 300 486 267 c 1
+ 648 0 l 1
+ 496 0 l 1
+ 350 238 l 1
+ 212 238 l 1
+ 212 0 l 1
+ 74 0 l 1
+212 359 m 1
+ 385 359 l 2
+ 436 359 475 410 475 474 c 0
+ 475 540 428 589 379 589 c 2
+ 212 589 l 1
+ 212 359 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -64 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" r.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" r.sc
+EndChar
+
+StartChar: S
+Encoding: 83 83 18
+Width: 613
+GlyphClass: 2
+Flags: MW
+HStem: -8 124<268 359.5 268 389.5> 594 121<268.5 348.5>
+VStem: 51 142<485 539.5 485 564.5> 436 147<165.5 220.5>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 314 716 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 320 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+497 524 m 1
+ 479 544 391 594 306 594 c 0
+ 231 594 193 565 193 514 c 0
+ 193 456 248 441 355 413 c 0
+ 495 377 583 333 583 203 c 0
+ 583 50 459 -8 320 -8 c 0
+ 214 -8 104 26 22 84 c 1
+ 83 203 l 1
+ 107 179 214 116 322 116 c 0
+ 397 116 436 142 436 189 c 0
+ 436 252 363 269 252 300 c 0
+ 117 338 51 383 51 492 c 0
+ 51 637 166 715 310 715 c 0
+ 409 715 496 678 558 636 c 1
+ 497 524 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -60 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" s.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" s.sc
+EndChar
+
+StartChar: T
+Encoding: 84 84 19
+Width: 619
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<241 378 241 241> 589 121<14 241 14 605 378 605 378 378>
+VStem: 241 137<0 589 0 589>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 315 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 310 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+605 589 m 1
+ 378 589 l 1
+ 378 0 l 1
+ 241 0 l 1
+ 241 589 l 1
+ 14 589 l 1
+ 14 710 l 1
+ 605 710 l 1
+ 605 589 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -31 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" t.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" t.sc
+EndChar
+
+StartChar: U
+Encoding: 85 85 20
+Width: 750
+GlyphClass: 2
+Flags: MW
+HStem: -5 122<309.5 440 309.5 484.5> 690 20G<64 202 202 202 548 685 685 685>
+VStem: 64 138<348 710> 548 137<348 710>
+AnchorPoint: "Anchor-11" 688 642 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 375 709 basechar 0
+AnchorPoint: "Anchor-8" 453 3 basechar 0
+AnchorPoint: "Anchor-7" 375 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+375 -5 m 0
+ 148 -5 64 164 64 348 c 2
+ 64 710 l 1
+ 202 710 l 1
+ 202 348 l 2
+ 202 229 245 117 374 117 c 0
+ 506 117 548 232 548 348 c 2
+ 548 710 l 1
+ 685 710 l 1
+ 685 348 l 2
+ 685 154 594 -5 375 -5 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -51 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" u.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" u.sc
+EndChar
+
+StartChar: V
+Encoding: 86 86 21
+Width: 676
+Flags: MW
+HStem: 0 21G<272 405 272 272> 690 20G<2 147 147 147 529 674 674 674>
+VStem: 2 672<710 710>
+LayerCount: 2
+Fore
+SplineSet
+147 710 m 1
+ 339 164 l 1
+ 529 710 l 1
+ 674 710 l 1
+ 405 0 l 1
+ 272 0 l 1
+ 2 710 l 1
+ 147 710 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 95 -19 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 94 -44 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 86 -44 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 13 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 -77 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 9 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 62 5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 61 -33 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 60 -17 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 58 -19 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 57 -40 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 56 -58 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 55 -20 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 54 -19 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 53 -21 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 52 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 -11 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -12 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" v.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" v.sc
+EndChar
+
+StartChar: W
+Encoding: 87 87 22
+Width: 1053
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<283 402 283 283 651 770 651 651> 0 159<350 350 350 402 283 350> 690 20G<0 148 148 148 904 1054 1054 1054>
+VStem: 0 1054<710 710>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 526 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+317 708 m 1xb0
+ 445 708 l 1
+ 526 473 l 1
+ 608 708 l 1
+ 735 708 l 1
+ 613 385 l 1
+ 703 159 l 1
+ 904 710 l 1
+ 1054 710 l 1
+ 770 0 l 1
+ 651 0 l 1
+ 526 298 l 1
+ 402 0 l 1
+ 283 0 l 1
+ 0 710 l 1
+ 148 710 l 1
+ 350 159 l 1x70
+ 438 385 l 1
+ 317 708 l 1xb0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -42 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss09' Style Set 9 lookup 39 subtable" W.ss09
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" w.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" w.sc W.ss09
+EndChar
+
+StartChar: X
+Encoding: 88 88 23
+Width: 646
+Flags: MW
+HStem: 0 21G<5 156 5 5 491 641 491 491> 690 20G<-3 148 148 148 499 649 649 649>
+VStem: -3 652<710 710>
+LayerCount: 2
+Fore
+SplineSet
+148 710 m 1
+ 324 448 l 1
+ 499 710 l 1
+ 649 710 l 1
+ 403 350 l 1
+ 641 0 l 1
+ 491 0 l 1
+ 324 252 l 1
+ 156 0 l 1
+ 5 0 l 1
+ 243 350 l 1
+ -3 710 l 1
+ 148 710 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -38 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 14 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 13 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 62 3 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 56 9 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 54 2 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 52 -15 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -28 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" x.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" x.sc
+EndChar
+
+StartChar: Y
+Encoding: 89 89 24
+Width: 660
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<261 398 261 261> 690 20G<4 154 154 154 507 656 656 656>
+VStem: 261 137<0 248 0 250 0 250>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 329 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 330 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+154 710 m 1
+ 329 376 l 1
+ 507 710 l 1
+ 656 710 l 1
+ 398 248 l 1
+ 398 0 l 1
+ 261 0 l 1
+ 261 250 l 1
+ 4 710 l 1
+ 154 710 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -51 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" y.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" y.sc
+EndChar
+
+StartChar: Z
+Encoding: 90 90 25
+Width: 627
+GlyphClass: 2
+Flags: MW
+HStem: 0 121<207 593 207 593> 589 121<41 426 41 590>
+VStem: 30 563<0 104 104 104>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 326 709 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 314 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 104 m 1
+ 426 589 l 1
+ 41 589 l 1
+ 41 710 l 1
+ 590 710 l 1
+ 590 606 l 1
+ 207 121 l 1
+ 593 121 l 1
+ 593 0 l 1
+ 30 0 l 1
+ 30 104 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -49 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 26 subtable" z.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" z.sc
+EndChar
+
+StartChar: a
+Encoding: 97 97 26
+Width: 574
+GlyphClass: 2
+Flags: MW
+HStem: -10 98<215.5 242> -7 21G<458 492> 248 77<236 272 183.5 287.5> 436 97<233 298>
+VStem: 25 127<146 190.5 146 206> 376 134<174 227 227 227 304 317> 397.5 144.5
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 272 524 basechar 0
+AnchorPoint: "Anchor-8" 542 0 basechar 0
+AnchorPoint: "Anchor-7" 299 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+25 155 m 0xbc
+ 25 257 117 325 250 325 c 0
+ 294 325 342 318 376 304 c 1
+ 376 332 l 2
+ 376 398 337 436 259 436 c 0
+ 201 436 152 415 95 377 c 1
+ 52 465 l 1
+ 121 510 193 533 273 533 c 0
+ 422 533 510 456 510 317 c 2
+ 510 150 l 2xbc
+ 510 121 519 111 542 109 c 1
+ 542 0 l 1
+ 518 -5 499 -7 485 -7 c 0
+ 431 -7 405 20 399 55 c 2x7a
+ 396 82 l 1xba
+ 350 23 277 -10 207 -10 c 0
+ 102 -10 25 61 25 155 c 0xbc
+351 128 m 0
+ 366 143 376 161 376 174 c 2
+ 376 227 l 1
+ 344 240 304 248 271 248 c 0
+ 201 248 152 215 152 166 c 0
+ 152 126 186 88 245 88 c 0
+ 285 88 326 104 351 128 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -77 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" ordfeminine
+Substitution2: "'ss02' Style Set 2 lookup 32 subtable" a.ss02
+Substitution2: "'ss01' Style Set 1 lookup 31 subtable" a.ss01
+Substitution2: "'salt' Stylistic Alternatives lookup 30 subtable" a.ss01
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" a.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordfeminine a.sc a.ss01 a.ss02
+EndChar
+
+StartChar: b
+Encoding: 98 98 27
+Width: 634
+Flags: MW
+HStem: -10 114<319 365 296.5 429> 0 21G<61 178 61 61> 419 114<334.5 370> 710 20G<61 195 195 195>
+VStem: 61 134<192 317 432 730> 467 137<217 301.5>
+LayerCount: 2
+Fore
+SplineSet
+178 91 m 1xbc
+ 178 0 l 1
+ 61 0 l 1x7c
+ 61 730 l 1
+ 195 730 l 1
+ 195 432 l 1
+ 232 495 294 533 375 533 c 0
+ 511 533 604 408 604 260 c 0
+ 604 109 499 -10 359 -10 c 0
+ 279 -10 214 29 178 91 c 1xbc
+467 259 m 0
+ 467 344 410 419 330 419 c 0
+ 271 419 220 374 195 317 c 1
+ 195 192 l 1
+ 213 139 271 104 322 104 c 0xbc
+ 408 104 467 175 467 259 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -88 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" b.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" b.sc
+EndChar
+
+StartChar: c
+Encoding: 99 99 28
+Width: 564
+GlyphClass: 2
+Flags: MW
+HStem: -10 114<265.5 327 265.5 362.5> 419 114<264.5 325.5>
+VStem: 28 138<216 308.5 216 335>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 304 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 305 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+305 -10 m 0
+ 135 -10 28 117 28 262 c 0
+ 28 408 133 533 304 533 c 0
+ 418 533 501 479 541 399 c 1
+ 410 359 l 1
+ 388 397 348 419 303 419 c 0
+ 226 419 166 355 166 262 c 0
+ 166 170 228 104 303 104 c 0
+ 351 104 396 131 412 166 c 1
+ 543 126 l 1
+ 507 47 420 -10 305 -10 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -67 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" c.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" c.sc
+EndChar
+
+StartChar: d
+Encoding: 100 100 29
+Width: 645
+GlyphClass: 2
+Flags: MW
+HStem: -10 114<271 314> -7 21G<524 555.5> 419 114<264.5 301.5 195 332> 710 20G<440 574 574 574>
+VStem: 29 139<215.5 301 215.5 337.5> 440 134<192 317 317 317 432 730>
+AnchorPoint: "Anchor-11" 626 524 basechar 0
+AnchorPoint: "Anchor-10" 323 262 basechar 0
+AnchorPoint: "Anchor-9" 323 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 323 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+29 262 m 0xbc
+ 29 413 127 533 263 533 c 0
+ 340 533 405 491 440 432 c 1
+ 440 730 l 1
+ 574 730 l 1
+ 574 150 l 2
+ 574 121 582 111 605 109 c 1
+ 605 0 l 1
+ 580 -5 563 -7 548 -7 c 0
+ 500 -7 466 19 462 58 c 2x7c
+ 460 91 l 1
+ 421 25 350 -10 278 -10 c 0
+ 133 -10 29 110 29 262 c 0xbc
+440 192 m 1
+ 440 317 l 1
+ 418 375 359 419 305 419 c 0
+ 224 419 168 343 168 259 c 0
+ 168 172 229 104 313 104 c 0
+ 364 104 422 141 440 192 c 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -41 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss03' Style Set 3 lookup 33 subtable" d.ss03
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" d.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" d.sc d.ss03
+EndChar
+
+StartChar: e
+Encoding: 101 101 30
+Width: 599
+GlyphClass: 2
+Flags: MW
+HStem: -10 98<274 335.5 274 362> 219 85<170 441 167 575 170 170> 436 97<267 339.5>
+VStem: 28 139<304 304 304 333.5> 441 137<304 304>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 303 524 basechar 0
+AnchorPoint: "Anchor-8" 383 0 basechar 0
+AnchorPoint: "Anchor-7" 304 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+304 -10 m 0
+ 135 -10 28 114 28 259 c 0
+ 28 408 134 533 305 533 c 0
+ 476 533 578 406 578 264 c 0
+ 578 247 577 230 575 219 c 1
+ 170 219 l 1
+ 177 137 239 88 309 88 c 0
+ 362 88 416 116 433 159 c 1
+ 548 127 l 1
+ 510 47 420 -10 304 -10 c 0
+167 304 m 1
+ 441 304 l 1
+ 433 383 376 436 303 436 c 0
+ 231 436 174 383 167 304 c 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -73 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" e.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" e.sc
+EndChar
+
+StartChar: f
+Encoding: 102 102 31
+Width: 370
+Flags: MW
+HStem: 0 21G<93 93 93 227> 394 102<24 93 24 93 227 355> 627 113<274 289 214.5 308.5>
+VStem: 93 134<0 394 0 394 496 528 528 533>
+LayerCount: 2
+Fore
+SplineSet
+93 0 m 1
+ 93 394 l 1
+ 24 394 l 1
+ 24 496 l 1
+ 93 496 l 1
+ 93 528 l 2
+ 93 658 161 740 268 740 c 0
+ 310 740 355 729 397 709 c 1
+ 370 608 l 1
+ 350 619 320 627 297 627 c 0
+ 251 627 227 594 227 533 c 2
+ 227 496 l 1
+ 355 496 l 1
+ 355 394 l 1
+ 227 394 l 1
+ 227 0 l 1
+ 93 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 30 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" f.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" f.sc
+EndChar
+
+StartChar: g
+Encoding: 103 103 32
+Width: 634
+GlyphClass: 2
+Flags: MW
+HStem: -223 101<249 325 249 367> -3 107<270 301.5> 419 114<262 314.5 202 331> 504 20G<457 574 574 574>
+VStem: 30 137<215 299.5 215 337.5> 440 134<25 91 91 91 192 317 317 317>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 312 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 262 m 0xec
+ 30 413 130 533 274 533 c 0xec
+ 355 533 417 493 457 432 c 1
+ 457 524 l 1
+ 574 524 l 1xdc
+ 574 25 l 2
+ 574 -130 451 -223 283 -223 c 0
+ 169 -223 94 -183 38 -114 c 1
+ 111 -43 l 1
+ 151 -92 215 -122 283 -122 c 0
+ 367 -122 440 -77 440 25 c 2
+ 440 91 l 1
+ 405 31 337 -3 266 -3 c 0
+ 126 -3 30 118 30 262 c 0xec
+440 192 m 1
+ 440 317 l 1
+ 416 378 359 419 303 419 c 0
+ 221 419 167 341 167 258 c 0
+ 167 172 229 104 311 104 c 0
+ 369 104 421 144 440 192 c 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -50 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 35 20 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 22 -45 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" g.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" g.sc
+EndChar
+
+StartChar: h
+Encoding: 104 104 33
+Width: 604
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 195 61 61 414 548 414 414> 415 118<343.5 353.5> 710 20G<61 195 195 195>
+VStem: 61 134<0 306 0 427 427 730> 414 134<0 294 294 327>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 302 262 basechar 0
+AnchorPoint: "Anchor-9" 320 710 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 302 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+548 0 m 1
+ 414 0 l 1
+ 414 294 l 2
+ 414 376 381 415 326 415 c 0
+ 277 415 215 370 195 306 c 1
+ 195 0 l 1
+ 61 0 l 1
+ 61 730 l 1
+ 195 730 l 1
+ 195 427 l 1
+ 234 494 304 533 383 533 c 0
+ 518 533 548 430 548 327 c 2
+ 548 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -81 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" h.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" h.sc
+EndChar
+
+StartChar: i
+Encoding: 105 105 34
+Width: 255
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 61 61 195> 504 20G<61 195 195 195> 597 133<61 195 61 195>
+VStem: 61 134<0 524 0 524 597 730>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 0 0 basechar 0
+AnchorPoint: "Anchor-8" 195 0 basechar 0
+AnchorPoint: "Anchor-7" 128 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+61 597 m 1
+ 61 730 l 1
+ 195 730 l 1
+ 195 597 l 1
+ 61 597 l 1
+61 0 m 1
+ 61 524 l 1
+ 195 524 l 1
+ 195 0 l 1
+ 61 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -37 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" dotlessi
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" i.sc
+Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" i.loclTRK
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" dotlessi i.loclTRK i.sc
+EndChar
+
+StartChar: j
+Encoding: 106 106 35
+Width: 261
+Flags: MW
+HStem: -196 116<-7 19.5 -8.5 69> 504 20G<66 200 200 200> 597 133<66 200 66 200>
+VStem: 66 134<-14 -4 -4 524 597 730>
+LayerCount: 2
+Fore
+SplineSet
+66 597 m 1
+ 66 730 l 1
+ 200 730 l 1
+ 200 597 l 1
+ 66 597 l 1
+-115 -149 m 1
+ -57 -58 l 1
+ -42 -73 -19 -80 2 -80 c 0
+ 37 -80 66 -53 66 -14 c 2
+ 66 524 l 1
+ 200 524 l 1
+ 200 -4 l 2
+ 200 -117 120 -196 18 -196 c 0
+ -32 -196 -79 -181 -115 -149 c 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -37 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 35 31 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" uni0237
+Substitution2: "'ss04' Style Set 4 lookup 34 subtable" j.ss04
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" j.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni0237 j.sc j.ss04
+EndChar
+
+StartChar: k
+Encoding: 107 107 36
+Width: 558
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 195 61 61 419 562 419 419> 710 20G<61 195 195 195>
+VStem: 61 134<0 156 0 288 288 730>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 0 0 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 289 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+419 0 m 1
+ 266 226 l 1
+ 195 156 l 1
+ 195 0 l 1
+ 61 0 l 1
+ 61 730 l 1
+ 195 730 l 1
+ 195 288 l 1
+ 406 523 l 1
+ 548 523 l 1
+ 353 301 l 1
+ 562 0 l 1
+ 419 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -59 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" k.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" k.sc
+EndChar
+
+StartChar: l
+Encoding: 108 108 37
+Width: 317
+GlyphClass: 2
+Flags: MW
+HStem: -8 21G<150.5 211.5> -8 115<150.5 250> 710 20G<60 194 194 194>
+VStem: 60 134<143.5 168 168 730>
+AnchorPoint: "Anchor-11" 258 524 basechar 0
+AnchorPoint: "Anchor-10" 159 262 basechar 0
+AnchorPoint: "Anchor-9" 127 710 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 189 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+60 730 m 1xb0
+ 194 730 l 1
+ 194 168 l 2
+ 194 119 211 107 239 107 c 0
+ 261 107 285 113 302 121 c 1x70
+ 320 19 l 1
+ 284 2 231 -8 192 -8 c 0
+ 109 -8 60 39 60 121 c 2
+ 60 730 l 1xb0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -62 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss05' Style Set 5 lookup 35 subtable" l.ss05
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" l.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" l.sc l.ss05
+EndChar
+
+StartChar: m
+Encoding: 109 109 38
+Width: 931
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 195 61 61 401 535 401 401 741 875 741 741> 415 118<334 345.5 676.5 685.5> 504 20G<61 182 182 182>
+VStem: 61 134<0 306 0 524> 401 134<0 294 294 305 0 336> 741 134<0 294 294 327>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 466 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 466 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+875 0 m 1xdc
+ 741 0 l 1
+ 741 294 l 2
+ 741 377 711 415 660 415 c 0
+ 607 415 555 370 535 305 c 1
+ 535 0 l 1
+ 401 0 l 1
+ 401 294 l 2
+ 401 378 371 415 320 415 c 0xdc
+ 268 415 215 371 195 306 c 1
+ 195 0 l 1
+ 61 0 l 1
+ 61 524 l 1
+ 182 524 l 1xbc
+ 182 427 l 1
+ 221 495 291 533 377 533 c 0
+ 464 533 512 484 525 422 c 1
+ 567 494 635 533 718 533 c 0
+ 847 533 875 428 875 327 c 2
+ 875 0 l 1xdc
+EndSplineSet
+Validated: 513
+Kerns2: 86 -66 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" m.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" m.sc
+EndChar
+
+StartChar: n
+Encoding: 110 110 39
+Width: 604
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 195 61 61 414 548 414 414> 415 118<344.5 357> 504 20G<61 182 182 182>
+VStem: 61 134<0 306 0 524> 414 134<0 294 294 327>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 317 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 302 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+548 0 m 1xb8
+ 414 0 l 1
+ 414 294 l 2
+ 414 378 383 415 331 415 c 0xd8
+ 277 415 215 369 195 306 c 1
+ 195 0 l 1
+ 61 0 l 1
+ 61 524 l 1
+ 182 524 l 1xb8
+ 182 427 l 1
+ 221 493 299 533 390 533 c 0xd8
+ 521 533 548 429 548 327 c 2
+ 548 0 l 1xb8
+EndSplineSet
+Validated: 513
+Kerns2: 86 -66 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" n.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" n.sc
+EndChar
+
+StartChar: o
+Encoding: 111 111 40
+Width: 606
+GlyphClass: 2
+Flags: MW
+HStem: -10 114<264.5 341.5 264.5 388.5> 419 114<264.5 341.5>
+VStem: 28 138<215 306.5 215 334> 440 137<216 307.5>
+AnchorPoint: "Anchor-11" 448 456 basechar 0
+AnchorPoint: "Anchor-10" 303 262 basechar 0
+AnchorPoint: "Anchor-9" 303 524 basechar 0
+AnchorPoint: "Anchor-8" 381 0 basechar 0
+AnchorPoint: "Anchor-7" 303 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+28 261 m 0
+ 28 407 133 533 303 533 c 0
+ 473 533 577 407 577 261 c 0
+ 577 117 474 -10 303 -10 c 0
+ 132 -10 28 117 28 261 c 0
+303 104 m 0
+ 380 104 440 170 440 262 c 0
+ 440 353 380 419 303 419 c 0
+ 226 419 166 352 166 261 c 0
+ 166 169 226 104 303 104 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -76 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "Single Substitution lookup 43 subtable" ordmasculine
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" o.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ordmasculine o.sc
+EndChar
+
+StartChar: p
+Encoding: 112 112 41
+Width: 634
+Flags: MW
+HStem: -213 21G<61 195 61 61> -10 114<334 370.5 301.5 441.5> 419 114<319.5 363.5> 504 20G<61 178 178 178>
+VStem: 61 134<-213 92 -213 208 208 331> 467 137<221.5 307>
+LayerCount: 2
+Fore
+SplineSet
+195 92 m 1xec
+ 195 -213 l 1
+ 61 -213 l 1
+ 61 524 l 1
+ 178 524 l 1xdc
+ 178 434 l 1
+ 217 495 280 533 359 533 c 0
+ 500 533 604 411 604 263 c 0
+ 604 110 508 -10 375 -10 c 0
+ 293 -10 230 30 195 92 c 1xec
+467 263 m 0xec
+ 467 351 405 419 322 419 c 0
+ 271 419 213 382 195 331 c 1
+ 195 208 l 1
+ 219 149 273 104 330 104 c 0
+ 411 104 467 180 467 263 c 0xec
+EndSplineSet
+Validated: 513
+Kerns2: 86 -88 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" p.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" p.sc
+EndChar
+
+StartChar: q
+Encoding: 113 113 42
+Width: 634
+Flags: MW
+HStem: -213 21G<439 573 439 439> -10 114<267 298> 419 114<266 315 205.5 335> 504 20G<456 573 573 573>
+VStem: 30 137<215.5 301 215.5 338.5> 439 134<-213 92 92 92 190 314 314 314>
+LayerCount: 2
+Fore
+SplineSet
+30 263 m 0xec
+ 30 414 136 533 275 533 c 0
+ 355 533 418 493 456 433 c 1xec
+ 456 524 l 1
+ 573 524 l 1xdc
+ 573 -213 l 1
+ 439 -213 l 1
+ 439 92 l 1
+ 400 25 337 -10 259 -10 c 0
+ 125 -10 30 112 30 263 c 0xec
+439 190 m 1
+ 439 314 l 1
+ 424 373 363 419 307 419 c 0
+ 225 419 167 343 167 259 c 0
+ 167 172 225 104 309 104 c 0
+ 366 104 409 139 439 190 c 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -50 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 35 82 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss06' Style Set 6 lookup 36 subtable" q.ss06
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" q.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" q.sc q.ss06
+EndChar
+
+StartChar: r
+Encoding: 114 114 43
+Width: 387
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<61 195 61 61> 408 123<346 373> 504 20G<61 184 184 184>
+VStem: 61 134<0 317 0 524>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 216 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 123 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+373 408 m 1xd0
+ 292 407 223 376 195 317 c 1xd0
+ 195 0 l 1
+ 61 0 l 1
+ 61 524 l 1
+ 184 524 l 1xb0
+ 184 412 l 1
+ 221 483 282 528 346 531 c 0
+ 360 531 367 531 373 530 c 1
+ 373 408 l 1xd0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -34 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" r.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" r.sc
+EndChar
+
+StartChar: s
+Encoding: 115 115 44
+Width: 494
+GlyphClass: 2
+Flags: MW
+HStem: -10 100<220.5 275 220.5 317.5> 435 99<235 281>
+VStem: 50 125<362.5 401.5 362.5 416.5> 335 129<127.5 165>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 255 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 255 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+254 -10 m 0
+ 165 -10 79 20 21 77 c 1
+ 69 164 l 1
+ 132 114 192 90 249 90 c 0
+ 301 90 335 109 335 146 c 0
+ 335 184 295 191 225 212 c 0
+ 109 249 50 278 50 365 c 0
+ 50 468 134 534 262 534 c 0
+ 336 534 404 512 459 460 c 1
+ 405 375 l 1
+ 352 416 306 435 256 435 c 0
+ 214 435 175 422 175 381 c 0
+ 175 344 206 333 270 315 c 0
+ 395 278 464 251 464 156 c 0
+ 464 52 381 -10 254 -10 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -64 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" s.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" s.sc
+EndChar
+
+StartChar: t
+Encoding: 116 116 45
+Width: 384
+GlyphClass: 2
+Flags: MW
+HStem: -9 21G<190 255.5> -9 123<190 289> 421 103<22 91 22 91 225 335>
+VStem: 91 134<165 421 165 421 165 421 524 694>
+AnchorPoint: "Anchor-11" 296 524 basechar 0
+AnchorPoint: "Anchor-10" 192 262 basechar 0
+AnchorPoint: "Anchor-9" 163 710 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 226 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+375 27 m 1x70
+ 339 11 284 -9 227 -9 c 0
+ 153 -9 91 27 91 120 c 2
+ 91 421 l 1
+ 22 421 l 1
+ 22 524 l 1
+ 91 524 l 1
+ 91 694 l 1
+ 225 694 l 1
+ 225 524 l 1
+ 335 524 l 1
+ 335 421 l 1
+ 225 421 l 1
+ 225 165 l 2
+ 226 128 247 114 275 114 c 0
+ 303 114 332 126 348 133 c 1
+ 375 27 l 1x70
+EndSplineSet
+Validated: 513
+Kerns2: 86 -55 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss07' Style Set 7 lookup 37 subtable" t.ss07
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" t.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" t.sc t.ss07
+EndChar
+
+StartChar: u
+Encoding: 117 117 46
+Width: 618
+GlyphClass: 2
+Flags: MW
+HStem: -10 114<248.5 265> -6 21G<496 527.5> 0 21G<578 578> 504 20G<56 190 190 190 412 546 546 546>
+VStem: 56 134<196 225 225 524> 412 134<199 524> 433.5 144.5
+AnchorPoint: "Anchor-11" 560 456 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 300 524 basechar 0
+AnchorPoint: "Anchor-8" 578 0 basechar 0
+AnchorPoint: "Anchor-7" 307 4 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+56 196 m 2x3c
+ 56 524 l 1
+ 190 524 l 1
+ 190 225 l 2
+ 190 145 220 104 277 104 c 0
+ 329 104 381 135 412 199 c 1
+ 412 524 l 1
+ 546 524 l 1
+ 546 150 l 2x9c
+ 546 121 555 111 578 109 c 1
+ 578 0 l 1x5a
+ 551 -5 535 -6 520 -6 c 0
+ 472 -6 440 17 435 56 c 2x5c
+ 432 98 l 1
+ 385 26 309 -10 221 -10 c 0x9c
+ 113 -10 56 61 56 196 c 2x3c
+EndSplineSet
+Validated: 513
+Kerns2: 86 -52 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss08' Style Set 8 lookup 38 subtable" u.ss08
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" u.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" u.sc u.ss08
+EndChar
+
+StartChar: v
+Encoding: 118 118 47
+Width: 550
+Flags: MW
+HStem: 0 21G<202 202 202 348> 0 122<202 280 280 280 280 348> 504 20G<9 148 148 148 413 540 540 540>
+VStem: 9 531<524 524>
+LayerCount: 2
+Fore
+SplineSet
+202 0 m 1xb0
+ 9 524 l 1
+ 148 524 l 1
+ 280 122 l 1x70
+ 413 524 l 1
+ 540 524 l 1
+ 348 0 l 1
+ 202 0 l 1xb0
+EndSplineSet
+Validated: 513
+Kerns2: 94 -5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 86 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 -15 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 -39 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 -13 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 -28 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -11 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" v.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" v.sc
+EndChar
+
+StartChar: w
+Encoding: 119 119 48
+Width: 839
+GlyphClass: 2
+Flags: MW
+HStem: 0 21G<220 333 220 220 507 619 507 507> 0 128<284 284 284 333 220 284> 504 20G<2 128 128 128 711 838 838 838>
+VStem: 2 836<524 524>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 419 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+711 524 m 1xb0
+ 838 524 l 1
+ 619 0 l 1
+ 507 0 l 1
+ 419 225 l 1
+ 333 0 l 1
+ 220 0 l 1
+ 2 524 l 1
+ 128 524 l 1
+ 284 128 l 1
+ 345 299 l 1
+ 254 523 l 1
+ 365 523 l 1
+ 419 363 l 1
+ 474 523 l 1
+ 585 523 l 1
+ 494 299 l 1
+ 556 128 l 1x70
+ 711 524 l 1xb0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss09' Style Set 9 lookup 39 subtable" w.ss09
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" w.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" w.sc w.ss09
+EndChar
+
+StartChar: x
+Encoding: 120 120 49
+Width: 531
+Flags: MW
+HStem: 0 21G<4 145 4 4 387 528 387 387> 504 20G<7 147 147 147 384 525 525 525>
+VStem: 4 524<0 0>
+LayerCount: 2
+Fore
+SplineSet
+147 524 m 1
+ 257 360 l 1
+ 265 342 l 1
+ 275 360 l 1
+ 384 524 l 1
+ 525 524 l 1
+ 343 263 l 1
+ 528 0 l 1
+ 387 0 l 1
+ 274 163 l 1
+ 265 180 l 1
+ 257 163 l 1
+ 145 0 l 1
+ 4 0 l 1
+ 189 260 l 1
+ 7 524 l 1
+ 147 524 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -37 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 6 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -11 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" x.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" x.sc
+EndChar
+
+StartChar: y
+Encoding: 121 121 50
+Width: 550
+GlyphClass: 2
+Flags: MW
+HStem: -229 117<128.5 150 125 184> -218 21G<72 72> 504 20G<6 145 145 145 410 538 538 538>
+VStem: 6 532<524 524>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 286 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 435 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+72 -102 m 1xb0
+ 95 -108 118 -112 132 -112 c 0
+ 168 -112 186 -89 213 0 c 1
+ 6 524 l 1
+ 145 524 l 1
+ 286 137 l 1
+ 410 524 l 1
+ 538 524 l 1
+ 318 -104 l 2
+ 294 -176 229 -229 139 -229 c 0xb0
+ 118 -229 96 -226 72 -218 c 1x70
+ 72 -102 l 1xb0
+EndSplineSet
+Validated: 513
+Kerns2: 86 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'ss10' Style Set 10 lookup 40 subtable" y.ss10
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" y.sc
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" y.sc y.ss10
+EndChar
+
+StartChar: z
+Encoding: 122 122 51
+Width: 493
+GlyphClass: 2
+Flags: MW
+HStem: 0 94<172 464 172 464> 430 94<38 315 38 459>
+VStem: 26 438<0 82 82 82>
+AnchorPoint: "Anchor-11" 0 0 basechar 0
+AnchorPoint: "Anchor-10" 0 0 basechar 0
+AnchorPoint: "Anchor-9" 249 524 basechar 0
+AnchorPoint: "Anchor-8" 0 0 basechar 0
+AnchorPoint: "Anchor-7" 247 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+26 82 m 1
+ 315 430 l 1
+ 38 430 l 1
+ 38 524 l 1
+ 459 524 l 1
+ 459 442 l 1
+ 172 94 l 1
+ 464 94 l 1
+ 464 0 l 1
+ 26 0 l 1
+ 26 82 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 86 -44 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'smcp' Lowercase to Small Capitals lookup 27 subtable" z.sc
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" z.sc
+EndChar
+
+StartChar: zero
+Encoding: 48 48 52
+Width: 614
+Flags: MW
+HStem: -10 123<270 343 270 381> 474 123<270 343>
+VStem: 49 134<239.5 346.5 239.5 381> 430 135<239.5 346.5>
+LayerCount: 2
+Fore
+SplineSet
+307 -10 m 0
+ 159 -10 49 117 49 293 c 0
+ 49 469 159 597 307 597 c 0
+ 455 597 565 469 565 293 c 0
+ 565 117 455 -10 307 -10 c 0
+307 474 m 0
+ 233 474 183 400 183 293 c 0
+ 183 186 233 113 307 113 c 0
+ 379 113 430 186 430 293 c 0
+ 430 400 379 474 307 474 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 23 -18 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -37 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 80 -17 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 73 -11 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -37 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" zero.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" zero.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" zero.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" zero.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2070
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" zero.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2080
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2080 zero.subs uni2070 zero.numr zero.dnom zero.lf
+EndChar
+
+StartChar: one
+Encoding: 49 49 53
+Width: 494
+Flags: MW
+HStem: 0 121<64 206 343 470 64 206> 351 125<44 68.5 44 69.5>
+VStem: 206 137<121 424 424 424 121 571>
+LayerCount: 2
+Fore
+SplineSet
+470 121 m 1
+ 470 0 l 1
+ 64 0 l 1
+ 64 121 l 1
+ 206 121 l 1
+ 206 424 l 1
+ 182 393 95 351 44 351 c 1
+ 44 476 l 1
+ 93 476 194 548 206 571 c 1
+ 343 571 l 1
+ 343 121 l 1
+ 470 121 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 23 5 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -50 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 88 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -44 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" one.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" one.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" one.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" one.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni00B9
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" one.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2081
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2081 one.subs uni00B9 one.numr one.dnom one.lf
+EndChar
+
+StartChar: two
+Encoding: 50 50 54
+Width: 564
+Flags: MW
+HStem: 0 121<215 520 215 520> 464 117<239 300.5>
+VStem: 363 146<366 411>
+LayerCount: 2
+Fore
+SplineSet
+38 0 m 1
+ 38 119 71 191 195 260 c 0
+ 304 319 363 341 363 391 c 0
+ 363 431 330 464 271 464 c 0
+ 207 464 162 427 129 388 c 1
+ 44 486 l 1
+ 80 524 174 581 294 581 c 0
+ 430 581 509 511 509 411 c 0
+ 509 317 432 270 374 237 c 0
+ 289 194 244 169 215 121 c 1
+ 520 121 l 1
+ 520 0 l 1
+ 38 0 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 21 -27 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 -28 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" two.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" two.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" two.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" two.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni00B2
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" two.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2082
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2082 two.subs uni00B2 two.numr two.dnom two.lf
+EndChar
+
+StartChar: three
+Encoding: 51 51 55
+Width: 558
+Flags: MW
+HStem: -147 122<220.5 296.5 220.5 339.5> 181 100<204 232 204 235> 460 116<233.5 294>
+VStem: 365 143<359.5 406> 381 139<40 104.5 -4.5 107.5>
+LayerCount: 2
+Fore
+SplineSet
+520 58 m 0xe8
+ 520 -67 419 -147 260 -147 c 0
+ 159 -147 80 -113 28 -51 c 1
+ 104 44 l 1
+ 138 0 185 -25 256 -25 c 0
+ 337 -25 381 7 381 73 c 0xe8
+ 381 142 332 181 232 181 c 2
+ 204 181 l 1
+ 204 281 l 1
+ 235 281 l 2
+ 317 281 365 322 365 379 c 0
+ 365 433 324 460 264 460 c 0
+ 203 460 153 431 122 380 c 1
+ 38 474 l 1
+ 79 535 175 576 279 576 c 0
+ 415 576 508 505 508 399 c 0xf0
+ 508 320 457 250 381 236 c 1
+ 464 222 520 151 520 58 c 0xe8
+EndSplineSet
+Validated: 513
+Kerns2: 21 -31 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 -31 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" three.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" three.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" three.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" three.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni00B3
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" three.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2083
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2083 three.subs uni00B3 three.numr three.dnom three.lf
+EndChar
+
+StartChar: four
+Encoding: 52 52 56
+Width: 571
+Flags: MW
+HStem: 22 120<154 312 154 446 446 534>
+VStem: 327 119<142 368 368 368>
+LayerCount: 2
+Fore
+SplineSet
+312 -127 m 1
+ 312 22 l 1
+ 20 22 l 1
+ 20 141 l 1
+ 355 571 l 1
+ 446 571 l 1
+ 446 142 l 1
+ 534 142 l 1
+ 534 22 l 1
+ 446 22 l 1
+ 446 -127 l 1
+ 312 -127 l 1
+154 142 m 1
+ 327 142 l 1
+ 327 368 l 1
+ 154 142 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 21 -38 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 88 -12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -33 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" four.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" four.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" four.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" four.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2074
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" four.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2084
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2084 four.subs uni2074 four.numr four.dnom four.lf
+EndChar
+
+StartChar: five
+Encoding: 53 53 57
+Width: 554
+Flags: MW
+HStem: -149 118<233 299 233 337> 204 115<267.5 304> 449 122<226 479 226 226>
+VStem: 386 137<52.5 122.5>
+LayerCount: 2
+Fore
+SplineSet
+262 -149 m 0
+ 159 -149 72 -102 29 -26 c 1
+ 106 54 l 1
+ 143 2 203 -31 263 -31 c 0
+ 335 -31 386 17 386 88 c 0
+ 386 157 337 204 271 204 c 0
+ 227 204 187 183 164 148 c 1
+ 47 148 l 1
+ 129 571 l 1
+ 479 571 l 1
+ 479 449 l 1
+ 226 449 l 1
+ 197 290 l 1
+ 213 307 245 319 290 319 c 0
+ 424 319 523 226 523 91 c 0
+ 523 -52 412 -149 262 -149 c 0
+EndSplineSet
+Validated: 513
+Kerns2: 21 -17 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 88 -12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 63 -16 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" five.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" five.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" five.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" five.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2075
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" five.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2085
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2085 five.subs uni2075 five.numr five.dnom five.lf
+EndChar
+
+StartChar: six
+Encoding: 54 54 58
+Width: 607
+Flags: MW
+HStem: 474 125<285.5 348 274.5 389>
+VStem: 46 521<213.5 304 168 445.5> 177 262<201 273>
+LayerCount: 2
+Fore
+SplineSet
+319 474 m 0xc0
+ 252 474 198 444 170 396 c 1
+ 173 524 230 599 319 599 c 0
+ 377 599 431 569 463 519 c 1
+ 540 603 l 1
+ 488 675 410 715 321 715 c 0
+ 152 715 46 575 46 316 c 0
+ 46 111 146 -10 307 -10 c 0
+ 454 -10 567 99 567 237 c 0
+ 567 371 459 474 319 474 c 0xc0
+177 237 m 0xa0
+ 177 309 235 367 308 367 c 0
+ 379 367 439 309 439 237 c 0
+ 439 164 378 103 308 103 c 0
+ 237 103 177 165 177 237 c 0xa0
+EndSplineSet
+Validated: 521
+Kerns2: 21 -9 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 55 -5 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" six.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" six.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" six.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" six.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2076
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" six.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2086
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2086 six.subs uni2076 six.numr six.dnom six.lf
+EndChar
+
+StartChar: seven
+Encoding: 55 55 59
+Width: 561
+Flags: MW
+HStem: 461 122<28 351 28 562>
+VStem: 28 534<461 583 583 583>
+LayerCount: 2
+Fore
+SplineSet
+351 461 m 1
+ 28 461 l 1
+ 28 583 l 1
+ 562 583 l 1
+ 210 -127 l 1
+ 58 -127 l 1
+ 351 461 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 89 -8 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 88 -6 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 73 -51 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 59 6 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 57 -14 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -39 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" seven.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" seven.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" seven.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" seven.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2077
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" seven.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2087
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2087 seven.subs uni2077 seven.numr seven.dnom seven.lf
+EndChar
+
+StartChar: eight
+Encoding: 56 56 60
+Width: 604
+Flags: MW
+HStem: -9 121<271.5 333.5 271.5 371.5> 324 101<278.5 325 278.5 332> 591 119<274 328.5>
+VStem: 44 136<186 250 186 255> 66 136<484.5 533.5 481.5 576.5> 402 137<485.5 534.5> 424 136<187.5 251 144 251.5>
+LayerCount: 2
+Fore
+SplineSet
+301 -9 m 0xf2
+ 159 -9 44 84 44 215 c 0xf2
+ 44 295 103 353 155 380 c 1
+ 106 404 66 456 66 513 c 0
+ 66 640 194 710 302 710 c 0
+ 410 710 539 642 539 514 c 0xec
+ 539 457 498 403 447 380 c 1
+ 505 351 560 292 560 210 c 0
+ 560 78 442 -9 301 -9 c 0xf2
+302 425 m 0xec
+ 348 425 402 455 402 510 c 0
+ 402 559 356 591 301 591 c 0
+ 247 591 202 558 202 509 c 0
+ 202 454 255 425 302 425 c 0xec
+301 324 m 0xf2
+ 237 324 180 282 180 218 c 0
+ 180 154 241 112 302 112 c 0
+ 365 112 424 157 424 218 c 0
+ 424 285 363 324 301 324 c 0xf2
+EndSplineSet
+Validated: 513
+Kerns2: 21 -17 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" eight.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" eight.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" eight.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" eight.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2078
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" eight.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2088
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2088 eight.subs uni2078 eight.numr eight.dnom eight.lf
+EndChar
+
+StartChar: nine
+Encoding: 57 57 61
+Width: 589
+Flags: MW
+HStem: -38 125<250.5 312.5 209 324.5>
+VStem: 32 521<257 347.5 115.5 393> 160 262<288 360 288 360.5>
+LayerCount: 2
+Fore
+SplineSet
+279 87 m 0xc0
+ 346 87 401 117 428 165 c 1
+ 426 37 369 -38 280 -38 c 0
+ 221 -38 167 -8 135 42 c 1
+ 58 -42 l 1
+ 110 -114 189 -154 278 -154 c 0
+ 446 -154 553 -14 553 245 c 0
+ 553 450 452 571 291 571 c 0
+ 144 571 32 462 32 324 c 0
+ 32 190 139 87 279 87 c 0xc0
+422 324 m 0xa0
+ 422 252 363 194 291 194 c 0
+ 219 194 160 252 160 324 c 0
+ 160 397 220 458 291 458 c 0
+ 362 458 422 396 422 324 c 0xa0
+EndSplineSet
+Validated: 521
+Kerns2: 21 -39 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 63 -37 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'lnum' Lining Figures lookup 42 subtable" nine.lf
+Substitution2: "'frac' Diagonal Fractions lookup 22 subtable" nine.numr
+Substitution2: "'dnom' Denominators lookup 20 subtable" nine.dnom
+Substitution2: "'numr' Numerators lookup 19 subtable" nine.numr
+Substitution2: "'sups' Superscript lookup 18 subtable" uni2079
+Substitution2: "'sinf' Scientific Inferiors lookup 17 subtable" nine.subs
+Substitution2: "'subs' Subscript lookup 16 subtable" uni2089
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2089 nine.subs uni2079 nine.numr nine.dnom nine.lf
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 62
+Width: 345
+Flags: MW
+HStem: 697 20G<137 208 208 208>
+VStem: 139.5 66
+LayerCount: 2
+Fore
+SplineSet
+75 520 m 1
+ 122 591 l 1
+ 51 613 l 1
+ 69 671 l 1
+ 142 640 l 1
+ 137 717 l 1
+ 208 717 l 1
+ 203 640 l 1
+ 275 671 l 1
+ 293 613 l 1
+ 223 591 l 1
+ 270 520 l 1
+ 218 486 l 1
+ 173 561 l 1
+ 127 486 l 1
+ 75 520 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 23 3 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 3 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 63
+Width: 637
+Flags: MW
+HStem: 0 21G<463 611 463 463> 690 20G<27 176 176 176>
+VStem: 27 584
+LayerCount: 2
+Fore
+SplineSet
+176 710 m 1
+ 611 0 l 1
+ 463 0 l 1
+ 27 710 l 1
+ 176 710 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 49 7 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 8 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -72 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: colon
+Encoding: 58 58 64
+Width: 247
+Flags: MW
+HStem: 0 144<69 178 69 178> 374 144<69 178 69 178>
+VStem: 69 109<0 144 0 144 374 518>
+LayerCount: 2
+Fore
+SplineSet
+69 374 m 1
+ 69 518 l 1
+ 178 518 l 1
+ 178 374 l 1
+ 69 374 l 1
+69 0 m 1
+ 69 144 l 1
+ 178 144 l 1
+ 178 0 l 1
+ 69 0 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: comma
+Encoding: 44 44 65
+Width: 232
+Flags: MW
+HStem: 4 140<58 100 58 174 58 174>
+VStem: 58 116<4 144 4 144>
+LayerCount: 2
+Fore
+SplineSet
+73 -115 m 1
+ 100 4 l 1
+ 58 4 l 1
+ 58 144 l 1
+ 174 144 l 1
+ 174 4 l 1
+ 133 -115 l 1
+ 73 -115 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 18 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 66
+Width: 307
+Flags: MW
+HStem: 0 151<87 221 87 221> 697 20G<87 221 221 221>
+VStem: 87 134<0 151 0 151 267 717>
+LayerCount: 2
+Fore
+SplineSet
+87 267 m 1
+ 87 717 l 1
+ 221 717 l 1
+ 221 267 l 1
+ 87 267 l 1
+87 0 m 1
+ 87 151 l 1
+ 221 151 l 1
+ 221 0 l 1
+ 87 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 67
+Width: 721
+Flags: MW
+HStem: 0 21G<103 211 103 103 329 437 329 329> 187 100<37 149 37 173 280 376 37 256 507 638> 424 94<84 206 84 229 84 313 336 432 563 685> 690 20G<276 384 384 384 502 610 610 610>
+VStem: 37 648<187 424 287 424>
+LayerCount: 2
+Fore
+SplineSet
+685 424 m 1
+ 539 424 l 1
+ 507 287 l 1
+ 638 287 l 1
+ 638 187 l 1
+ 483 187 l 1
+ 437 0 l 1
+ 329 0 l 1
+ 376 187 l 1
+ 256 187 l 1
+ 211 0 l 1
+ 103 0 l 1
+ 149 187 l 1
+ 37 187 l 1
+ 37 287 l 1
+ 173 287 l 1
+ 206 424 l 1
+ 84 424 l 1
+ 84 518 l 1
+ 229 518 l 1
+ 276 710 l 1
+ 384 710 l 1
+ 336 518 l 1
+ 456 518 l 1
+ 502 710 l 1
+ 610 710 l 1
+ 563 518 l 1
+ 685 518 l 1
+ 685 424 l 1
+400 287 m 1
+ 432 424 l 1
+ 313 424 l 1
+ 280 287 l 1
+ 400 287 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 56 -5 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: period
+Encoding: 46 46 68
+Width: 225
+Flags: MW
+HStem: 0 144<58 168 58 168>
+VStem: 58 110<0 144 0 144>
+LayerCount: 2
+Fore
+SplineSet
+58 0 m 1
+ 58 144 l 1
+ 168 144 l 1
+ 168 0 l 1
+ 58 0 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: question
+Encoding: 63 63 69
+Width: 486
+Flags: MW
+HStem: 0 138<124 235 124 235> 610 109<210 263.5>
+VStem: 122 110<233 265.5> 124 111<0 138 0 138> 334 117<486.5 551.5>
+LayerCount: 2
+Fore
+SplineSet
+122 233 m 1xe8
+ 122 298 137 350 204 389 c 0
+ 244 413 334 449 334 524 c 0
+ 334 579 288 610 239 610 c 0
+ 181 610 143 566 121 530 c 1
+ 34 590 l 1
+ 69 672 152 719 243 719 c 0
+ 344 719 451 661 451 522 c 0
+ 451 437 409 393 346 354 c 0
+ 293 321 232 301 232 233 c 1
+ 122 233 l 1xe8
+124 0 m 1xd8
+ 124 138 l 1
+ 235 138 l 1
+ 235 0 l 1
+ 124 0 l 1xd8
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 70
+Width: 393
+Flags: MW
+HStem: 499 224<61 175 61 175 218 332 61 218>
+VStem: 61 114<499 723 499 723> 218 114<499 723 499 723>
+LayerCount: 2
+Fore
+SplineSet
+61 499 m 1
+ 61 723 l 1
+ 175 723 l 1
+ 175 499 l 1
+ 61 499 l 1
+218 499 m 1
+ 218 723 l 1
+ 332 723 l 1
+ 332 499 l 1
+ 218 499 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 71
+Width: 235
+Flags: MW
+HStem: 499 224<61 175 61 175>
+VStem: 61 114<499 723 499 723>
+LayerCount: 2
+Fore
+SplineSet
+61 499 m 1
+ 61 723 l 1
+ 175 723 l 1
+ 175 499 l 1
+ 61 499 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 72
+Width: 259
+Flags: MW
+HStem: 4 140<71 113 71 188 71 188> 374 144<72 182 72 182>
+VStem: 71 117<4 144 4 144> 72 110<374 518 374 518>
+LayerCount: 2
+Fore
+SplineSet
+72 374 m 1xd0
+ 72 518 l 1
+ 182 518 l 1
+ 182 374 l 1
+ 72 374 l 1xd0
+86 -115 m 1
+ 113 4 l 1
+ 71 4 l 1
+ 71 144 l 1
+ 188 144 l 1
+ 188 4 l 1
+ 147 -115 l 1xe0
+ 86 -115 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 7 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: slash
+Encoding: 47 47 73
+Width: 698
+Flags: MW
+HStem: 0 21G<27 175 27 27> 690 20G<522 671 671 671>
+VStem: 27 644
+LayerCount: 2
+Fore
+SplineSet
+671 710 m 1
+ 175 0 l 1
+ 27 0 l 1
+ 522 710 l 1
+ 671 710 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 49 -14 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -17 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 12 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 8 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 73 -275 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 61 -33 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 60 -12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -19 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 57 -38 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -82 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 55 -27 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 54 -25 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 53 -23 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -43 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+Substitution2: "'frac' Diagonal Fractions lookup 21 subtable" fraction
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" fraction
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 74
+Width: 475
+Flags: MW
+HStem: -121 121<54 421 54 421>
+VStem: 54 367<-121 0 -121 0>
+LayerCount: 2
+Fore
+SplineSet
+54 -121 m 1
+ 54 0 l 1
+ 421 0 l 1
+ 421 -121 l 1
+ 54 -121 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 75
+Width: 317
+Flags: MW
+HStem: -31 107<110.5 267 212 267 212 267> 633 107<212 212 212 267>
+VStem: 92 120<76 247 247 264.5 473 633>
+LayerCount: 2
+Fore
+SplineSet
+212 633 m 1
+ 212 429 l 2
+ 212 402 199 379 178 360 c 1
+ 198 342 212 317 212 291 c 2
+ 212 76 l 1
+ 267 76 l 1
+ 267 -31 l 1
+ 115 -31 l 2
+ 106 -31 92 -25 92 -1 c 2
+ 92 247 l 2
+ 92 282 68 309 42 314 c 1
+ 42 408 l 1
+ 70 408 92 445 92 473 c 2
+ 92 710 l 2
+ 92 735 107 740 115 740 c 2
+ 267 740 l 1
+ 267 633 l 1
+ 212 633 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 8 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 76
+Width: 317
+Flags: MW
+HStem: -31 107<50 105 50 203 50 105> 633 107<50 203 50 105>
+VStem: 105 121<76 247 459 473 473 633 633 633>
+LayerCount: 2
+Fore
+SplineSet
+50 633 m 1
+ 50 740 l 1
+ 203 740 l 2
+ 210 740 226 735 226 710 c 2
+ 226 473 l 2
+ 226 445 248 408 276 408 c 1
+ 276 314 l 1
+ 249 309 226 282 226 247 c 2
+ 226 -1 l 2
+ 226 -25 211 -31 203 -31 c 2
+ 50 -31 l 1
+ 50 76 l 1
+ 105 76 l 1
+ 105 291 l 2
+ 105 317 119 342 140 360 c 1
+ 119 379 105 402 105 429 c 2
+ 105 633 l 1
+ 50 633 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 77
+Width: 316
+Flags: MW
+HStem: -40 107<206 269 206 269> 633 107<206 269 206 206>
+VStem: 82 124<67 633 67 740 67 740>
+LayerCount: 2
+Fore
+SplineSet
+82 -40 m 1
+ 82 740 l 1
+ 269 740 l 1
+ 269 633 l 1
+ 206 633 l 1
+ 206 67 l 1
+ 269 67 l 1
+ 269 -40 l 1
+ 82 -40 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 12 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 78
+Width: 316
+Flags: MW
+HStem: -40 107<46 110 46 110 46 234> 633 107<46 110 46 234>
+VStem: 110 124<67 633 633 633>
+LayerCount: 2
+Fore
+SplineSet
+46 -40 m 1
+ 46 67 l 1
+ 110 67 l 1
+ 110 633 l 1
+ 46 633 l 1
+ 46 740 l 1
+ 234 740 l 1
+ 234 -40 l 1
+ 46 -40 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 79
+Width: 310
+Flags: MW
+HStem: -4 21G<282 282> 694 20G<285 285>
+VStem: 34 125<290.5 412.5 290.5 414.5>
+LayerCount: 2
+Fore
+SplineSet
+183 757 m 1
+ 285 714 l 1
+ 243 650 159 481 159 344 c 0
+ 159 237 210 119 282 -4 c 1
+ 184 -53 l 1
+ 101 71 34 212 34 347 c 0
+ 34 482 100 616 183 757 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 49 6 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -16 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 35 10 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 14 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 13 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 79 -5 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 58 -11 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 52 -17 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 80
+Width: 309
+Flags: MW
+HStem: -4 21G<27 27> 694 20G<24 24>
+VStem: 150 125<290.5 412.5>
+LayerCount: 2
+Fore
+SplineSet
+125 -53 m 1
+ 27 -4 l 1
+ 100 119 150 237 150 344 c 0
+ 150 481 66 650 24 714 c 1
+ 127 757 l 1
+ 210 616 275 482 275 347 c 0
+ 275 212 208 71 125 -53 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 80 -5 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 81
+Width: 928
+Flags: MW
+HStem: 214 121<58 870 58 870>
+VStem: 58 812<214 335 214 335>
+LayerCount: 2
+Fore
+SplineSet
+58 214 m 1
+ 58 335 l 1
+ 870 335 l 1
+ 870 214 l 1
+ 58 214 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 82
+Width: 418
+Flags: MW
+HStem: 214 121<58 361 58 361>
+VStem: 58 303<214 335 214 335>
+LayerCount: 2
+Fore
+SplineSet
+58 214 m 1
+ 58 335 l 1
+ 361 335 l 1
+ 361 214 l 1
+ 58 214 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 83
+Width: 434
+Flags: MW
+HStem: 473 135<151 191 151 191 56 191 151 244 339 379> 710 20G<92 173 173 173 280 361 361 361>
+VStem: 56 135<473 608 473 610 473 610> 244 135<473 608 473 610 473 610>
+LayerCount: 2
+Fore
+SplineSet
+173 730 m 1
+ 151 608 l 1
+ 191 608 l 1
+ 191 473 l 1
+ 56 473 l 1
+ 56 610 l 1
+ 92 730 l 1
+ 173 730 l 1
+361 730 m 1
+ 339 608 l 1
+ 379 608 l 1
+ 379 473 l 1
+ 244 473 l 1
+ 244 610 l 1
+ 280 730 l 1
+ 361 730 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 84
+Width: 425
+Flags: MW
+HStem: 601 135<52 92 52 187 52 240 240 280>
+VStem: 52 135<601 736 599 736> 240 135<601 736 599 736>
+LayerCount: 2
+Fore
+SplineSet
+70 479 m 1
+ 92 601 l 1
+ 52 601 l 1
+ 52 736 l 1
+ 187 736 l 1
+ 187 599 l 1
+ 151 479 l 1
+ 70 479 l 1
+258 479 m 1
+ 280 601 l 1
+ 240 601 l 1
+ 240 736 l 1
+ 375 736 l 1
+ 375 599 l 1
+ 339 479 l 1
+ 258 479 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 85
+Width: 246
+Flags: MW
+HStem: 473 135<151 191 151 191 56 191> 710 20G<92 173 173 173>
+VStem: 56 135<473 608 473 610 473 610>
+LayerCount: 2
+Fore
+SplineSet
+173 730 m 1
+ 151 608 l 1
+ 191 608 l 1
+ 191 473 l 1
+ 56 473 l 1
+ 56 610 l 1
+ 92 730 l 1
+ 173 730 l 1
+EndSplineSet
+Validated: 1
+Kerns2:
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 86
+Width: 239
+Flags: MW
+HStem: 595 135<53 93 53 188>
+VStem: 53 135<595 730 593 730>
+LayerCount: 2
+Fore
+SplineSet
+71 473 m 1
+ 93 595 l 1
+ 53 595 l 1
+ 53 730 l 1
+ 188 730 l 1
+ 188 593 l 1
+ 152 473 l 1
+ 71 473 l 1
+EndSplineSet
+Validated: 513
+Kerns2: 51 -57 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 50 -47 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 49 -49 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 48 -46 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -46 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 46 -56 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 45 -47 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 44 -74 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 43 -59 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 42 -93 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 41 -59 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 40 -82 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 39 -59 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 38 -59 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 37 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 36 -36 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 35 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 34 -35 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 33 -36 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 32 -93 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 31 -57 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 30 -82 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 29 -93 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 28 -82 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 27 -36 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 26 -73 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+PairPos2: "'kern' Horizontal Kerning lookup 1 per glyph data 1" uni0457 dx=0 dy=0 dh=17 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 1 per glyph data 1" uni0455 dx=0 dy=0 dh=-12 dv=0 dx=0 dy=0 dh=0 dv=0
+PairPos2: "'kern' Horizontal Kerning lookup 1 per glyph data 1" uni0430 dx=0 dy=0 dh=-10 dv=0 dx=0 dy=0 dh=0 dv=0
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 87
+Width: 634
+GlyphClass: 2
+Flags: MW
+HStem: -7 21G<355 355> -7 123<345 355> -6 21G<288 288> 694 20G<288 288 355 355>
+VStem: 63 142<492 537 492 558.5> 288 67<-117 -7 -117 -6 -117 -6 714 815> 297 48<118 277 432 592> 448 147<166.5 212>
+AnchorPoint: "Anchor-1" 326 716 basechar 0
+AnchorPoint: "Anchor-0" 332 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+595 203 m 0x93
+ 595 58 484 -1 355 -7 c 1x94
+ 355 -117 l 1
+ 288 -117 l 1
+ 288 -6 l 1x34
+ 196 2 105 34 34 84 c 1
+ 95 203 l 1
+ 116 182 203 130 297 118 c 1
+ 297 291 l 1x32
+ 264 300 l 2
+ 129 338 63 383 63 492 c 0
+ 63 625 160 702 288 714 c 1
+ 288 815 l 1
+ 355 815 l 1
+ 355 714 l 1x3d
+ 440 707 515 673 570 636 c 1
+ 509 524 l 1
+ 493 542 421 584 345 592 c 1
+ 345 419 l 1
+ 367 413 l 2
+ 507 377 595 333 595 203 c 0x93
+205 514 m 0x5b
+ 205 470 236 451 297 432 c 1
+ 297 593 l 1
+ 236 588 205 560 205 514 c 0x5b
+345 116 m 1
+ 413 119 448 144 448 189 c 0
+ 448 235 409 256 345 277 c 1
+ 345 116 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 55 -5 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: plus
+Encoding: 43 43 88
+Width: 421
+Flags: MW
+HStem: 301 108<47 150 47 150 271 374>
+VStem: 150 121<188 301 188 301 409 522>
+LayerCount: 2
+Fore
+SplineSet
+374 409 m 1
+ 374 301 l 1
+ 271 301 l 1
+ 271 188 l 1
+ 150 188 l 1
+ 150 301 l 1
+ 47 301 l 1
+ 47 409 l 1
+ 150 409 l 1
+ 150 522 l 1
+ 271 522 l 1
+ 271 409 l 1
+ 374 409 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 59 -12 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 56 -13 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 55 -8 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 54 -8 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: equal
+Encoding: 61 61 89
+Width: 436
+Flags: MW
+HStem: 144 87<62 375 62 375> 321 87<62 375 62 375>
+VStem: 62 313<144 231 144 231 321 408 144 408>
+LayerCount: 2
+Fore
+SplineSet
+62 321 m 1
+ 62 408 l 1
+ 375 408 l 1
+ 375 321 l 1
+ 62 321 l 1
+62 144 m 1
+ 62 231 l 1
+ 375 231 l 1
+ 375 144 l 1
+ 62 144 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 59 -10 "'kern' Horizontal Kerning lookup 0 per glyph data 0" 55 -7 "'kern' Horizontal Kerning lookup 0 per glyph data 0"
+EndChar
+
+StartChar: greater
+Encoding: 62 62 90
+Width: 515
+Flags: MW
+HStem: -27 570<61 61>
+VStem: 61 422<-27 223 123 223 223 543 223 543>
+LayerCount: 2
+Fore
+SplineSet
+483 223 m 1
+ 61 -27 l 1
+ 61 123 l 1
+ 288 259 l 1
+ 61 401 l 1
+ 61 543 l 1
+ 483 288 l 1
+ 483 223 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: less
+Encoding: 60 60 91
+Width: 515
+Flags: MW
+HStem: -27 570<454 454>
+VStem: 32 422<-27 288 -27 288>
+LayerCount: 2
+Fore
+SplineSet
+32 288 m 1
+ 454 543 l 1
+ 454 401 l 1
+ 227 259 l 1
+ 454 123 l 1
+ 454 -27 l 1
+ 32 223 l 1
+ 32 288 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 92
+Width: 567
+Flags: MW
+HStem: 228 78<341 399 341 425> 280 80<166.5 222.5>
+VStem: 56 458<228 358>
+LayerCount: 2
+Fore
+SplineSet
+195 360 m 0x60
+ 267 360 311 306 371 306 c 0
+ 427 306 440 353 440 358 c 1
+ 514 358 l 1xa0
+ 514 344 480 228 370 228 c 0
+ 298 228 251 280 194 280 c 0
+ 139 280 130 230 130 228 c 2
+ 56 228 l 1
+ 56 251 90 360 195 360 c 0x60
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: percent
+Encoding: 37 37 93
+Width: 786
+Flags: MW
+HStem: -10 67<567 605.5 567 632.5> -7 21G<152 152> 226 67<566.5 605> 417 67<180.5 219.5 180.5 246> 653 67<180.5 219>
+VStem: 35 94<545.5 591.5 545.5 611> 271 94<546 592> 421 94<118 164 118 183.5> 657 94<118.5 164.5>
+LayerCount: 2
+Fore
+SplineSet
+35 569 m 0xbf80
+ 35 653 108 720 200 720 c 0
+ 292 720 365 653 365 569 c 0
+ 365 484 292 417 200 417 c 0
+ 108 417 35 484 35 569 c 0xbf80
+91 47 m 1x7f80
+ 373 376 l 1
+ 633 718 l 1
+ 694 664 l 1
+ 420 340 l 1
+ 152 -7 l 1
+ 91 47 l 1x7f80
+271 569 m 0
+ 271 615 238 653 200 653 c 0
+ 161 653 129 614 129 569 c 0
+ 129 522 161 484 200 484 c 0
+ 239 484 271 523 271 569 c 0
+421 141 m 0
+ 421 226 494 293 586 293 c 0
+ 679 293 751 226 751 141 c 0
+ 751 57 679 -10 586 -10 c 0xbf80
+ 494 -10 421 57 421 141 c 0
+657 141 m 0xbf80
+ 657 188 624 226 586 226 c 0
+ 547 226 515 187 515 141 c 0
+ 515 95 548 57 586 57 c 0
+ 625 57 657 96 657 141 c 0xbf80
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: at
+Encoding: 64 64 94
+Width: 845
+Flags: MW
+HStem: -146 54<313.5 434> -16 60<630.5 690 630.5 713.5> -2 69<358.5 397 358.5 409.5> 220 64<379 435> 385 77<390 454> 549 54<324 513.5>
+VStem: 42 56<141 322.5 141 348.5> 223 80<118.5 169.5 118.5 193> 522 81<161 199 199 199> 739 56<196 317>
+LayerCount: 2
+Fore
+SplineSet
+795 222 m 0xdfc0
+ 795 165 786 -16 641 -16 c 0xdfc0
+ 569 -16 551 28 546 66 c 1
+ 505 25 443 -2 376 -2 c 0xbfc0
+ 277 -2 223 56 223 138 c 0
+ 223 248 319 284 410 284 c 0
+ 463 284 503 271 523 262 c 1
+ 523 335 499 385 409 385 c 0
+ 355 385 308 368 276 341 c 1
+ 250 412 l 1
+ 300 445 358 462 422 462 c 0
+ 595 462 603 344 603 253 c 2
+ 603 157 l 2
+ 603 98 607 44 654 44 c 0
+ 726 44 739 168 739 224 c 0
+ 739 410 609 549 418 549 c 0
+ 230 549 98 415 98 230 c 0
+ 98 52 220 -92 407 -92 c 0
+ 470 -92 513 -76 563 -54 c 1
+ 579 -106 l 1
+ 524 -133 463 -146 405 -146 c 0
+ 205 -146 42 6 42 230 c 0
+ 42 467 222 603 422 603 c 0
+ 618 603 795 469 795 222 c 0xdfc0
+522 161 m 2xbfc0
+ 522 199 l 1
+ 504 205 460 220 410 220 c 0
+ 348 220 303 198 303 141 c 0
+ 303 96 333 67 384 67 c 0
+ 410 67 446 74 471 87 c 0
+ 507 104 522 131 522 161 c 2xbfc0
+EndSplineSet
+Validated: 1
+Kerns2: 47 -6 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -45 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 95
+Width: 712
+Flags: MW
+HStem: -10 105<257 313 257 316> 0 21G<536 712 536 536> 0 154<565 565 565 712 536 565> 620 99<260.5 301>
+VStem: 40 129<171.5 221.5 171.5 245> 87 122<541.5 571.5 541.5 600> 348 123<542 578> 518 109<360 389>
+LayerCount: 2
+Fore
+SplineSet
+712 0 m 1x5b
+ 536 0 l 1x57
+ 480 59 l 1
+ 422 14 352 -10 280 -10 c 0
+ 133 -10 40 88 40 201 c 0x9b
+ 40 289 98 351 162 398 c 1
+ 107 460 87 499 87 549 c 0
+ 87 651 171 719 282 719 c 0
+ 380 719 471 666 471 562 c 0
+ 471 485 420 429 350 380 c 1
+ 486 237 l 1
+ 506 280 518 331 518 389 c 1
+ 627 389 l 1
+ 627 296 603 217 565 154 c 1x37
+ 712 0 l 1x5b
+282 620 m 0
+ 239 620 209 590 209 553 c 0
+ 209 530 223 514 268 466 c 1
+ 319 499 348 524 348 560 c 0
+ 348 596 320 620 282 620 c 0
+293 95 m 0x9b
+ 333 95 373 109 408 136 c 1
+ 244 310 l 1
+ 199 276 169 243 169 200 c 0
+ 169 143 221 95 293 95 c 0x9b
+EndSplineSet
+Validated: 1
+Kerns2: 49 29 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 47 -18 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 23 33 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 21 -51 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: bar
+Encoding: 124 124 96
+Width: 272
+Flags: MW
+HStem: -130 905<79 193 79 193>
+VStem: 79 114<-130 775 -130 775>
+LayerCount: 2
+Fore
+SplineSet
+79 -130 m 1
+ 79 775 l 1
+ 193 775 l 1
+ 193 -130 l 1
+ 79 -130 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 54 "'kern' Horizontal Kerning lookup 1 per glyph data 0"
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 97
+Width: 585
+Flags: MW
+HStem: 597 113<293 293> 690 20G<237 349 349 349>
+VStem: 39 507<303 303>
+LayerCount: 2
+Fore
+SplineSet
+39 303 m 1x60
+ 237 710 l 1
+ 349 710 l 1
+ 546 303 l 1
+ 436 303 l 1
+ 293 597 l 1xa0
+ 147 303 l 1
+ 39 303 l 1x60
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: grave
+Encoding: 96 96 98
+Width: 255
+Flags: MW
+HStem: 710 20G<47 171 171 171>
+VStem: 47 179<611 730>
+LayerCount: 2
+Fore
+SplineSet
+47 730 m 1
+ 171 730 l 1
+ 226 611 l 1
+ 140 585 l 1
+ 47 730 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

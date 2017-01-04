@@ -1,0 +1,142 @@
+extends ../default
+
+block head-title
+    title Publications — Team SRMSAT
+
+block head-prefetch
+
+block page-css
+    link(rel='stylesheet' href='/assets/css/article.css')
+    style.
+        li.paper span.title {
+            margin-left: -0.65em;
+        }
+
+block page-js
+
+block page-navbar
+    +navbar('publications')
+
+mixin paper(author, title, journal)
+    li.paper
+        | #{author},
+        br
+        span.title &ldquo;#[b #{title}],&rdquo;
+        br
+        i #{journal}
+
+block page-wrapper
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                p.section-heading.u-heading-slab Publications
+                //- p.section-text Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    .page-wrapper.container-fluid.page-section--content
+
+        .container.page-container.page-container-type-1
+            p.section-heading 2017
+
+            ul.section-text
+
+                +paper(
+                    'Namdeo, S., Barad, K., Mody, A.A., Pavuluri, S.H., and Ratheesh A.',
+                    'Lunar Brightness Temperature Models and Radiometer Design for Small Satellites',
+                    'AIAA SciTech 2017'
+                )
+
+                +paper(
+                    'Barad, K., Mody, A.A., Namdeo, S., Ratheesh, A., Naik, K., and Pavuluri, S.H.',
+                    'SRMSAT-2: Study of the Lunar Sub-Surface and Deep-Space Environment using a Micro-Satellite Platform',
+                    'AIAA SciTech 2017'
+                )
+
+                +paper(
+                    'Barad, K., and Sharma, T.',
+                    'Navigation Analysis of WSB Low Energy Lunar Transfer for SRMSAT-2',
+                    'AIAA SciTech 2017'
+                )
+
+                +paper(
+                    'Mody, A.A., Sharma, T., Tekriwal, P., Ratheesh, A., and Barad, K.',
+                    'Attitude Determination and Control System Design for SRMSAT-2: A Micro Class Lunar Orbiter',
+                    'AIAA SciTech 2017'
+                )
+
+        .container.page-container.page-container-type-1
+            p.section-heading 2016
+
+            ul.section-text
+
+                +paper(
+                    'Pavuluri, S. H., and Bhate, H. B.',
+                    'Telemetry, Tracking and Command Subsystem of SRMSAT-2',
+                    'AIAA SPACE 2016 (p. 5240)'
+                )
+
+                +paper(
+                    'Ratheesh, A., Mody, A. A., Tekriwal, P., Namdeo, S., Naik, K. P., Barad, K. R., and Prakash, A.',
+                    'Study of Scientific Payloads and Locations for Small Satellite Lunar Missions',
+                    'AIAA SPACE 2016 (p. 5549)'
+                )
+
+                +paper(
+                    'Gupta, S. K., Naik, K. P., and Ratheesh, A.',
+                    'Mechanical Systems of SRMSAT-2',
+                    'AIAA SPACE 2016 (p. 5241)'
+                )
+
+                +paper(
+                    'Naik, K. P.',
+                    'Thermal Analytical Procedure for Small Satellite Bound for a Lunar Mission',
+                    'AIAA SPACE 2016 (p. 5239)'
+                )
+
+                +paper(
+                    'Gupta, S. K., Puntambekar, P., and Chaturvedi, S.',
+                    'Design concept of the structural bus of microsatellites for lunar missions',
+                    'Aerospace Conference, 2016 IEEE (pp. 1-13), IEEE'
+                )
+
+                +paper(
+                    'Mody, A. A. and Barad, K.',
+                    'Autonomous Navigation: Optical State Acquisition Systems for Lunar and Interplanetary Small Satellites',
+                    'IAF International Astronautical Congress-2016'
+                )
+
+                +paper(
+                    'Pavuluri, S. H.',
+                    'Electrical Power System of SRMSAT -2',
+                    '54th AIAA Aerospace Sciences Meeting, American Institute of Aeronautics and Astronautics, Reston, VA (p. 1467)'
+                )
+
+                +paper(
+                    'Ratheesh, A., Naik, K., Putambekar, P., Shrivastava, P., Dhanasekaran, J., Malani, P., and Muthuswamy, L.',
+                    'Dual Propulsion System Design for Small Spacecraft.',
+                    '54th AIAA Aerospace Sciences Meeting, AIAA SciTech 2016'
+                )
+
+
+                +paper(
+                    'Ratheesh, A., Barad, K., Naik, K., Pavuluri, S. H., Singha, A., Bhate, H., &hellip; and Shrivastava, P.',
+                    'SRMSAT: A Feasibility Study on Small Satellite Mission to Moon',
+                    '54th AIAA Aerospace Sciences Meeting, American Institute of Aeronautics and Astronautics, Reston, VA (p. 1467)'
+                )
+
+        .container.page-container.page-container-type-1
+            p.section-heading 2015
+
+            ul.section-text
+                +paper(
+                    'Barad, K., Mody, A. A., Prakash, A., Namdeo, S., and Sharma, T.',
+                    'Autonomous Navigation Strategy for Small Satellite Low Energy Lunar Transfer',
+                    'IAF International Astronautical Congress 2015'
+                )
+
+                +paper(
+                    'Ratheesh, A., Barad, K., Naik, K., Tekriwal P., Puntamekar P., Muthuswamy L.',
+                    'Combined Attitude-Orbit Approach for Navigation and Stationkeeping of a Precision Beam Forming Constellation',
+                    'IAF International Astronautical Congress-2015'
+                )
+
+block page-scripts

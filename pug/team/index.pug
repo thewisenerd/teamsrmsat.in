@@ -31,10 +31,22 @@ block page-wrapper
             .row.u-text-center
                 p.section-heading.u-heading-slab The Team
                 p.section-text
+
                 //- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    .page-wrapper.container-fluid.page-section--content
+        .container-fluid.tp-container
+            .container.masonry--container
+
 
 block page-scripts
     script.
         window.onload = function(e){
             addClass(document.getElementsByClassName('spinner-mask')[0], 'spinner-mask--hidden');
         }
+
+    //- todo: fix this later
+    script(src='/assets/js/zepto.js')
+
+    script
+        include ../../js/team.min.js

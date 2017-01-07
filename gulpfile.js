@@ -59,7 +59,9 @@ var audioOut = out + '/assets/audio';
 
 var jsFiles = [
     'js/common.js',
-    'js/root.js'
+    'js/root.js',
+    'js/team.js',
+    'js/zepto.js'
 ];
 
 var errorHandler = function(err) {
@@ -198,7 +200,7 @@ gulp.task('init', function() {
 
     // pug
     gulp.watch(pugFiles, ['pug']);
-    gulp.watch(jsFiles, ['pug']);
+    gulp.watch(jsFiles, ['pug', 'js']);
 
     // assets
     gulp.watch('assets/favicon/**/*', ['assets:favicon']);

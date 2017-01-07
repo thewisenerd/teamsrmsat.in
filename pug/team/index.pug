@@ -13,17 +13,21 @@ block page-js
 block page-navbar
     +navbar('team')
 
-mixin minion1(name, pp, desg)
-    .xs-twelve.sm-four.md-three.column.minion.minion--1
-        img.img-thumbnail(class='img-thumbnail' src='/assets/images/'+pp alt='Photo of '+name)
+mixin member(name, pp, desg, text, ...links)
+    .masonry--panel
+        img.img-thumbnail(class='img-thumbnail' src='/assets/images/profile/'+pp alt='Photo of '+name)
         p.name #{name}
         p.desg #{desg}
+        .extra-info-wrapper
+            p.text !{text}
 
-mixin minion2(name, pp, desg)
-    .xs-six.sm-three.md-two.column.minion.minion--2
-        img.img-thumbnail(class='img-thumbnail' src='/assets/images/'+pp alt='Photo of '+name)
-        p.name #{name}
-        p.desg #{desg}
+            ul.links
+                each link in links
+                    if (link.blank == 1)
+                        li: a(href=link.link target='_blank') #{link.title}
+                    else
+                        li: a(href=link.link) #{link.title}
+        a.show-more
 
 block page-wrapper
     .page-wrapper.container-fluid.page-section--header
@@ -36,7 +40,277 @@ block page-wrapper
 
     .page-wrapper.container-fluid.page-section--content
         .container-fluid.tp-container
+
+            //- ROW-1
             .container.masonry--container
+                +member(
+                    'Akash Ratheesh',
+                    'akash.jpg',
+                    'Systems Engineer',
+                    '',
+                    {link: 'https://www.researchgate.net/Akash_Ratheesh', title: 'Researchgate', blank: 1},
+                    {link: 'https://in.linkedin.com/in/akash-ratheesh-882a75a1',  title: 'LinkedIn', blank: 1}
+                )
+                +member(
+                    'Kuldeep Rambhai Barad',
+                    'kuldeep.jpg',
+                    'Head, Spaceflight Dynamics Division',
+                        'Kuldeep Barad is an undergraduate student at Department of Aerospace Engineering, SRM University.' +
+                        'Kuldeep joined the team in his freshman year as a Guidance Navigation and Control (GNC) engineer,' +
+                        'and later contributed to Trajectory design and Attitude Determination and Control (ADCS) subsystems.' +
+                        'He played a vital role in the trajectory design of the lunar mission. He also contributed largely to' +
+                        'the payload design and worked on the definition of the scientific objective.' +
+                        '<br>' +
+                        'Kuldeep currently leads the Space Flight Dynamics (SFD) division consisting of the GNC, Trajectory design' +
+                        'and analysis, and ADCS subsystems. He ensures that the three subsystems work in coordination and helps' +
+                        'interface the group with other divisions on a system level. He provides guidance to the newer members and' +
+                        'helps induct them into the team.',
+                    {link: 'https://www.researchgate.net/Kuldeep_Barad', title: 'Researchgate', blank: 1},
+                    {link: 'https://in.linkedin.com/in/kuldeepbarad',  title: 'LinkedIn', blank: 1}
+                )
+
+            //- ROW-2
+            .container.masonry--container
+                +member(
+                    'Sri Harsha Pavuluri',
+                    'harsha.jpg',
+                    'Head, Astrionics Division',
+                        'Sri Harsha Pavuluri is an undergraduate student at Department of Electronics and Communication Engineering,' +
+                        'SRM University. Harsha initially joined the team as a member of the Electrical Power System (EPS),' +
+                        'and later worked on the Telemetry, Tracking &amp; Command Subsystem (TTC). For the most part of SRMSAT - 2&rsquo;s' +
+                        'timeline, Harsha has been a lone member working on the design of EPS and TTC subsystems and designed' +
+                        'most of the subsystems himself. He also contributed to the design the payload equipment for the SRMSAT - 2.' +
+                        '<br>' +
+                        'Harsha currently leads the Astrionics Division, and also acts as the subsystem head of the EPS' +
+                        'and TTC subsystems. He ensures that the design teams are making progress in accordance with the' +
+                        'project timeline, provides guidance to the members of the subsystems under astrionics division and' +
+                        'ensures the validity of design. He also interfaces between divisions and subsystems, keeping up' +
+                        'with the satellite system&rsquo;s design.',
+                    {link: 'mailto:harsha@teamsrmsat.in', title: 'harsha@teamsrmsat.in', blank: 0},
+                    {link: 'https://www.researchgate.net/Sri_Harsha_Pavuluri', title: 'Researchgate', blank: 1},
+                    {link: 'https://in.linkedin.com/in/sri-harsha-pavuluri-25ab47a1',  title: 'LinkedIn', blank: 1},
+                    {link: '/cv/sriharsha.pdf', title: 'CV', blank: 0}
+                )
+                +member(
+                    'Kartik Naik',
+                    'kartik.jpg',
+                    'Head, Mechanical Systems Division',
+                        'Kartik Naik is an undergraduate student at Department of Mechanical Engineering, SRM University.' +
+                        'Kartik joined the team in his freshman year as a thermal engineer, and later worked on the structure' +
+                        'and propulsion subsystems. Being the only member in thermal subsystem for a year, he played a crucial' +
+                        'role in its design. He had also contributed to the payload design.' +
+                        '<br>' +
+                        'Kartik currently leads the mechanical systems division consisting of the structure, propulsion and' +
+                        'thermal subsystems. He ensures that the three subsystems work in coordination and helps interface' +
+                        'the group with other divisions on a system level. He provides guidance to the newer members and helps' +
+                        'them in their induction into the team. He gives a systems design approach for the mechanical systems division.',
+                    {link: 'https://in.linkedin.com/in/kartik-naik', title: 'Researchgate', blank: 1},
+                    {link: 'https://www.researchgate.net/Kartik_Naik',  title: 'LinkedIn', blank: 1}
+                )
+
+
+                +member(
+                    'Subham Kumar Gupta',
+                    'subham.jpg',
+                    'Head, Structure Subsystem',
+                        'Subham is a student in SRM University pursuing his Bachelor&rsquo;s in Mechanical Engineering ' +
+                        'joined the team in 2014 as a structural design engineer and has been working since then on the ' +
+                        'preliminary and critical design of SRMSAT - 2.  For nearly a year he was the sole member of the ' +
+                        'Structure subsystem and designed the preliminary on his own. Over the years he has mastered 3D solid ' +
+                        'modelling software and has in-depth knowledge has brought the design from scratch to where it stands today.' +
+                        '<br>' +
+                        'He now works as the Mechanical Systems Engineer and leads his team with 3 juniors and 4 newer recruits as ' +
+                        'a part of Mechanical Systems. He has been teaching them 3D modelling using Siemens NX and prepared them ' +
+                        'for the mission before they could be split into the three subsystems namely, Structure, Propulsion and Thermal. ' +
+                        'He ensures smooth functioning of the Mechanical Systems Division and provides technical guidance to his ' +
+                        'subordinates in the team.',
+                    {link: 'https://in.linkedin.com/in/subhamgupta', title: 'Researchgate', blank: 1},
+                    {link: 'https://www.researchgate.net/Subham_Gupta2',  title: 'LinkedIn', blank: 1}
+                )
+
+            .container.masonry--heading
+                .row.u-text-center Spaceflight Dynamics
+
+            .container.masonry--container
+                +member(
+                    'Amin Ali Mody',
+                    'amin.jpg',
+                    'ACS and Payload',
+                        '' +
+                        '' +
+                        ''
+                )
+
+
+                +member(
+                    'Arunima Prakash',
+                    'arunima.jpg',
+                    'Trajectory Design and Analysis',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Sakshi Namdeo',
+                    'sakshi.jpg',
+                    'Mission and Payload Ops.',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Tushar Sharma',
+                    'tushar.jpg',
+                    'Attitude and Orbit Dynamics',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Peeyush Tekriwal',
+                    'peeyush.jpg',
+                    'ADS and Sensors',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Abbas Shaikh',
+                    'abbas.jpg',
+                    'GNC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Gokull Subramanian',
+                    'gokull.jpg',
+                    'ACS',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Aman Pandia',
+                    'amanpandia.jpg',
+                    'ADS',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Pranava Bhatia',
+                    'pranav.jpg',
+                    'GNC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'R.S.G. Shanmukh',
+                    'shanmukh.jpg',
+                    'GNC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Rajbir Singh',
+                    'rajbir.jpg',
+                    'GNC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Shashank Dubey',
+                    'shashank.jpg',
+                    'ADS',
+                        '' +
+                        '' +
+                        ''
+                )
+
+            .container.masonry--heading
+                .row.u-text-center Astrionics
+
+            .container.masonry--container
+                +member(
+                    'Sriharini Tumu',
+                    'sriharini.jpg',
+                    'OBC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Aman Kimothi',
+                    'amankimothi.jpg',
+                    'OBC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Babiya Moirangthem',
+                    'babiya.jpg',
+                    'EPS',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Vineeth Raj',
+                    'vineeth.jpg',
+                    'OBC',
+                        '' +
+                        '' +
+                        ''
+                )
+
+            .container.masonry--heading
+                .row.u-text-center Mechanical Systems
+
+            .container.masonry--container
+                +member(
+                    'Jananee D.',
+                    'jananee.jpg',
+                    'Propulsion',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Siddharth Dash',
+                    'dash.jpg',
+                    'Thermal',
+                        '' +
+                        '' +
+                        ''
+                )
+
+                +member(
+                    'Surya Bhan Singh',
+                    'surya.jpg',
+                    'Structure',
+                        '' +
+                        '' +
+                        ''
+                )
 
 
 block page-scripts

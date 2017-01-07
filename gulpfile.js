@@ -85,7 +85,7 @@ gulp.task('sass', function () {
         .pipe(gplumber())
         .pipe(sass())
         .pipe(sourcemaps.init())
-        .pipe(gulpif( (out == 'dev'), cssnano({
+        .pipe(gulpif( (out != 'dev'), cssnano({
             safe: true
         }) ))
         .pipe(autoprefixer({

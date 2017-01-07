@@ -2,6 +2,21 @@
 
 @import 'generic/variables';
 
+
+@keyframes mslideInDown {
+  from {
+    max-height: 0px;
+    opacity: 0;
+  }
+
+  to {
+    max-height: 1000px; // hope to never get here.
+    opacity: 1;
+  }
+};
+
+$maxMembers: (2 * 3 * 4);
+
 .page-section--header {
     padding-top: 2em;
     background-color: $color-grey--100;
@@ -29,5 +44,282 @@
     border-top: 1px solid $color-grey--300;
     background-color: $color-white;
     color: $color-black;
+    padding: 1rem 0;
+
+    .tp-container {
+        a,
+        a:link,
+        a:hover,
+        a:visited,
+        a:active {
+            color: $blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: $color-black;
+        }
+
+        .masonry--heading {
+            font-family: $fontRaleway;
+            font-size: $fontSize-large--em;
+            padding-bottom: 1em;
+        }
+
+        .masonry--container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: center;
+            position: relative;
+            z-index: $zIndex-3--team-page-bg;
+
+            .masonry--panel {
+                text-align: center;
+                padding: 0.5rem;
+                position: relative;
+                z-index: $zIndex-3 + 2;
+
+                img.img-thumbnail {
+                    display: inline-block;
+                    padding: 4px;
+                    background-color: #fff;
+                    border: 1px solid #ddd;
+                    border-radius: 4px;
+                }
+
+                img {
+                    width: 80%;
+                }
+
+                .name {
+                    width: 100%;
+                    text-align: center;
+                    padding: 0px;
+                    margin: 0px;
+
+                    font-family: $fontRaleway;
+                    font-size: (( $fontSize-larger--emu * 2 / 3 ) + em);
+                    font-weight: $fontRaleway-bold;
+
+                    text-transform: uppercase;
+                }
+
+                .desg {
+                    width: 100%;
+                    text-align: center;
+                    padding: 0px;
+                    margin: 0px;
+
+                    font-family: $fontRaleway;
+                    font-size: (( $fontSize-large--emu * 2 / 3 ) + em);
+                    font-weight: $fontRaleway-normal;
+                }
+
+                .text {
+                    width: 100%;
+                    text-align: justify;
+                    padding-top: 1em;
+                    margin: 0px;
+
+                    font-family: $fontMerriweather;
+                    font-size: $fontSize-base--em;
+                    font-weight: $fontMerriweather-normal;
+                }
+
+                .links {
+                    width: 100%;
+                    text-align: left;
+
+                    font-family: $fontRaleway;
+                    font-size: $fontSize-base--em;
+                    font-weight: $fontRaleway-normal;
+                }
+
+                .extra-info-wrapper {
+                    max-height: 0px;
+                    overflow: hidden;
+                }
+
+                a.show-more:after {
+                    content: 'More +';
+                    cursor: pointer;
+                }
+
+                &.expand {
+                    flex: 0 0 100%;
+                    background-color: $color-grey--300;
+                    border-radius: 6px;
+                    margin: 0.5rem 0;
+                    z-index: $zIndex-3--team-member;
+
+                    .extra-info-wrapper {
+                        text-align: left;
+                        max-height: 1000px;
+                    }
+
+                    a.show-more:after {
+                        content: 'Close';
+                    }
+                } // expand
+
+                // flexbox order... thanks :]
+                @for $i from 0 to $maxMembers {
+                    &:nth-child( #{ $i + 1 } ) {
+                        order: (2 * $i) + 1;
+                    }
+                }
+
+            } // .masonry--panel
+
+            // MQ: xs
+            @media (max-width: $screen-xs-max) {
+                .masonry--panel {
+                    flex: 0 0 100%;
+                    transition: background-color $anim-short $anim-short ease-in-out;
+
+                    .extra-info-wrapper {
+                        transition: max-height $anim-short 0s ease-in-out;
+                    }
+
+                    &.expand {
+                        transition: background-color $anim-short 0s ease-in-out;
+
+                        .extra-info-wrapper {
+                            transition: max-height $anim-medium $anim-short ease-in-out;
+                        }
+                    }
+                }
+            }
+            // MQ: sm
+            @media (min-width: $screen-xs) and (max-width: $screen-sm-max) {
+                .masonry--panel {
+                    flex: 0 0 50%;
+                    &.expand {
+                        img {
+                            width: 25%;
+                        }
+
+                        @for $i from 0 to ($maxMembers / 2) {
+                            &:nth-child( #{ (2 * $i) + 1 } ) {
+                                order: 4 + ($i * 4);
+                            }
+                            &:nth-child( #{ (2 * $i) + 2 } ) {
+                                order: 4 + ($i * 4);
+                            }
+                        }
+                    }
+                }
+            }
+            // MQ: md
+            @media (min-width: $screen-sm) and (max-width: $screen-md-max) {
+                .masonry--panel {
+                    flex: 0 0 33.33%;
+                    &.expand {
+
+                        img {
+                            width: 33.33%;
+                        }
+
+                        @for $i from 0 to ($maxMembers / 3) {
+                            &:nth-child( #{ (3 * $i) + 1 } ) {
+                                order: 6 + ($i * 6);
+                            }
+                            &:nth-child( #{ (3 * $i) + 2 } ) {
+                                order: 6 + ($i * 6);
+                            }
+                            &:nth-child( #{ (3 * $i) + 3 } ) {
+                                order: 6 + ($i * 6);
+                            }
+                        }
+                    }
+                }
+            }
+            // MQ: lg
+            @media (min-width: $screen-md) {
+                .masonry--panel {
+                    flex: 0 0 25%;
+
+                    ul.links {
+                        display: inline;
+                        list-style-type: none;
+                        padding: 1em 0;
+                        margin:  0;
+                        li {
+                            display: inline;
+                            &:after {
+                                content: ' | ';
+                            }
+                            &:last-child:after {
+                                content: '';
+                            }
+                        }
+                    }
+
+                    &.expand {
+                        img {
+                            width: 25%;
+                        }
+
+                        @for $i from 0 to ($maxMembers / 4) {
+                            &:nth-child( #{ (4 * $i) + 1 } ) {
+                                order: 8 + ($i * 8);
+                            }
+                            &:nth-child( #{ (4 * $i) + 2 } ) {
+                                order: 8 + ($i * 8);
+                            }
+                            &:nth-child( #{ (4 * $i) + 3 } ) {
+                                order: 8 + ($i * 8);
+                            }
+                            &:nth-child( #{ (4 * $i) + 4 } ) {
+                                order: 8 + ($i * 8);
+                            }
+                        }
+                    }
+                }
+            }
+            // MQ: grid-breakpoint
+            @media (min-width: $grid-float-breakpoint) {
+                .masonry--panel {
+
+                    &.expand {
+                        backface-visibility: visible !important;
+                        animation-name: mslideInDown;
+                        animation-duration: $anim-medium;
+                        // animation-delay: 0.1s;
+                        animation-fill-mode: both;
+
+                        img {
+                            float: left;
+                            margin-right: 1rem;
+                        }
+
+                        .name, .desg {
+                            text-align: left;
+                        }
+
+                        a.show-more { // mq
+                            position: absolute;
+                            top: 0.5rem;
+                            right: 0.5rem;
+                        }
+                    } // &.expand
+                } // .masonry--panel
+            } // MQ: grid-breakpoint
+        } // .masonry--container
+
+        @if ($debug == 1) {
+            .masonry--panel {
+                background: red;
+                border: 3px solid black;
+
+                .extra-info-wrapper {
+                    border: 3px dashed blue;
+                }
+            }
+        } // debug
+
+    } // tp-container
 
 } // .page-section--content

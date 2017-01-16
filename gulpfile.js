@@ -60,8 +60,7 @@ var audioOut = out + '/assets/audio';
 var jsFiles = [
     'js/common.js',
     'js/root.js',
-    'js/team.js',
-    'js/zepto.js'
+    'js/team.js'
 ];
 
 var errorHandler = function(err) {
@@ -193,6 +192,11 @@ gulp.task('html', function() {
     return gulp.start('pug');
 });
 
+gulp.task('bower', function() {
+    gulp.src('./bower_components/**/*')
+        .pipe(gulp.dest(out + '/bower'));
+});
+
 // add watchers
 gulp.task('init', function() {
     // sass
@@ -219,5 +223,5 @@ gulp.task('clean', function () {
 });
 
 gulp.task('default', function() {
-    gulp.start('clean', 'css', 'js', 'html', 'assets', 'init');
+    gulp.start('clean', 'css', 'js', 'html', 'bower', 'assets', 'init');
 });

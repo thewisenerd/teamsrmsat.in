@@ -1,0 +1,22 @@
+{
+  "name": "teamsrmsat.in",
+  "description": "",
+  "main": "",
+  "authors": [
+    "thewisenerd <thewisenerd@protonmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "tingle": "^0.9.0",
+    "fullpage.js": "^2.9.2"
+  }
+}

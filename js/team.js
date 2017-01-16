@@ -26,3 +26,12 @@ $('a.show-more').on('click', function() {
     modal.setContent(p.innerHTML);
     modal.open();
 });
+
+$(document).ready(function() {
+    $('#main-wrapper').fullpage({
+        scrollOverflow: true,
+        scrollOverflowReset: true,
+        controlArrows: true,
+        verticalCentered: true,
+    });
+});

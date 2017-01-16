@@ -7,6 +7,7 @@ block head-prefetch
 
 block page-css
     link(rel='stylesheet' href='/assets/css/team.css')
+    link(rel='stylesheet' href='/bower/tingle/dist/tingle.min.css')
 
 block page-js
 
@@ -319,8 +320,8 @@ block page-scripts
             addClass(document.getElementsByClassName('spinner-mask')[0], 'spinner-mask--hidden');
         }
 
-    //- todo: fix this later
-    script(src='/assets/js/zepto.js')
+    script(src='/bower/jquery/dist/jquery.min.js')
+    script(src='/bower/tingle/dist/tingle.min.js')
 
     script
         include ../../js/team.min.js

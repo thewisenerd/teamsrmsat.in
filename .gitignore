@@ -6,3 +6,4 @@ assets/raw/
 assets/images/profile/
 js/*.min.js
 bower_components/
+npm-debug.log

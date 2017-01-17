@@ -55,7 +55,13 @@
         }
     }
 
-    @media (max-width: $screen-xs - 1) {
+    @media (max-width: $screen-xs-max) {
         padding-top: $fontSize-larger--em;
+    }
+
+    @media (min-width: $grid-float-breakpoint) {
+        .univ-logo .u-text-center {
+            text-align: right !important;
+        }
     }
 }

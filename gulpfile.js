@@ -228,7 +228,6 @@ gulp.task('clean', function (done) {
 
 gulp.task('default', gulp.series(
     'clean', gulp.parallel(
-        'css', 'js', 'html', 'bower', 'assets'
-    ),
-    'init'
+        'css', 'js', 'html', 'bower', 'assets', 'init'
+    )
 ));

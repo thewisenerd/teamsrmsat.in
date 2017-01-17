@@ -49,16 +49,18 @@ var bind_resize = function() {
 
 var members_carousel = function() {
     var elem = document.querySelector('.container--intro');
-    var flkty = new Flickity( elem, {
+    var flktyOpts = {
         imagesLoaded: true,
         contain: true,
         cellAlign: 'center',
         cellSelector: '.container--intro-cell',
-        bgLazyLoad: true,
+        bgLazyLoad: 2,
         pageDots: true,
         wrapAround: true,
         autoPlay: 3500,
-    });
+    };
+
+    var flkty = new Flickity( elem, flktyOpts );
 };
 
 ready(function() {

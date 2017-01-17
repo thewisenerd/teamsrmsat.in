@@ -47,7 +47,7 @@ $maxMembers: (2 * 3 * 4);
 
     .tp-container {
         padding-top: 1em;
-        padding-bottom: 5em; //- hack
+        padding-bottom: 6em; //- hack
 
         a,
         a:link,
@@ -330,4 +330,13 @@ $maxMembers: (2 * 3 * 4);
     position: fixed;
     top: 0;
     left: 0;
+}
+
+.fp-slidesNav.bottom {
+    bottom: 51px !important;
+    margin-left: none !important;
+    text-align: center;
+    padding-top: 1em;
+    width: 100%;
+    background: white;
 }

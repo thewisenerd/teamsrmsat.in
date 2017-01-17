@@ -33,5 +33,7 @@ $(document).ready(function() {
         scrollOverflowReset: true,
         controlArrows: true,
         verticalCentered: true,
+        slidesNavigation: true,
+        slidesNavPosition: 'bottom',
     });
 });

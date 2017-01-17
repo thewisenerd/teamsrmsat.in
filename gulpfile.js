@@ -171,57 +171,64 @@ gulp.task('assets:misc', function() {
         .pipe(gulp.dest(out + '/misc'));
 });
 
-gulp.task('assets', function() {
-    return gulp.start('assets:images', 'assets:favicon', 'assets:fonts', 'assets:audio', 'assets:cv', 'assets:misc');
-});
+gulp.task('assets', gulp.parallel(
+    'assets:images',
+    'assets:favicon',
+    'assets:fonts',
+    'assets:audio',
+    'assets:cv',
+    'assets:misc')
+);
 
-gulp.task('js', function() {
-    gulp.src(jsFiles)
+gulp.task('js', function(done) {
+    return gulp.src(jsFiles)
         .pipe(gulp.dest(out + '/assets/js'))
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest(out + '/assets/js'))
         .pipe(gulpif( (out != 'dev'), uglify() ))
-        .pipe(gulp.dest('js'))
+        .pipe(gulp.dest('js'));
 });
 
-gulp.task('css', function() {
-    return gulp.start('sass');
-});
+gulp.task('css', gulp.parallel('sass'));
 
-gulp.task('html', function() {
-    return gulp.start('pug');
-});
+gulp.task('html', gulp.parallel('pug'));
 
-gulp.task('bower', function() {
-    gulp.src('./bower_components/**/*')
-        .pipe(gulp.dest(out + '/bower'));
+gulp.task('bower', function(done) {
+    return gulp.src('./bower_components/**/*')
+        .pipe(gulp.dest(out + '/bower')) && done();;
 });
 
 // add watchers
-gulp.task('init', function() {
+gulp.task('init', function(done) {
     // sass
-    gulp.watch('sass/**/*.{scss,sass}', ['sass']);
+    gulp.watch('sass/**/*.{scss,sass}', gulp.parallel('sass'));
 
     // pug
-    gulp.watch(pugFiles, ['pug']);
-    gulp.watch(jsFiles, ['pug', 'js']);
+    gulp.watch(pugFiles, gulp.parallel('pug'));
+    gulp.watch(jsFiles, gulp.series('js', 'pug'));
 
     // assets
-    gulp.watch('assets/favicon/**/*', ['assets:favicon']);
-    gulp.watch(imagesFiles, ['assets:images']);
-    gulp.watch(fontFiles, ['assets:fonts']);
-    gulp.watch(audioFiles, ['assets:audio']);
+    gulp.watch('assets/favicon/**/*', gulp.parallel('assets:favicon'));
+    gulp.watch(imagesFiles, gulp.parallel('assets:images'));
+    gulp.watch(fontFiles, gulp.parallel('assets:fonts'));
+    gulp.watch(audioFiles, gulp.parallel('assets:audio'));
+
+    done();
 });
 
 // clean only html,css for now
-gulp.task('clean', function () {
+gulp.task('clean', function (done) {
     del.sync([
         out + '/**/*.css',
         out + '/**/*.html',
         '!' + out + '/.git'
     ]);
+    done();
 });
 
-gulp.task('default', function() {
-    gulp.start('clean', 'css', 'js', 'html', 'bower', 'assets', 'init');
-});
+gulp.task('default', gulp.series(
+    'clean', gulp.parallel(
+        'css', 'js', 'html', 'bower', 'assets'
+    ),
+    'init'
+));

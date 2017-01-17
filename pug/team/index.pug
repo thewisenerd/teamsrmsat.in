@@ -32,11 +32,18 @@ mixin member(name, pp, desg, text, ...links)
         a.show-more
 
 block page-wrapper
-    //- .page-wrapper.container-fluid.page-section--header
-    //-     .container
-    //-         .row.u-text-center
-    //-             p.section-heading.u-heading-slab The Team
-    //-             p.section-text
+    .page-wrapper.container-fluid.page-section--header
+        .container
+            .row.u-text-center
+                ul#slidesMenu.section-heading
+                    li(data-menuanchor='core')
+                        a.u-heading-slab.active(data-src='core' href='javascript:void(0)') Core Team
+                    li(data-menuanchor='sfd')
+                        a.u-heading-slab(data-src='sfd' href='javascript:void(0)') Spaceflight Dynamics
+                    li(data-menuanchor='astrionics')
+                        a.u-heading-slab(data-src='astrionics' href='javascript:void(0)') Astrionics
+                    li(data-menuanchor='mechsystems')
+                        a.u-heading-slab(data-src='mechsystems' href='javascript:void(0)') Mechanical Systems
 
     div#main-wrapper
         .section.fp-auto-height
@@ -44,8 +51,8 @@ block page-wrapper
                 .page-wrapper.container-fluid.page-section--content
 
                     .container-fluid.tp-container
-                        .container.masonry--heading
-                            .row.u-text-center Core Team
+                        //- .container.masonry--heading
+                        //-     .row.u-text-center Core Team
 
                         //- ROW-1
                         .container.masonry--container
@@ -138,8 +145,8 @@ block page-wrapper
                 .page-wrapper.container-fluid.page-section--content
                     .container-fluid.tp-container
 
-                        .container.masonry--heading
-                            .row.u-text-center Spaceflight Dynamics
+                        //- .container.masonry--heading
+                        //-     .row.u-text-center Spaceflight Dynamics
 
                         .container.masonry--container
                             +member(
@@ -251,12 +258,39 @@ block page-wrapper
                                     ''
                             )
 
+                        .container.masonry--container
+                            +member(
+                                'Tarana Parvez Kaovasia',
+                                'tarana.jpg',
+                                'ADCS',
+                                ''
+                            )
+
+                            +member(
+                                'Sarthak Joshi',
+                                'sarthak.jpg',
+                                'SFD',
+                                ''
+                            )
+
+                            +member(
+                                'Anamika K.R.',
+                                'anamika.jpg',
+                                'SFD'
+                            )
+
+                            +member(
+                                'Sanhita Padia',
+                                'sanhita.jpg',
+                                'SFD'
+                            )
+
             .slide
                 .page-wrapper.container-fluid.page-section--content
                     .container-fluid.tp-container
 
-                        .container.masonry--heading
-                            .row.u-text-center Astrionics
+                        //- .container.masonry--heading
+                        //-     .row.u-text-center Astrionics
 
                         .container.masonry--container
                             +member(
@@ -295,12 +329,80 @@ block page-wrapper
                                     ''
                             )
 
+                        .container.masonry--container
+                            +member(
+                                'Kshema George',
+                                'kshema.jpg',
+                                'TTC'
+                            )
+                            +member(
+                                'Mihir Patil',
+                                'mihir.jpg',
+                                'TTC'
+                            )
+                            +member(
+                                'Shivam Sharma',
+                                'shivam2.jpg',
+                                'TTC'
+                            )
+                            +member(
+                                'Ankit Patel',
+                                'ankit.jpg',
+                                'Power'
+                            )
+                            +member(
+                                'Revanth Chowdary',
+                                'revanth.jpg',
+                                'Power'
+                            )
+                            +member(
+                                'G. Kaavya',
+                                'kaavya.jpg',
+                                'OBSW'
+                            )
+                            +member(
+                                'Moinak Bandyopadhyay',
+                                'moinak.jpg',
+                                'OBHW'
+                            )
+                            +member(
+                                'Snehasish Dawn',
+                                'dawn.jpg',
+                                'OBHW'
+                            )
+                            +member(
+                                'Hemant Choudhary',
+                                'hemant.jpg',
+                                'OBHW'
+                            )
+                            +member(
+                                'Vatsal Bhatia',
+                                'vatsal.jpg',
+                                'OBHW'
+                            )
+                            +member(
+                                'Rounak Datta',
+                                'rounak.jpg',
+                                'OBSW'
+                            )
+                            +member(
+                                'Isha Mohan',
+                                'isha.jpg',
+                                'OBHW'
+                            )
+                            +member(
+                                'Darsh Ashik Naik',
+                                'darsh.jpg',
+                                'OBSW'
+                            )
+
+
             .slide
                 .page-wrapper.container-fluid.page-section--content
                     .container-fluid.tp-container
 
-                        .container.masonry--heading
-                            .row.u-text-center Mechanical Systems
+                        //- .container.masonry--heading
+                        //-     .row.u-text-center Mechanical Systems
 
                         .container.masonry--container
                             +member(
@@ -329,6 +431,14 @@ block page-wrapper
                                     '' +
                                     ''
                             )
+
+                        .container.masonry--container
+                            +member(
+                                'Aditya Patil',
+                                'aditya.jpg',
+                                'Structure'
+                            )
+
 
 
 block page-scripts

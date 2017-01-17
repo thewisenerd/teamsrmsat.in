@@ -25,10 +25,45 @@ $maxMembers: (2 * 3 * 4);
     color: $color-black;
 
     .section-heading {
-        font-size: $fontSize-larger--em;
+        font-family: $fontRaleway;
+        font-size: $fontSize-large--em;
 
         padding: 0;
         margin: 0;
+
+        list-style: none;
+
+        text-align: center;
+
+        li {
+            display: inline-block;
+            padding: 0 0.5rem;
+
+
+            a {
+                &,
+                &:link,
+                &:hover,
+                &:visited,
+                &:active {
+                    text-decoration: none;
+                    color: $color-black;
+                    font-weight: $fontRaleway-normal;
+                    font-family: $fontRaleway;
+
+                    transition: font-size $anim-short ease-in;
+                }
+
+                &:hover {
+                    color: $color-black--a80;
+                }
+
+                &.active {
+                    font-size: $fontSize-large--em;
+                    transition: font-size $anim-short ease-in;
+                }
+            }
+        }
     }
 
     .section-text {
@@ -47,7 +82,7 @@ $maxMembers: (2 * 3 * 4);
 
     .tp-container {
         padding-top: 1em;
-        padding-bottom: 6em; //- hack
+        padding-bottom: 8em; //- hack
 
         a,
         a:link,
@@ -331,13 +366,4 @@ $maxMembers: (2 * 3 * 4);
     position: fixed;
     top: 0;
     left: 0;
-}
-
-.fp-slidesNav.bottom {
-    bottom: 51px !important;
-    margin-left: none !important;
-    text-align: center;
-    padding-top: 1em;
-    width: 100%;
-    background: white;
 }

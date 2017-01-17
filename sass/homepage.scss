@@ -293,3 +293,9 @@ a.btn {
 .flickity-page-dots .dot.is-selected {
     background: white;
 }
+
+.footer--column {
+    .footer--text, .footer--img {
+        display: none;
+    }
+}

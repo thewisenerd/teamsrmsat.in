@@ -70,5 +70,5 @@ ready(function() {
     resize_worker();
     // scroll_worker();
 
-    members_carousel();
+    // members_carousel();
 });

@@ -15,12 +15,26 @@ block page-navbar
     +navbar('home')
 
 block page-wrapper
-    .page-wrapper.container-fluid.page-wrapper--intro
-        .container-fluid.container--intro
-            .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-1.jpg')
-            .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-2.jpg')
-            .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-3.jpg')
-            .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-4.jpg')
+    .page-wrapper.container-fluid.container-intro
+        .container.container--intro
+            .row
+                .xs-twelve.sm-twelve.md-push-by-eight.md-four.column.u-text-center
+                    img.u-img-responsive(src='/assets/images/sat-render.gif' alt='Render of Satellite Design' title='Render of Satellite Design')
+                .xs-twelve.sm-twelve.md-pull-by-four.md-eight.column
+                    p.lead SRMSAT&nbsp;-&nbsp;2: India&rsquo;s first University class micro-satellite on a mission to the moon!
+                    ul
+                        li Primary objective of SRMSAT&nbsp;-&nbsp;2 is to attain a stable lunar orbit achieved by low energy transfer exploiting Weak Stability Boundary Theory.
+                        li It is a technological demonstration to demonstrate the capability of COTS components beyond the regimes of earth.
+                        li The project&rsquo;s preliminary design is currently under review by Indian Space Research Organization (ISRO).
+                    p.p-btn.u-text-center
+                        a.btn.btn--default.btn--outline.btn--lg(href='/srmsat2/') Learn More
+
+    //- .page-wrapper.container-fluid.page-wrapper--intro
+    //-     .container-fluid.container--intro
+    //-         .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-1.jpg')
+    //-         .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-2.jpg')
+    //-         .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-3.jpg')
+    //-         .container--intro-cell(data-flickity-bg-lazyload='/assets/images/splash-4.jpg')
 
     a(name='about')
     .page-wrapper.container-fluid.container--content.container--content-odd

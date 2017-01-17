@@ -30,13 +30,16 @@ body {
 }
 
 .page-wrapper--intro {
-    padding: 0;
+    //- padding: 0; flickity
     margin: 0;
     width: 100%;
 }
 
 .container--intro {
-    padding: 0;
+    // padding: 0; // flickity
+    padding-top: 1em; // no flickity
+    padding-bottom: 1em; // no flickity
+
 
     color: $color-white;
 

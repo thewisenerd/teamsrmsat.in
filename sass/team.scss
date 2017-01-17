@@ -319,6 +319,7 @@ $maxMembers: (2 * 3 * 4);
 @media (max-width: 540px) {
     .tingle-modal {
         top: $navbar--min-height !important;
+        z-index: $zIndex-8--tingle-modal !important;
     }
     .tingle-modal__close {
         position: relative !important;

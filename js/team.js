@@ -4,7 +4,7 @@ var modal = new tingle.modal({
     footer: false,
     stickyFooter: false,
     closeLabel: "Close",
-    // cssClass: ['masonry--panel'],
+    // cssClass: ['fp-normal-scroll'],
     onOpen: function() {
         console.log('modal open');
     },
@@ -21,7 +21,6 @@ var modal = new tingle.modal({
 
 $('a.show-more').on('click', function() {
     console.log("toggle+1");
-    // var p = $(this).siblings('.extra-info-wrapper')[0];
     var p = $(this).parent('.masonry--panel')[0];
     modal.setContent(p.innerHTML);
     modal.open();
@@ -35,5 +34,6 @@ $(document).ready(function() {
         verticalCentered: true,
         slidesNavigation: true,
         slidesNavPosition: 'bottom',
+        normalScrollElements: '.tingle-modal',
     });
 });

@@ -17,6 +17,8 @@
   ],
   "devDependencies": {
     "tingle": "^0.9.0",
-    "fullpage.js": "^2.9.2"
+    "fullpage.js": "^2.9.2",
+    "flickity": "^2.0.5",
+    "flickity-bg-lazyload": "^1.0.0"
   }
 }

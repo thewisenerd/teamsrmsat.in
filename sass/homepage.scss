@@ -29,9 +29,14 @@ body {
     background: transparent;
 }
 
+.page-wrapper--intro {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
 .container--intro {
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding: 0;
 
     color: $color-white;
 
@@ -71,6 +76,12 @@ body {
         .u-img-responsive {
             width: 50%;
         }
+    }
+
+    .container--intro-cell {
+        width: 100%;
+        background: no-repeat center center;
+        background-size: cover;
     }
 }
 
@@ -234,4 +245,51 @@ a.btn {
     &:hover {
         color: $color-white;
     }
+}
+
+// MQ: xs
+@media (max-width: $screen-xs-max) {
+    .container--intro-cell {
+        height: 360px;
+    }
+}
+
+// MQ: sm
+@media (min-width: $screen-xs) and (max-width: $screen-sm-max) {
+    .container--intro-cell {
+        height: 540px;
+    }
+}
+
+// MQ: md
+@media (min-width: $screen-sm) and (max-width: $screen-md-max) {
+    .container--intro-cell {
+        height: 540px;
+    }
+}
+
+// MQ: lg
+@media (min-width: $screen-md) {
+    .container--intro-cell {
+        height: 540px;
+    }
+}
+
+.flickity-page-dots {
+  bottom: 0px;
+}
+
+.flickity-page-dots .dot {
+    width: 12px;
+    height: 12px;
+    opacity: 1;
+    background: #333;
+    border: 2px solid black;
+    box-shadow: 0 0 1px 0px black inset, 0 0 1px 0px black;
+
+    transform: scale(0.999999);
+}
+// fill-in selected dot
+.flickity-page-dots .dot.is-selected {
+    background: white;
 }

@@ -48,15 +48,25 @@ var bind_resize = function() {
 }
 
 var members_carousel = function() {
-    var multiSlides = document.querySelector('.js_multislides');
+    var elem = document.querySelector('.container--intro');
+    var flkty = new Flickity( elem, {
+        imagesLoaded: true,
+        contain: true,
+        cellAlign: 'center',
+        cellSelector: '.container--intro-cell',
+        bgLazyLoad: true,
+        pageDots: true,
+        wrapAround: true,
+        autoPlay: 3500,
+    });
 };
 
 ready(function() {
     bind_resize();
-    bind_scroll();
+    // bind_scroll();
 
     resize_worker();
-    scroll_worker();
+    // scroll_worker();
 
     members_carousel();
 });

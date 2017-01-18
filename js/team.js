@@ -1,5 +1,6 @@
 console.log("hello world :]");
 
+/*
 var modal = new tingle.modal({
     footer: false,
     stickyFooter: false,
@@ -25,6 +26,7 @@ $('a.show-more').on('click', function() {
     modal.setContent(p.innerHTML);
     modal.open();
 });
+*/
 
 var slideMenuHandler = function(anchorLink, index, slideIndex, direction, nextSlideIndex){
     $('#slidesMenu li a').removeClass('active');

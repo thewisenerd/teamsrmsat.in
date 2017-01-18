@@ -230,12 +230,26 @@ $maxMembers: (2 * 3 * 4);
 
             .links {
                 width: 100%;
-                text-align: left;
+                text-align: center;
 
-                font-family: $fontRaleway;
-                font-size: $fontSize-base--em;
-                font-weight: $fontRaleway-normal;
-            }
+                //- font-family: $fontRaleway;
+                font-size: $fontSize-large--em;
+                //- font-weight: $fontRaleway-normal;
+
+                a {
+                    &,
+                    &:link,
+                    &:hover,
+                    &:visited,
+                    &:active {
+                        color: $color-black--a80;
+                    }
+
+                    &:hover {
+                        color: $color-black;
+                    }
+                }
+            } // links
 
         } // .masonry--panel
     } // .masonry--container

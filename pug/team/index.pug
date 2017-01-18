@@ -20,15 +20,17 @@ mixin member(name, pp, desg, text, ...links)
         img.img-thumbnail(class='img-thumbnail' src='/assets/images/profile/'+pp alt='Photo of '+name)
         p.name #{name}
         p.desg #{desg}
+        .links
+            each link in links
+                if (link.title == 'Researchgate')
+                    a(href=link.link target='_blank' title='Researchgate')
+                        .fa.fa-researchgate-square
+                else if (link.title == 'LinkedIn')
+                    a(href=link.link target='_blank' title='LinkedIn')
+                        .fa.fa-linkedin-square
         .extra-info-wrapper
             p.text !{text}
 
-            ul.links
-                each link in links
-                    if (link.blank == 1)
-                        li: a(href=link.link target='_blank') #{link.title}
-                    else
-                        li: a(href=link.link) #{link.title}
         a.show-more
 
 block page-wrapper
@@ -270,14 +272,22 @@ block page-wrapper
                                     ''
                             )
 
-                        .container.masonry--container
                             +member(
-                                'Tarana Parvez Kaovasia',
+                                'Tarana Parvez K.',
                                 'tarana.jpg',
                                 'ADCS',
                                 ''
                             )
 
+                            +member(
+                                'Shamik Mitra Mustafi',
+                                'shamik.jpg',
+                                'SFD',
+                                ''
+                            )
+
+
+                        .container.masonry--container
                             +member(
                                 'Sarthak Joshi',
                                 'sarthak.jpg',
@@ -460,10 +470,20 @@ block page-wrapper
                             +member(
                                 'Aditya Patil',
                                 'aditya.jpg',
-                                'Structure'
+                                'Mechanical Systems'
                             )
 
+                            +member(
+                                'Krishna Thakkar',
+                                'krishna.jpg',
+                                'Mechanical Systems'
+                            )
 
+                            +member(
+                                'Abhav Prasad',
+                                'abhav.jpg',
+                                'Mechanical Systems'
+                            )
 
 block page-scripts
     script.

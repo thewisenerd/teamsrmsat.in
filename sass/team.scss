@@ -388,12 +388,18 @@ $maxMembers: (2 * 3 * 4);
     left: 0;
 }
 
-@media (min-width: $grid-float-breakpoint) {
+@media (min-width: $screen-md) {
     .page-section--header {
-        padding-top: 2em;
+        padding-top: 1em;
 
         .section-heading {
             font-size: $fontSize-large--em;
         }
+    }
+}
+
+@media (min-width: $screen-lg) {
+    .page-section--header {
+        padding-top: 2em;
     }
 }

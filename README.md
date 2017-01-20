@@ -25,6 +25,7 @@ particular order).
  - normalize.css by Nicolas Gallagher and Jonathan Neal - https://github.com/necolas/normalize.css - Licensed under MIT License
  - sass-burger by Joren Van Hee - https://github.com/jorenvanhee/sass-burger
  - SpinKit by Tobias Ahlin - https://github.com/tobiasahlin/SpinKit - Licensed under MIT License
+ - fullpage.js by Alvaro Trigo - https://github.com/alvarotrigo/fullPage.js - Licensed under MIT License
 
 license
 -------

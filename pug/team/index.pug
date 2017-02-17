@@ -18,8 +18,8 @@ block page-navbar
 mixin member(name, pp, desg, text, ...links)
     .masonry--panel
         img.img-thumbnail(class='img-thumbnail' src='/assets/images/profile/'+pp alt='Photo of '+name)
-        p.name #{name}
-        p.desg #{desg}
+        p.name !{name}
+        p.desg !{desg}
         .links
             each link in links
                 if (link.title == 'Researchgate')
@@ -280,7 +280,7 @@ block page-wrapper
                             +member(
                                 'Shamik Mitra Mustafi',
                                 'shamik.jpg',
-                                'SFD',
+                                'ADCS',
                                 ''
                             )
 
@@ -459,6 +459,15 @@ block page-wrapper
                                 'Surya Bhan Singh',
                                 'surya.jpg',
                                 'Structure',
+                                    '' +
+                                    '' +
+                                    ''
+                            )
+
+                            +member(
+                                'Saksham Chaturvedi',
+                                'saksham.jpg',
+                                'Structure &amp; Propulsion',
                                     '' +
                                     '' +
                                     ''
